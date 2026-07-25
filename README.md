@@ -189,10 +189,36 @@ CSV File → Blob Storage → Linked Service → Source Dataset
 </details>
 
 <details>
-<summary><strong>🚀 Week 6 — Apache Spark (Advanced)</strong> <code>Coming Soon</code></summary>
+<summary><strong>✅ Week 6 — PySpark Architecture & Components</strong> <code>Spark Execution Model</code></summary>
 <br>
 
-Content will be added upon completion.
+| Aspect | Details |
+|--------|---------|
+| **Topic** | Spark Architecture, Lazy Evaluation, DAG, DataFrame Operations & File Formats |
+| **Dataset** | Synthetic sales dataset (1,000 records, 17 columns) |
+| **Notebook** | [`Spark-Questions.ipynb`](Week-06-Spark-Assignment/Spark-Questions.ipynb) |
+
+**15 Questions Covering:**
+
+| # | Concept |
+|---|---------|
+| Q1 | Driver, Cluster Manager & Executor roles |
+| Q2 | Lazy Evaluation & DAG optimization |
+| Q3 | Reading CSV with `header=True`, `inferSchema=True` |
+| Q4 | CSV (row-based) vs Parquet (columnar) storage |
+| Q5 | Filter + Select (Electronics category) |
+| Q6 | Rename column & cast data type |
+| Q7 | Lineage Graph (DAG) fault tolerance |
+| Q8 | Multi-condition filter with AND (`status=Completed AND amount>1000`) |
+| Q9 | Predicate Pushdown in Parquet |
+| Q10 | Add derived column (`final_price = base_price × 1.18`) |
+| Q11 | Transformations vs Actions (`filter`/`select` vs `show`/`count`) |
+| Q12 | Read Parquet → filter nulls → write CSV (ETL pipeline) |
+| Q13 | Client Mode vs Cluster Mode |
+| Q14 | Multi-condition filter with OR (`region=North OR priority=High`) |
+| Q15 | `.show(5)` vs `.collect()` — memory safety |
+
+🛠️ **Tech:** PySpark · Parquet · CSV · Jupyter
 
 </details>
 
@@ -262,7 +288,7 @@ Content will be added upon completion.
 │   ├── PySpark-Assignment-report.pdf
 │   └── README.md
 │
-├── 📁 Week-06-Spark-Advanced/          # 🔜 Coming Soon
+├── 📁 Week-06-Spark-Assignment/        # PySpark Architecture & DataFrame ops
 ├── 📁 Week-07-Databricks/              # 🔜 Coming Soon
 └── 📁 Week-08-Final-Project/           # 🔜 Coming Soon
 ```
@@ -297,7 +323,7 @@ Week 2 ████████████████████████ 
 Week 3 ████████████████████████ 100%  ✅ Advanced SQL & Subqueries
 Week 4 ████████████████████████ 100%  ✅ Azure Data Pipeline
 Week 5 ████████████████████████ 100%  ✅ Apache Spark
-Week 6 ██████████████░░░░░░░░░░  60%  🔄 Apache Spark (Advanced)
+Week 6 ████████████████████████ 100%  ✅ PySpark Architecture & Components
 Week 7 ░░░░░░░░░░░░░░░░░░░░░░░░   0%  📅 Databricks
 Week 8 ░░░░░░░░░░░░░░░░░░░░░░░░   0%  🚀 Final Project
 ```
