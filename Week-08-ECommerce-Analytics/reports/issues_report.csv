@@ -1,0 +1,6 @@
+Issue,Count
+missing_customer_ids,12
+invalid_dates,0
+invalid_emails,500
+invalid_order_item_references,0
+negative_quantity_rows,48

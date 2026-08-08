@@ -223,18 +223,57 @@ CSV File → Blob Storage → Linked Service → Source Dataset
 </details>
 
 <details>
-<summary><strong>🚀 Week 7 — Databricks</strong> <code>Coming Soon</code></summary>
+<summary><strong>✅ Week 7 — Python & Pandas Data Cleaning</strong> <code>Tableau Superstore</code></summary>
 <br>
 
-Content will be added upon completion.
+| Aspect | Details |
+|--------|---------|
+| **Topic** | Python basics & a complete 7-step data-cleaning pipeline with Pandas/NumPy |
+| **Dataset** | Tableau Sample – Superstore (9,994 rows, 21 columns) |
+| **Notebook** | [`python_basics_data_cleaning.ipynb`](Week-07-Databricks/python_basics_data_cleaning.ipynb) |
+| **Output** | [`superstore_cleaned.csv`](Week-07-Databricks/superstore_cleaned.csv) — 9,994 × 23 · 0 missing · 0 duplicates |
+
+**7-Step Pipeline:**
+| Step | Action |
+|------|--------|
+| 1 | Load CSV into a DataFrame (`read_csv`) |
+| 2 | Explore (`head/tail/shape/columns/dtypes/info/describe`) |
+| 3 | Handle missing values — `mode()` for categories/IDs, `median()` for `Sales` |
+| 4 | Basic ops — boolean filtering (`&`), `loc` / `iloc` selection |
+| 5 | Remove duplicates (`drop_duplicates()`) |
+| 6 | Feature engineering — `Unit_Price`, `total_amount = price × quantity` |
+| 7 | Save & verify (`to_csv` + reload check) |
+
+**Key Numbers:** missing values `295 → 0` · duplicates `10 → 0` · median order ≈ **$54.40** · Consumer = largest segment (**5,191 orders**)
+
+🛠️ **Tech:** Python · Pandas · NumPy · Jupyter
 
 </details>
 
 <details>
-<summary><strong>🚀 Week 8 — Final Project</strong> <code>Coming Soon</code></summary>
+<summary><strong>✅ Week 8 — E-Commerce Order Analytics</strong> <code>Final Project</code></summary>
 <br>
 
-Content will be added upon completion.
+| Aspect | Details |
+|--------|---------|
+| **Topic** | End-to-end analytics pipeline: generate → clean → load → SQL → report → test |
+| **Database** | SQLite (`ecommerce.db`), 4 tables, 500+ customers/products/orders |
+| **Notebooks** | [`DB-Setup`](Week-08-ECommerce-Analytics/DB-Setup.ipynb) + [`Section A–F`](Week-08-ECommerce-Analytics) |
+| **Reports** | [`issues_report.csv`](Week-08-ECommerce-Analytics/reports/issues_report.csv) |
+
+**Sections:**
+| Section | Focus |
+|---------|-------|
+| A | Synthetic data generation with intentional quality issues |
+| B | Cleaning, normalization & validation |
+| C | Basic SQL analytics (revenue, top 10 customers, monthly/status/regional) |
+| D | Advanced SQL (CTEs, window functions, `RANK()`, `NTILE()`, `LAG()`) |
+| E | Python–SQL integration & executive dashboard |
+| F | 7 edge-case / data-quality tests |
+
+**Data Quality Handled:** 12 missing customer IDs · 48 negative-quantity rows · invalid emails flagged.
+
+🛠️ **Tech:** Python · Pandas · SQLite · SQL · Jupyter
 
 </details>
 
@@ -289,8 +328,21 @@ Content will be added upon completion.
 │   └── README.md
 │
 ├── 📁 Week-06-Spark-Assignment/        # PySpark Architecture & DataFrame ops
-├── 📁 Week-07-Databricks/              # 🔜 Coming Soon
-└── 📁 Week-08-Final-Project/           # 🔜 Coming Soon
+│   ├── Spark-Questions.ipynb
+│   ├── data/
+│   └── README.md
+│
+├── 📁 Week-07-Databricks/              # Python & Pandas data cleaning
+│   ├── python_basics_data_cleaning.ipynb
+│   ├── sample.csv
+│   ├── superstore_cleaned.csv
+│   └── README.md
+│
+└── 📁 Week-08-ECommerce-Analytics/     # Final project — order analytics pipeline
+    ├── DB-Setup.ipynb
+    ├── Section-A to Section-F notebooks
+    ├── data/ · reports/ · ecommerce.db
+    └── README.md
 ```
 
 ---
@@ -324,8 +376,8 @@ Week 3 ████████████████████████ 
 Week 4 ████████████████████████ 100%  ✅ Azure Data Pipeline
 Week 5 ████████████████████████ 100%  ✅ Apache Spark
 Week 6 ████████████████████████ 100%  ✅ PySpark Architecture & Components
-Week 7 ░░░░░░░░░░░░░░░░░░░░░░░░   0%  📅 Databricks
-Week 8 ░░░░░░░░░░░░░░░░░░░░░░░░   0%  🚀 Final Project
+Week 7 ████████████████████████ 100%  ✅ Python & Pandas Data Cleaning
+Week 8 ████████████████████████ 100%  ✅ E-Commerce Order Analytics
 ```
 
 ---
