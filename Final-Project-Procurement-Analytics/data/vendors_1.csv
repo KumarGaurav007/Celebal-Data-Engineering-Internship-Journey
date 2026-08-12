@@ -1,0 +1,5101 @@
+vendor_id,vendor_name,region,risk_rating
+V04649,Dixon-Hughes,LATAM,Medium
+V04163,Hansen PLC,EMEA,High
+V03664,"Klein, Chavez and Lane",APAC,Medium
+V03444,Perez-Harmon,APAC,High
+V02551,Taylor Inc,LATAM,Low
+V04027,Hernandez-Foley,APAC,High
+V01135,Green-Carter,APAC,High
+V02755,Green Group,LATAM,High
+V02687,Kerr-Gonzalez,EMEA,Medium
+V02107,   beltran inc  ,AMER,
+V02074,"Mayer, Palmer and Miranda",AMER,Medium
+V01734,"Brown, Meyer and Cunningham",AMER,Medium
+V00475,Blake Group,LATAM,Low
+V04542,Mckinney-Higgins,LATAM,Medium
+V01879,"Mayer, Fowler and Livingston",EMEA,Medium
+V03656,"Chapman, Myers and Decker",APAC,
+V02248,Jackson-Bradley,LATAM,Medium
+V04192,Lara-Baker,EMEA,High
+V04263,Rodgers-Warren,LATAM,Low
+V01853,May Inc,APAC,Medium
+V00622,Morris-Brewer,EMEA,Medium
+V00972,Foster-Williams,LATAM,High
+V04094,Rios-Robertson,LATAM,
+V00176,King-Miller,APAC,Low
+V00452,Stanley PLC,LATAM,High
+V03403,Garcia Inc,EMEA,Medium
+V00152,"Simmons, Meadows and Griffin",AMER,Medium
+V02950,Hammond LLC,EMEA,High
+V02088,Collins-Cox,AMER,High
+V03814,Hughes-Nicholson,AMER,
+V02450,Fitzgerald-Brewer,APAC,Low
+V04481,Schneider LLC,AMER,Low
+V00714,   hudson-sanchez  ,AMER,High
+V02314,Austin-Hamilton,APAC,Low
+V02516,Lee-Gregory,LATAM,
+V01208,Walton LLC,EMEA,Medium
+V02497,Chambers Group,LATAM,Low
+V03813,Simmons LLC,AMER,Medium
+V00701,Turner-Stout,AMER,Low
+V01532,"Robinson, Rodriguez and Chen",AMER,Low
+V04570,Watts-Travis,EMEA,Low
+V03688,"Santos, Thomas and Mills",AMER,Low
+V02325,Mack Inc,EMEA,Low
+V04237,Aguirre LLC,EMEA,Medium
+V02188,"Cannon, Richard and Jenkins",LATAM,High
+V00364,"Kelley, Nguyen and Vang",AMER,High
+V01081,Humphrey-Baker,APAC,Low
+V03331,Walsh-Mccarthy,APAC,Low
+V00640,Boyle-Smith,LATAM,High
+V03566,   johnston ltd  ,AMER,High
+V01993,Harvey-Diaz,AMER,Medium
+V01213,West-Wilson,EMEA,High
+V01414,"Herman, Bailey and Richmond",AMER,Low
+V03155,Rodriguez-White,APAC,High
+V01511,Nelson-Dean,AMER,High
+V03583,"Banks, Gray and Gonzales",AMER,High
+V02187,Hernandez-Hernandez,APAC,
+V04006,"Dawson, Edwards and Castaneda",EMEA,High
+V02580,Boyle-Torres,EMEA,Low
+V00163,"Smith, Gilmore and Johnston",AMER,Medium
+V00791,"Porter, Schultz and Allen",LATAM,Medium
+V02285,Martinez Inc,APAC,Low
+V02023,Mcpherson Ltd,AMER,Low
+V02316,Rhodes-Holland,AMER,Medium
+V00881,Watson Ltd,APAC,High
+V04073,"Alexander, Vincent and Pacheco",AMER,Medium
+V02680,Howard-Robinson,LATAM,Medium
+V02042,Johnson PLC,AMER,Medium
+V04934,"Ayers, Jacobson and Wright",APAC,High
+V02553,Palmer-Pearson,APAC,Low
+V01663,Perez Group,LATAM,Low
+V01514,Compton LLC,AMER,Low
+V00143,Gibson Ltd,EMEA,Medium
+V00360,Boone-Simmons,AMER,High
+V01385,Lopez-Fletcher,EMEA,Medium
+V03531,Mccoy and Sons,APAC,Low
+V00725,Wagner LLC,AMER,Medium
+V01927,Rogers Inc,AMER,Medium
+V01835,Jackson-Neal,EMEA,Medium
+V02353,"Garza, Carr and Gregory",LATAM,Low
+V04664,White-Holland,AMER,Low
+V03732,"King, Garrett and Maddox",APAC,High
+V00402,Thompson-James,LATAM,High
+V04541,"Merritt, Douglas and Chung",AMER,Medium
+V01125,   sullivan-doyle  ,LATAM,Medium
+V04044,Shepard Ltd,EMEA,Low
+V04289,Mitchell-Hudson,AMER,High
+V04347,Phelps-Edwards,LATAM,Medium
+V03249,Bailey PLC,LATAM,High
+V03964,"Campbell, Brewer and Baker",LATAM,Medium
+V03030,Moore-Hall,AMER,Medium
+V01354,Sparks-Eaton,APAC,Medium
+V01185,"Edwards, Rodgers and Davis",LATAM,Low
+V02825,"Walker, Foster and Medina",AMER,Low
+V00827,"Mccarthy, Evans and Mendez",EMEA,Low
+V00420,Thompson Ltd,LATAM,Low
+V04046,Galloway PLC,AMER,High
+V03584,"Sharp, Ramirez and Mejia",LATAM,Low
+V02907,"Grimes, Arnold and Lawson",AMER,Medium
+V01154,Anderson-Reyes,LATAM,High
+V02563,Jensen-Barnes,APAC,Low
+V02435,Williams-Hernandez,AMER,High
+V00353,Smith and Sons,APAC,Low
+V01049,"Larsen, Hernandez and Ward",AMER,Medium
+V02772,Harris Ltd,LATAM,Low
+V03516,"Ford, Armstrong and Carroll",AMER,Medium
+V00686,"Boyd, Gutierrez and Hill",LATAM,Low
+V03724,Lewis-Castro,EMEA,
+V00596,Shaw-Carr,APAC,Low
+V02532,Allen-Peterson,LATAM,Medium
+V00890,"Shaffer, Garcia and Richardson",AMER,Medium
+V00202,White-Lewis,AMER,High
+V04741,"Harding, Gomez and Jacobs",APAC,Medium
+V04448,Smith LLC,APAC,Medium
+V00342,"Winters, Newman and Brown",AMER,Medium
+V03307,Cardenas-Lopez,EMEA,High
+V03833,Daniels and Sons,AMER,Low
+V03502,"Alexander, Duran and Benton",APAC,Medium
+V04658,"Jenkins, Baker and Coleman",AMER,Medium
+V00254,"Garcia, Martin and Jenkins",APAC,Low
+V01576,"Ramos, Gomez and Edwards",EMEA,Medium
+V01725,"Shaffer, Lewis and Davidson",AMER,Medium
+V00857,"Adams, Hodge and Duke",AMER,Low
+V01620,Cooper Inc,LATAM,Low
+V04766,"Stevens, Howell and Mitchell",APAC,High
+V01562,"Jones, Conrad and Clark",EMEA,High
+V03222,Smith-Carrillo,EMEA,Low
+V03289,"Ramsey, Perez and Miller",AMER,Low
+V04613,"Richardson, Stephens and Barnes",AMER,Low
+V02258,Aguilar-Holland,AMER,Low
+V01727,"Pierce, Wang and Wilson",LATAM,High
+V02653,Fox PLC,EMEA,High
+V04655,"Palmer, Edwards and Bullock",EMEA,Low
+V02011,"Weaver, Anderson and Reed",LATAM,High
+V02323,Gutierrez-Marshall,LATAM,Low
+V03197,Cowan Inc,AMER,Low
+V04510,"Powers, Carrillo and Harris",AMER,High
+V04084,"Meyer, Ray and Stephenson",LATAM,Medium
+V03423,Bell Ltd,AMER,Low
+V04069,"Sharp, Jackson and Garcia",EMEA,
+V01218,"Powers, Clements and Cox",LATAM,Low
+V02603,Hall-Williams,LATAM,Medium
+V01789,Wilson-Carlson,LATAM,Medium
+V02956,"Gonzalez, Lopez and Williams",AMER,Low
+V01284,"Campbell, Pruitt and Short",APAC,Low
+V01294,Miller Inc,APAC,Medium
+V00755,"Sanders, Ayala and Johnson",EMEA,High
+V03084,Phillips and Sons,EMEA,Medium
+V02571,"Wilson, Roberts and Lee",APAC,Low
+V04179,Sanders-Morse,AMER,High
+V00426,"Brown, Romero and Collins",EMEA,Low
+V00212,King-Martinez,LATAM,High
+V04215,"Wilson, Madden and Austin",APAC,Medium
+V02570,Smith-Howard,APAC,High
+V04894,Peterson PLC,EMEA,Low
+V02324,"Carroll, King and Scott",AMER,Low
+V02219,Vazquez Ltd,APAC,Low
+V00204,"Beard, Peters and Black",APAC,Low
+V04848,Williams and Sons,EMEA,Medium
+V03768,Moore-Carroll,AMER,Medium
+V01100,Hill Group,APAC,High
+V00052,Walker LLC,AMER,Low
+V01617,Todd Inc,APAC,Medium
+V02297,"Castillo, Fuller and Adams",AMER,High
+V02628,Torres Ltd,APAC,High
+V04654,Villa-Baxter,EMEA,High
+V04228,"Brown, Brooks and Jackson",AMER,Medium
+V01067,"Byrd, Oliver and Martinez",APAC,Medium
+V04264,Hicks Ltd,LATAM,Low
+V01437,Austin-Duran,EMEA,High
+V03545,Conrad-Buck,EMEA,Low
+V04248,"Webster, Garza and Abbott",APAC,High
+V02944,Murphy-Gomez,AMER,Medium
+V01556,Williams and Sons,LATAM,High
+V02433,"Wood, Crane and Guzman",EMEA,High
+V03568,Jackson Group,EMEA,Low
+V03625,Montes-Nguyen,LATAM,High
+V03022,"Phillips, Galloway and Garrett",LATAM,Low
+V04561,Rosales PLC,AMER,Medium
+V02278,Peters Ltd,AMER,Low
+V00471,Walker-Flores,APAC,Medium
+V01595,Kane and Sons,APAC,High
+V04580,Duffy-Stanley,AMER,High
+V02499,"Miller, Mcdowell and Curtis",APAC,High
+V04366,Haney Ltd,EMEA,Medium
+V02513,"Chambers, Morrison and Thompson",LATAM,Low
+V01963,"Carroll, Ramirez and Rodriguez",LATAM,High
+V00195,"Hernandez, Thompson and Boyd",EMEA,Medium
+V03158,Peterson-Munoz,EMEA,Low
+V04629,Mendoza-Lewis,EMEA,Medium
+V00941,Walker PLC,EMEA,Low
+V03617,Henry PLC,APAC,High
+V03696,Benson PLC,EMEA,Low
+V04600,"Valdez, Williams and Richards",AMER,Medium
+V01285,Robertson-Hicks,AMER,Medium
+V03320,"Jordan, Cook and Alexander",APAC,Low
+V02639,   garcia plc  ,APAC,Medium
+V00955,Dawson Inc,LATAM,Low
+V03273,Lang Group,LATAM,Medium
+V02775,Sims-Weber,AMER,Low
+V01716,"Rice, Miller and Ramsey",APAC,Medium
+V03632,Lamb-Coleman,LATAM,Low
+V01405,Bowman Group,APAC,High
+V01041,"Jones, Mcmahon and Spence",EMEA,Low
+V02418,Mitchell-Glover,LATAM,Low
+V01478,Adkins-Meyer,AMER,Medium
+V02682,Ramos Inc,AMER,High
+V00315,"Becker, Taylor and Davis",LATAM,Medium
+V01159,Martin Group,APAC,Medium
+V04895,"Nichols, Mendoza and Middleton",EMEA,Low
+V02341,Clark Ltd,AMER,Medium
+V04400,Clark Ltd,LATAM,Medium
+V04182,Key-Ramos,EMEA,Medium
+V02983,Torres LLC,LATAM,
+V00991,Andrade-Mendoza,APAC,High
+V03275,Martinez and Sons,AMER,Low
+V04586,Scott Group,LATAM,Medium
+V03448,Barry LLC,LATAM,High
+V01286,Williams-Villanueva,APAC,
+V03187,"Gray, Bailey and Farley",AMER,Low
+V03212,Allen-Beltran,APAC,Low
+V00380,Boone LLC,EMEA,Low
+V03973,Flores-Moreno,EMEA,Low
+V01872,Brown PLC,APAC,Medium
+V02300,"Meadows, Robles and Anderson",EMEA,Low
+V01603,Duncan-Williams,LATAM,High
+V01957,Jones PLC,AMER,High
+V03587,"Romero, Reilly and Mitchell",APAC,High
+V00873,Kramer-Shannon,AMER,Medium
+V03372,Johnson LLC,LATAM,Medium
+V03907,"Frank, Holland and Ferguson",EMEA,Medium
+V00858,"Ochoa, Taylor and Brady",LATAM,Medium
+V03425,Glover-Barrett,EMEA,High
+V00325,"Diaz, Gibbs and Smith",EMEA,Medium
+V03129,"Black, Chandler and Curtis",EMEA,Low
+V02623,"Todd, Sharp and Murray",AMER,Medium
+V00260,Dean-Jimenez,APAC,High
+V00300,Harvey-Allen,APAC,Medium
+V01190,Nelson-Cruz,EMEA,Medium
+V03573,"Sellers, Strong and Gomez",AMER,Medium
+V01174,Gonzalez-Gonzalez,APAC,Medium
+V02782,Morrison-Hatfield,EMEA,Low
+V03364,"Martin, Tucker and Brown",AMER,
+V00049,Hickman Ltd,LATAM,Low
+V00058,"Johnston, Sanchez and Kennedy",EMEA,Medium
+V04160,"Cooper, Beltran and Wright",APAC,Low
+V03769,"Hamilton, Brewer and Fleming",EMEA,Medium
+V00201,"Barnett, Rogers and Snyder",APAC,High
+V03274,Mooney Group,LATAM,High
+V03745,"Powell, Monroe and Caldwell",EMEA,High
+V01449,Ruiz-Austin,APAC,Medium
+V04099,Oconnell and Sons,LATAM,Low
+V01761,"Castro, Garcia and Daniels",EMEA,Low
+V04622,Harris LLC,APAC,High
+V02203,Hahn-Ramsey,LATAM,Medium
+V02776,"Martin, Carter and Gray",APAC,Low
+V02883,"Garcia, Weiss and Young",LATAM,Low
+V01012,"Robinson, Fox and Smith",AMER,Medium
+V03700,Hill Group,APAC,Medium
+V00125,Scott Ltd,APAC,Medium
+V02823,Wise-Salinas,APAC,Medium
+V00673,Nunez-Stephens,APAC,High
+V03277,Smith-Logan,AMER,High
+V02599,Foster LLC,EMEA,Low
+V00574,Williams-Williams,AMER,Low
+V04262,Colon Ltd,EMEA,Medium
+V04271,Smith-Allen,EMEA,Medium
+V00119,May-Ross,AMER,Medium
+V00373,Reynolds Ltd,APAC,High
+V01798,Maldonado LLC,AMER,Medium
+V01054,Ruiz-Jacobson,EMEA,Medium
+V04936,"Haynes, Garcia and Burnett",AMER,Low
+V04886,Sanford-Wilson,LATAM,Medium
+V00568,Landry PLC,LATAM,Medium
+V00730,"Li, Craig and Drake",AMER,Medium
+V03004,"Velazquez, Gordon and Johnson",AMER,Medium
+V03049,Garcia LLC,APAC,High
+V03483,Bell-Cooper,LATAM,Medium
+V03810,Brewer and Sons,APAC,High
+V02180,"   robertson, powers and kelley  ",AMER,Medium
+V04332,"Mueller, Cox and Ford",LATAM,High
+V03177,Miller Ltd,EMEA,Low
+V01636,Reed LLC,EMEA,High
+V02678,Jackson-Powers,EMEA,Medium
+V01922,Wilson PLC,AMER,Low
+V01046,Terry-Bowen,LATAM,Medium
+V00591,"Williams, Castillo and Warren",APAC,High
+V00598,Thornton PLC,LATAM,
+V00343,Lopez-Martinez,LATAM,Low
+V03569,Cannon-Dawson,EMEA,Medium
+V02768,   warren-pena  ,APAC,Low
+V02360,Hall-Robinson,AMER,High
+V00400,Duran LLC,EMEA,Medium
+V00527,   osborn-cochran  ,AMER,Medium
+V00171,Meadows PLC,EMEA,Medium
+V02031,Gould LLC,APAC,Low
+V00953,"Acosta, Garcia and Moreno",AMER,High
+V01806,Rodriguez-Campbell,LATAM,
+V02425,"Fox, Chapman and Stone",EMEA,Low
+V04420,"Becker, Gregory and Jones",EMEA,High
+V02132,Tate Inc,AMER,High
+V02171,Mitchell Inc,LATAM,Low
+V04964,Goodman PLC,EMEA,Low
+V02484,"Roberts, Stanton and Smith",APAC,Low
+V02960,Fisher PLC,EMEA,High
+V01508,"Patel, Adams and Lopez",AMER,Low
+V03520,Lutz PLC,EMEA,High
+V04464,"Thomas, Nelson and Flores",AMER,Low
+V01180,Hernandez-Davis,APAC,
+V00106,Nolan and Sons,LATAM,Low
+V02854,"Powell, Johnson and Allen",LATAM,Medium
+V00952,Blake Group,LATAM,Medium
+V02862,"   walker, matthews and archer  ",APAC,Low
+V04136,"Glenn, Freeman and Carter",EMEA,Medium
+V04612,Smith-Warren,APAC,
+V02850,Howe Inc,LATAM,Medium
+V03968,"Ruiz, Martin and Jones",AMER,High
+V03224,"Knapp, Miller and Reyes",LATAM,Medium
+V04900,"Perez, Sandoval and Durham",APAC,High
+V01792,George Ltd,EMEA,Low
+V00200,Christensen PLC,AMER,
+V01712,Carter and Sons,LATAM,Low
+V01276,"Moore, Daniels and Powell",EMEA,Low
+V04199,"Alvarez, Edwards and Aguirre",AMER,Low
+V03895,Ellis Ltd,EMEA,High
+V01644,Berry Group,AMER,Low
+V04142,Bowman-Murphy,LATAM,Low
+V00997,Durham-Shaw,EMEA,Medium
+V02965,Martinez LLC,LATAM,Medium
+V02068,"Alvarez, Benson and Wilson",AMER,High
+V01585,"Short, Ellison and Dixon",APAC,Medium
+V00165,Castaneda-Ashley,AMER,Medium
+V02951,Ruiz LLC,AMER,Medium
+V00899,"Cruz, Richmond and Edwards",AMER,Medium
+V00181,Wells Inc,LATAM,Medium
+V03697,Rivera-Brown,APAC,Medium
+V04973,"Tucker, Robinson and Fry",AMER,Low
+V04354,Perry PLC,AMER,Low
+V01251,Thomas-Santiago,EMEA,
+V02663,"Carter, Hendricks and Wolfe",LATAM,
+V01687,"Cox, Mills and Cruz",AMER,Medium
+V03301,Bray-Morris,EMEA,Medium
+V02906,Rice Ltd,EMEA,Low
+V00279,Pollard and Sons,AMER,Medium
+V01990,"Norton, French and Miller",AMER,High
+V00977,Anderson Group,APAC,Medium
+V04114,Ramirez Group,APAC,Low
+V02067,"Castillo, Graham and Scott",LATAM,High
+V04729,Sanchez Inc,AMER,High
+V04939,"Allen, Russell and Maldonado",LATAM,High
+V01183,   williams-li  ,APAC,High
+V01338,Sanders PLC,EMEA,
+V03156,Lowery Group,AMER,Low
+V04048,Smith-James,LATAM,Low
+V02969,Tucker-Hodges,APAC,Low
+V02898,Sutton Group,AMER,Medium
+V00740,Miller Group,AMER,High
+V01888,Mendez Inc,EMEA,High
+V02577,Cameron Inc,LATAM,
+V00731,Rodriguez Inc,AMER,Medium
+V00872,Kelley-Anderson,APAC,High
+V01273,"Turner, Tyler and Pierce",APAC,High
+V01028,Reed LLC,AMER,Medium
+V02479,Miller-Fields,APAC,Medium
+V04462,Wells and Sons,APAC,High
+V03007,Simpson-Patel,LATAM,Low
+V04641,Lucas-Campos,LATAM,Medium
+V02535,"Gonzales, Davis and Griffin",AMER,Low
+V02666,"Miranda, Nguyen and Hayes",LATAM,High
+V01549,Weaver-Gibson,EMEA,High
+V02959,Moyer-Bird,EMEA,Medium
+V04196,Heath-Andersen,AMER,High
+V04416,Harvey Group,APAC,Medium
+V00875,Smith-Noble,APAC,High
+V04282,Williams-Wang,EMEA,Medium
+V01225,"Rodriguez, Prince and Vasquez",EMEA,High
+V01721,"Hall, Roberts and Lee",LATAM,High
+V01281,"Austin, Oliver and Haley",APAC,High
+V03985,Schmitt LLC,LATAM,High
+V04850,Solomon-Le,LATAM,Medium
+V01724,"   duarte, gutierrez and cook  ",AMER,High
+V02667,Clark-Williams,AMER,High
+V00297,Howard-Jordan,AMER,High
+V04859,"Payne, Ryan and Campos",APAC,
+V00735,   branch and sons  ,AMER,Low
+V04722,"Jones, Wiggins and Oliver",AMER,Medium
+V03529,"Edwards, Brown and White",EMEA,High
+V02291,Tate Ltd,APAC,Medium
+V03915,Pope and Sons,APAC,Medium
+V03094,Cannon Group,APAC,Low
+V00627,Lopez-Curry,APAC,Low
+V01984,Sawyer Group,AMER,Low
+V03623,"Myers, Howard and Castillo",EMEA,High
+V00069,Russell Group,LATAM,High
+V01558,Washington Inc,LATAM,Low
+V02282,Carney Group,EMEA,Medium
+V01547,"Mcdonald, Dillon and George",AMER,High
+V02765,Conrad Group,APAC,Medium
+V01516,Hall and Sons,AMER,Low
+V00450,Jones Inc,AMER,Medium
+V02697,Smith-Lewis,LATAM,Medium
+V01989,Wolfe-Salazar,EMEA,Low
+V04899,"Webb, Willis and Terry",LATAM,High
+V00797,Rodriguez and Sons,LATAM,Low
+V01597,"Reyes, Torres and Williams",LATAM,Medium
+V01361,"Whitaker, Johnson and Williams",AMER,High
+V02679,Byrd and Sons,AMER,High
+V02724,"Braun, Mays and Martinez",AMER,Medium
+V02387,Mitchell-Jackson,AMER,Low
+V03317,Johnson-Stanley,EMEA,Medium
+V01278,Rivera-Carter,EMEA,
+V02662,Hill Ltd,APAC,Low
+V00998,Nelson-Johnson,AMER,Low
+V03298,"Barron, Church and Gutierrez",EMEA,Medium
+V00712,Tran-Silva,LATAM,Medium
+V01781,"Robles, Nguyen and Banks",APAC,High
+V04793,Rodriguez-Hernandez,LATAM,Medium
+V03462,"Ruiz, Lowery and Baker",LATAM,High
+V03917,Ellis Ltd,APAC,High
+V03695,Collins and Sons,EMEA,Medium
+V02750,Hicks-Burns,AMER,Low
+V04948,Sullivan and Sons,LATAM,High
+V03905,Jones-Butler,AMER,
+V03151,"Nicholson, Smith and Farrell",AMER,Medium
+V02932,"Sutton, Williams and West",EMEA,Medium
+V00621,Santos-Avila,APAC,Medium
+V04653,"Black, Welch and King",EMEA,Medium
+V04563,"Sanders, Colon and Gilmore",EMEA,Low
+V04555,"Daniels, Ward and Reynolds",AMER,Medium
+V00197,Marshall-Petersen,EMEA,Medium
+V01965,   robinson-phillips  ,LATAM,Low
+V01935,Schwartz-Harris,AMER,High
+V03719,Dawson-Larsen,AMER,Medium
+V04238,Rodriguez-Vega,AMER,High
+V03311,Robinson LLC,LATAM,High
+V04531,Conrad-Clay,LATAM,
+V03467,Young Inc,EMEA,Medium
+V02059,Roberts-Henry,AMER,Medium
+V02195,Lucas-Johnson,LATAM,Medium
+V02791,"Ramirez, Lyons and Briggs",AMER,High
+V00478,"Bentley, Lynch and Henderson",LATAM,High
+V03570,Newton-Martinez,APAC,Medium
+V04345,Buchanan Inc,AMER,Medium
+V01837,Soto PLC,LATAM,
+V00523,Green LLC,LATAM,Low
+V03430,"Bailey, Williamson and Powell",LATAM,Low
+V03999,Rodriguez-Taylor,AMER,Medium
+V03246,Wilson-Robinson,AMER,Low
+V02192,Wilson and Sons,APAC,Low
+V01194,   pruitt-webb  ,EMEA,High
+V03918,Goodwin-Sherman,APAC,Medium
+V04693,Graham-Valencia,AMER,Low
+V02243,Smith Inc,APAC,High
+V03053,Gomez LLC,AMER,High
+V03637,Gould PLC,AMER,Medium
+V03575,Wilson-Merritt,APAC,
+V01885,Jones-Krause,LATAM,High
+V01961,Cortez-Chen,AMER,
+V01309,"Thomas, Williams and Armstrong",EMEA,Low
+V00393,Webster Inc,AMER,High
+V03995,Harrington Group,AMER,Low
+V00126,Smith-Frost,LATAM,High
+V04841,Lopez-Jimenez,APAC,Low
+V02440,Lewis-Fuentes,EMEA,
+V03437,Brown LLC,APAC,Low
+V04615,"   henderson, brown and baker  ",AMER,High
+V00862,Burns-Ray,APAC,High
+V04588,Barker-Oliver,APAC,High
+V01921,"Jackson, Garza and Meyers",AMER,High
+V01777,Chavez-Johnson,AMER,Low
+V02573,Gonzalez and Sons,LATAM,Low
+V01834,Yu-Yates,EMEA,Low
+V01816,May Group,AMER,Medium
+V02744,Waller-Brooks,APAC,High
+V00946,"Mueller, Stevenson and Sanchez",APAC,Low
+V01931,"Bennett, Moore and Hobbs",APAC,Medium
+V02502,"Howard, Thompson and Tate",APAC,Low
+V03404,"Wallace, Brown and Martinez",APAC,
+V03681,"Goodman, Martin and Kim",AMER,Medium
+V04499,Johnson-Espinoza,APAC,Medium
+V01877,"Pratt, Lopez and Rodriguez",APAC,Low
+V04403,Jacobs-Lopez,APAC,Low
+V00530,"Mckinney, Graves and Thompson",AMER,
+V04476,"Chavez, Martin and Anderson",EMEA,Medium
+V03391,Aguirre-Golden,EMEA,High
+V01986,"Marshall, Schultz and Dalton",LATAM,Low
+V04988,"Wilkinson, Guzman and Elliott",LATAM,High
+V00268,Jimenez Ltd,APAC,High
+V01956,Kane-Bennett,APAC,Low
+V00466,Cole-Palmer,AMER,Low
+V03497,"Sampson, Tucker and Miller",AMER,Medium
+V02542,"Walton, Hall and Greene",AMER,Low
+V00356,Strickland-Palmer,APAC,Medium
+V04539,Johnson-Jimenez,APAC,Low
+V00935,Williams LLC,EMEA,Medium
+V04054,Blair-Merritt,APAC,Low
+V02351,"Lane, Simon and Duarte",EMEA,Low
+V02094,Vazquez-Bowers,EMEA,
+V02559,Davidson and Sons,APAC,
+V02038,"Wilson, Johnson and Williamson",EMEA,Medium
+V00913,Lewis-Livingston,EMEA,Low
+V03041,"   michael, anderson and carrillo  ",LATAM,Medium
+V03227,Phillips PLC,APAC,Medium
+V02905,Chapman-Roman,EMEA,Medium
+V00921,"Ashley, Allen and Sanchez",APAC,High
+V02530,Watkins Ltd,EMEA,Low
+V04731,"Li, Mason and Jacobson",AMER,High
+V00792,"Moore, Henderson and Bennett",EMEA,Low
+V00242,Larson-Holloway,EMEA,Low
+V04832,Rodriguez Group,EMEA,High
+V03580,Quinn Ltd,APAC,High
+V04267,Jones-Harris,AMER,Low
+V02763,"Booth, Rodriguez and Armstrong",EMEA,Low
+V00233,"Clark, Guerrero and Moore",EMEA,Low
+V02756,"Hernandez, Wright and Lane",APAC,Low
+V03337,Patterson-Smith,EMEA,Medium
+V01886,Bishop and Sons,LATAM,Low
+V04734,"Flowers, Berry and Ramirez",APAC,Medium
+V00480,Barnes PLC,LATAM,Medium
+V02421,Gibson-Thomas,APAC,Low
+V04246,Brown-Haas,LATAM,Low
+V01171,"Obrien, Taylor and Rivas",LATAM,Medium
+V03125,Martin-Fleming,EMEA,
+V02246,Williams PLC,LATAM,Medium
+V01535,Perkins Ltd,AMER,Low
+V02321,Carroll-Arnold,EMEA,Medium
+V02210,Robinson-Rodriguez,AMER,Low
+V01637,Garrett-Young,AMER,Medium
+V02229,Love-Mcdowell,APAC,Medium
+V01608,"Gilbert, Fitzgerald and Sanchez",AMER,Low
+V00173,White-Green,APAC,High
+V04108,"Garner, Fox and Chan",EMEA,High
+V00936,Mora-White,APAC,High
+V00144,"Lee, Horton and Snyder",LATAM,Medium
+V02726,Romero Group,AMER,
+V04528,"Walter, Jones and Butler",EMEA,Low
+V04002,Andrews-Hoffman,AMER,Low
+V03405,Webb-White,EMEA,Low
+V04227,Smith-Obrien,EMEA,Low
+V00511,Mendez-Graham,APAC,Medium
+V04524,Vincent LLC,AMER,Medium
+V00933,"Craig, Wilson and Yang",LATAM,High
+V03633,Gaines-Adams,AMER,Low
+V04385,Tran-Burns,LATAM,Medium
+V00737,"Frey, Santos and Johnson",EMEA,Low
+V04768,Stephenson Group,LATAM,Low
+V04779,Mooney-Clark,APAC,Medium
+V00814,"Thompson, Moore and Castro",AMER,Low
+V01613,"Rios, Carrillo and Jackson",LATAM,
+V04840,Randall LLC,EMEA,High
+V00599,Hoffman Ltd,LATAM,Medium
+V00700,"Ramsey, Hansen and Mendoza",EMEA,Medium
+V04642,Allen PLC,AMER,Medium
+V04190,Burton-Oneal,APAC,Low
+V04995,"Huang, Hall and Delacruz",EMEA,Medium
+V01486,Miller Group,APAC,Medium
+V02464,Weaver LLC,LATAM,High
+V00215,"Washington, Hardy and Bray",EMEA,High
+V03342,"Mooney, Conley and Fox",LATAM,Low
+V02492,Reid-Petty,EMEA,Medium
+V04309,"Ferguson, Montgomery and Jackson",AMER,Low
+V02109,Richardson-Lawrence,AMER,High
+V00280,"Reyes, Chase and Jenkins",AMER,Low
+V04538,Brown Ltd,EMEA,
+V00499,"Kennedy, Johnson and Lucas",AMER,High
+V01000,Stokes Group,APAC,Low
+V03991,"Stevenson, Salinas and Williamson",LATAM,
+V04959,Ramos-Harris,APAC,Medium
+V03269,Hoffman Ltd,LATAM,Low
+V03556,Bartlett-Murphy,LATAM,Low
+V04897,Garcia-Hunt,AMER,Low
+V04727,Ferguson Group,APAC,Medium
+V01447,"Clark, Carpenter and Nguyen",APAC,High
+V04379,Navarro Inc,AMER,High
+V04090,Sanders Inc,APAC,High
+V03629,"Jenkins, Young and Carter",AMER,Low
+V01831,Austin-Berger,APAC,High
+V00554,Ballard Ltd,EMEA,Medium
+V02303,"Crane, James and Ross",AMER,Medium
+V01475,Edwards Ltd,LATAM,High
+V03034,"White, Campbell and Collins",EMEA,Medium
+V04572,Flowers and Sons,APAC,High
+V04784,Jensen-Krause,APAC,High
+V00839,Mckinney-Wallace,EMEA,Medium
+V04944,Sullivan PLC,AMER,Medium
+V04523,Farrell PLC,AMER,Medium
+V01865,Navarro PLC,LATAM,Low
+V00275,Monroe-Carpenter,LATAM,
+V00915,"Wang, Henderson and Morales",AMER,Medium
+V03352,"Figueroa, Mcpherson and Howard",AMER,Medium
+V04644,"Johnson, Jones and Miller",LATAM,
+V02707,Reyes-Davidson,AMER,
+V04660,"Phillips, Mcdaniel and Ward",AMER,Low
+V02761,"Turner, Ponce and Barrett",APAC,High
+V02842,"Chase, Long and Anderson",EMEA,Medium
+V01481,"King, Manning and Brady",AMER,Low
+V01369,Hanson PLC,APAC,High
+V00644,"Young, Contreras and Marshall",LATAM,Medium
+V04662,"Thompson, Hardy and Walter",APAC,Medium
+V00239,"Guerrero, Peck and Coleman",AMER,High
+V00699,"Morrison, Russo and Lopez",APAC,Low
+V04375,"Parker, Cole and Hamilton",EMEA,Medium
+V02915,"Fowler, Wood and Waters",AMER,High
+V01022,Gray Ltd,AMER,High
+V02472,"Willis, Vasquez and Goodwin",LATAM,High
+V02268,Anderson-Mcclain,LATAM,High
+V03824,"Watson, Wells and Rogers",LATAM,High
+V04812,"Hernandez, Williams and Ruiz",AMER,Medium
+V00148,"Holmes, Williams and Wright",AMER,High
+V04357,Beck and Sons,AMER,Medium
+V02669,"Brady, James and Reese",EMEA,Medium
+V03740,Edwards PLC,LATAM,Low
+V04137,"Garcia, Bright and Morrison",AMER,Medium
+V02622,Hall-Matthews,AMER,High
+V03547,Dixon-Norman,AMER,High
+V04101,Martinez Ltd,APAC,Low
+V01627,"Williamson, Brown and Pena",APAC,Medium
+V00263,Martinez-Dudley,LATAM,Low
+V03675,"George, Savage and Adams",APAC,Low
+V02526,Mooney and Sons,LATAM,Low
+V02279,"Yates, Brown and Hernandez",LATAM,Low
+V03131,Ward-Chase,LATAM,Low
+V02403,"Harris, Stephens and Kramer",APAC,High
+V00362,Lam LLC,APAC,Medium
+V02881,"Henry, Edwards and Bartlett",EMEA,
+V00633,Simon Ltd,LATAM,Medium
+V04958,Gray-Stone,LATAM,High
+V03025,"Sandoval, Parrish and Crosby",EMEA,High
+V00965,Moore and Sons,AMER,Low
+V04870,Benjamin LLC,APAC,Medium
+V02467,"Jackson, Mendez and Nguyen",APAC,
+V02044,"Foster, Henry and Morrison",LATAM,Medium
+V02735,Gill Group,EMEA,Medium
+V04441,"Woods, Roberts and Young",APAC,High
+V02691,"Jackson, Jackson and Perry",LATAM,Medium
+V02705,"Stewart, York and Olson",EMEA,High
+V00537,"Mendoza, Jenkins and Ortiz",LATAM,High
+V04651,"Guerrero, Berry and Harrison",APAC,Low
+V04129,Warren-Ingram,EMEA,High
+V02075,Duran PLC,EMEA,Low
+V03795,Turner Inc,APAC,High
+V01894,Graves Group,AMER,High
+V02377,Lloyd-Estes,LATAM,Low
+V04132,Hernandez-Beard,APAC,Medium
+V02875,Delgado Inc,EMEA,Low
+V02941,"Long, Leblanc and Hickman",AMER,Low
+V04595,Morris PLC,AMER,Low
+V03538,"Wallace, Dixon and Young",APAC,Medium
+V01705,Williams Group,AMER,High
+V01333,Hammond-Lewis,EMEA,Medium
+V02272,"Hamilton, Green and Edwards",LATAM,
+V02675,Ruiz LLC,APAC,High
+V04976,Atkins-Black,EMEA,Low
+V00849,Cole LLC,AMER,Low
+V01869,Davis-Garcia,AMER,Low
+V02339,Smith Inc,AMER,
+V03555,"Alexander, Adams and Huff",APAC,
+V02028,Watson PLC,APAC,Medium
+V01254,Vaughn LLC,LATAM,High
+V04344,"Schmidt, Fuller and Johnson",APAC,
+V01025,"Johnson, Guzman and Mccall",AMER,High
+V03766,"Mills, Gallegos and Mcdaniel",EMEA,Medium
+V00331,Reid Group,APAC,Low
+V01416,Spears-Andrews,APAC,Medium
+V01412,"Gonzalez, Smith and Padilla",AMER,High
+V00008,"Henderson, Ramirez and Lewis",EMEA,Low
+V00878,Khan LLC,LATAM,High
+V03909,Carter Group,APAC,Medium
+V01457,"Hernandez, Shaffer and Thompson",AMER,High
+V02695,Rodriguez LLC,AMER,Low
+V04770,"Chandler, Knight and Jones",LATAM,Medium
+V02419,"Armstrong, Taylor and Gray",EMEA,Low
+V03693,"Espinoza, Wells and Stewart",APAC,High
+V05000,Scott PLC,AMER,
+V03804,Weiss-Cross,LATAM,Medium
+V04187,Mathews Group,APAC,Medium
+V04807,Moore-Murphy,EMEA,Low
+V02183,"Hayden, Harmon and Mcdonald",APAC,Medium
+V02899,Murphy Inc,LATAM,Low
+V00158,"Miller, Hernandez and Reyes",AMER,Medium
+V01476,Page-Jacobs,APAC,Medium
+V03306,Smith and Sons,EMEA,Medium
+V01299,"Wilson, Smith and Cortez",APAC,High
+V01538,Parks LLC,LATAM,Low
+V02156,"Peterson, Davis and Reed",APAC,High
+V01097,"Johnson, Lee and Whitaker",APAC,High
+V02148,Freeman-Rodriguez,APAC,Low
+V02061,"Singh, Walker and Moody",APAC,Medium
+V01625,"Barnett, Bennett and Escobar",APAC,Low
+V03371,"Gonzalez, Richards and Miller",LATAM,Medium
+V03278,"Travis, Buck and Mitchell",APAC,High
+V02182,Ray and Sons,LATAM,High
+V04329,"Ross, Cummings and Harris",APAC,Medium
+V04736,Reeves and Sons,EMEA,Low
+V01913,Sullivan and Sons,APAC,Medium
+V02635,"Berry, Myers and James",LATAM,High
+V04656,Knight LLC,AMER,
+V00550,Miller Ltd,APAC,High
+V02681,Stafford PLC,LATAM,Medium
+V04051,Hamilton Ltd,AMER,Low
+V03902,Sanchez Ltd,EMEA,Low
+V01580,"King, Nixon and West",EMEA,High
+V00411,Kim Inc,EMEA,Low
+V03903,Smith Inc,EMEA,
+V03340,"Smith, Marks and Kennedy",AMER,Medium
+V02767,Davis Ltd,AMER,Low
+V00262,"Anderson, Roberts and Gilmore",APAC,High
+V04861,Lawrence-Hanna,AMER,Low
+V04197,Pope PLC,LATAM,High
+V03908,Gonzales Ltd,AMER,Medium
+V03897,Morris LLC,LATAM,High
+V02997,Jones PLC,LATAM,High
+V01560,"Burns, Hanson and Garza",AMER,Medium
+V04281,Greene-Sims,AMER,
+V02331,Clark Inc,EMEA,Low
+V02448,Hughes-Mccullough,AMER,High
+V02913,Sandoval and Sons,APAC,Medium
+V04777,Hudson-Butler,AMER,
+V02745,Parker-Archer,APAC,Medium
+V00979,Aguilar LLC,EMEA,Low
+V02696,Smith Ltd,AMER,High
+V02198,"Thompson, Phelps and Stuart",AMER,Low
+V01197,"Mcpherson, Anderson and Knapp",APAC,Medium
+V00729,Nichols-Mitchell,APAC,High
+V00754,Peterson PLC,LATAM,High
+V01614,Jensen-Branch,APAC,Medium
+V04919,Velazquez PLC,AMER,Low
+V04745,Greene LLC,LATAM,Medium
+V02228,Ruiz-Gutierrez,LATAM,Medium
+V02498,"   woodard, warner and farmer  ",AMER,Medium
+V03560,"Wagner, Melendez and Valdez",EMEA,High
+V03159,Park Group,APAC,Medium
+V04680,Smith LLC,LATAM,Low
+V04771,Fitzpatrick Group,EMEA,Medium
+V03644,Gutierrez-Tran,EMEA,Low
+V01801,"Haas, Cooper and Davis",AMER,Medium
+V03624,Robinson LLC,LATAM,Low
+V02846,Merritt-Clark,APAC,High
+V04707,Parks PLC,AMER,Medium
+V04500,Pierce-Williams,EMEA,High
+V00653,"Cox, Stark and Rodriguez",EMEA,High
+V01539,"Brown, Kelly and Moore",EMEA,High
+V03654,"Warner, Oconnor and Smith",LATAM,High
+V01422,Maldonado-Mosley,APAC,Low
+V03012,"Gibson, Zimmerman and Warren",APAC,High
+V03723,Townsend-Reed,EMEA,Medium
+V01810,Wells and Sons,AMER,Medium
+V00987,Gomez and Sons,APAC,High
+V02093,Clark Inc,LATAM,Medium
+V00141,Hernandez Inc,AMER,Low
+V03731,Sanders-Forbes,EMEA,Low
+V03598,Wood LLC,AMER,Medium
+V02046,Baldwin Group,AMER,Medium
+V04180,Kirk Ltd,LATAM,Medium
+V01379,"Reynolds, Fisher and Golden",APAC,Medium
+V04975,Boyd-Vaughn,AMER,Low
+V03684,Taylor-Sawyer,APAC,High
+V00967,"Howard, Townsend and Hayes",AMER,Medium
+V02544,Hobbs-Harvey,APAC,Low
+V01373,Mills PLC,AMER,Medium
+V02694,Mcmillan-Martinez,APAC,High
+V03551,Benjamin and Sons,EMEA,Medium
+V03957,Miller-Gonzalez,EMEA,Medium
+V00576,"Cole, Pierce and Bryan",LATAM,Medium
+V00296,Williams Inc,LATAM,High
+V02114,Simpson LLC,AMER,Medium
+V04469,Wright-Bennett,APAC,Medium
+V02112,"Perez, Rodriguez and Rollins",LATAM,Low
+V03087,Hayden Ltd,APAC,Medium
+V02600,Oneal-Duncan,APAC,High
+V00667,"Stuart, Brooks and Vance",APAC,High
+V00547,"Ferguson, Shaw and Jackson",EMEA,Medium
+V04985,Lopez Ltd,APAC,High
+V00600,Fox-Edwards,LATAM,Medium
+V00562,Wright-Davis,EMEA,High
+V02083,Pope PLC,LATAM,High
+V03312,Hester-Parrish,AMER,
+V03913,"Molina, Rodriguez and Jackson",AMER,Low
+V04220,"Haynes, Jennings and Ballard",APAC,High
+V04713,   mendoza-jackson  ,EMEA,Low
+V02529,"Garrett, Johnson and Reynolds",EMEA,Medium
+V03152,Bennett-Hudson,APAC,High
+V02338,"Leonard, Ballard and Miller",APAC,High
+V00228,"Duran, Obrien and Gibbs",APAC,High
+V01785,Peterson Ltd,APAC,Medium
+V01495,"Ferguson, Stout and Olson",APAC,Medium
+V04449,Sanchez-Blackburn,LATAM,Medium
+V00222,Harrison-Alexander,LATAM,Medium
+V04133,"Peterson, Nelson and Travis",EMEA,High
+V01068,Thompson-Joyce,AMER,High
+V00427,Johnson-Wood,APAC,High
+V03878,Flores-Cox,APAC,Low
+V03727,Smith LLC,APAC,High
+V04723,"Pena, Mueller and Mckay",LATAM,Low
+V02896,Johnson-Munoz,EMEA,Low
+V03259,"King, Ortiz and Munoz",EMEA,High
+V00289,"Miller, Murphy and Craig",LATAM,Medium
+V02852,Wilson PLC,LATAM,Low
+V02702,King Inc,EMEA,Medium
+V01140,Taylor and Sons,EMEA,Medium
+V01512,Flores and Sons,APAC,Low
+V02391,Hardin-Villanueva,AMER,Low
+V02928,Sullivan PLC,EMEA,Medium
+V03843,"Little, Macias and Reyes",LATAM,Low
+V01096,"Powell, Deleon and Warren",APAC,Medium
+V01118,"Lynch, Evans and Rodriguez",APAC,Low
+V04308,Cohen Group,APAC,High
+V00614,"Nelson, Hoffman and Nelson",APAC,Medium
+V02000,"Frazier, Ramirez and Brown",AMER,
+V02866,Brown-Stout,LATAM,High
+V01034,"Barnes, Jackson and Gutierrez",AMER,Medium
+V01999,Flores LLC,AMER,Medium
+V02333,Ferguson-Smith,APAC,Low
+V01237,"Andrade, Gordon and Cruz",LATAM,Low
+V03105,Carson PLC,LATAM,High
+V02405,"Sullivan, Gonzalez and Turner",LATAM,High
+V00891,Taylor-Ayala,EMEA,High
+V02786,Ortega-Gray,EMEA,Medium
+V03293,Valentine Inc,APAC,Medium
+V03336,Rivers Ltd,AMER,High
+V03028,Montoya and Sons,APAC,High
+V00716,Levy-May,LATAM,Medium
+V04231,Fields Group,EMEA,High
+V02245,Gonzalez-Haynes,EMEA,Low
+V00536,Parker Ltd,AMER,Low
+V01255,Molina Inc,APAC,Medium
+V04477,Martinez LLC,EMEA,High
+V02069,"Quinn, Smith and Green",LATAM,Low
+V00662,"Robinson, Jones and Henderson",LATAM,Medium
+V03884,Roberts-Patel,LATAM,Low
+V03528,Hill PLC,APAC,Low
+V01390,"Henderson, Diaz and Hill",EMEA,Low
+V01038,Phillips LLC,AMER,High
+V04921,Tate-Flores,APAC,High
+V03800,"Mcdaniel, Hale and Durham",AMER,High
+V00290,"James, Stewart and Higgins",EMEA,
+V02945,Bailey Ltd,AMER,High
+V02357,Wilson-Dean,AMER,Low
+V04059,"Guerrero, Watson and Perry",LATAM,High
+V04602,Williams PLC,EMEA,High
+V01086,Mccall-Prince,LATAM,High
+V03354,Sheppard Ltd,APAC,High
+V03554,"Yates, Lawson and Hopkins",EMEA,Medium
+V02538,Patton Inc,LATAM,Low
+V00650,Todd-Pham,LATAM,Low
+V04317,Jennings-Hughes,EMEA,Medium
+V03369,Glover-Shaw,APAC,Low
+V03939,Santos LLC,EMEA,Low
+V03962,Guzman-Vasquez,APAC,Medium
+V03398,Taylor-Jacobson,AMER,Low
+V03535,"Braun, Hester and Smith",AMER,High
+V02859,Chen-Wallace,EMEA,Medium
+V02127,Martinez-Massey,AMER,Low
+V04857,Carrillo-Simon,LATAM,Medium
+V04147,"Freeman, Obrien and Cunningham",LATAM,
+V04624,Watson PLC,AMER,Low
+V03597,"Medina, Lee and Freeman",AMER,High
+V04372,Lee-Ramirez,LATAM,Low
+V01807,Young Ltd,LATAM,Medium
+V00959,Jones-Bradley,EMEA,High
+V03160,Ramirez Inc,APAC,Medium
+V02660,Hale Inc,LATAM,Low
+V02952,Diaz-Mcclain,LATAM,Low
+V01669,"Moss, James and Edwards",LATAM,Low
+V03225,"Gross, Lucero and Walters",LATAM,Medium
+V00172,"Alvarado, Miller and Patterson",APAC,Medium
+V03475,Turner-Horn,EMEA,Medium
+V04954,"Clark, Rodriguez and Horton",EMEA,Low
+V02634,Carroll-Lloyd,LATAM,High
+V00801,Garcia and Sons,AMER,Medium
+V01503,"Brooks, Jenkins and Castro",AMER,Medium
+V01050,Miller-Colon,EMEA,Medium
+V03056,Vasquez Inc,AMER,High
+V04839,Lee-Jones,LATAM,High
+V03061,Moreno-Greene,LATAM,High
+V01776,"Stark, Rivera and Valencia",EMEA,Medium
+V04278,Ortiz-Smith,LATAM,Medium
+V00136,"Lawson, Morris and Ramos",LATAM,Medium
+V03427,Bennett-Ruiz,LATAM,Medium
+V02493,"   chavez, sanchez and bird  ",LATAM,Medium
+V02746,Ortiz Inc,APAC,Low
+V03258,"Weiss, Cole and Preston",APAC,Low
+V04111,"Jackson, Moore and Becker",AMER,High
+V03942,Figueroa LLC,LATAM,Low
+V03373,Cain Ltd,LATAM,Low
+V04697,"Christensen, Johnson and Hubbard",AMER,Medium
+V04761,Jones-Rivera,AMER,High
+V01883,Price-Ferrell,AMER,Medium
+V03830,Martinez Group,AMER,Medium
+V01048,Williams PLC,APAC,Medium
+V01496,Ballard Group,EMEA,
+V01126,"Erickson, Armstrong and Lee",APAC,Low
+V04408,Graves Ltd,APAC,Medium
+V01169,"Jennings, Smith and Fisher",LATAM,High
+V01708,"Thompson, Gibson and Riley",APAC,High
+V01285,Robertson-Hicks,AMER,Medium
+V01695,Dean LLC,APAC,
+V04972,Smith and Sons,EMEA,Low
+V01474,Miller LLC,EMEA,Low
+V02457,"Mayer, White and Smith",AMER,Low
+V02481,Fernandez-Jackson,APAC,Medium
+V01680,"Mason, White and Richards",AMER,Low
+V01779,Campbell LLC,AMER,High
+V03360,Knight-Sparks,APAC,High
+V00054,"Robinson, Jones and Welch",EMEA,Medium
+V02108,Knapp Ltd,EMEA,High
+V02615,Murillo Ltd,APAC,High
+V02055,Jones-Choi,EMEA,Medium
+V01651,"Fry, Wilson and Stewart",EMEA,High
+V00962,Haynes-Moss,APAC,High
+V03419,Estes-Mcdonald,EMEA,High
+V03310,"Gibson, Moore and Wagner",EMEA,Medium
+V04157,"White, Mccoy and Murphy",AMER,High
+V03163,Brown-Stokes,APAC,Low
+V01164,Wise-Dean,APAC,High
+V02578,Decker and Sons,LATAM,Medium
+V04605,Smith Ltd,APAC,Medium
+V02456,Shaw-Smith,AMER,Low
+V01543,Howard-Taylor,APAC,High
+V02283,Alexander Ltd,LATAM,Medium
+V00744,"Alvarez, Williams and Jones",APAC,Low
+V00908,"Wheeler, Rice and Levine",AMER,Medium
+V02895,Stewart Group,AMER,Low
+V03114,Allen Inc,AMER,High
+V04241,Mcfarland-Kelley,AMER,High
+V00224,Wilson-Jones,LATAM,Low
+V00928,"Tanner, Wise and Johnson",LATAM,Low
+V01674,"Williams, Hughes and Hubbard",EMEA,High
+V04071,   rodriguez group  ,APAC,Medium
+V00505,Acosta Inc,EMEA,Low
+V00132,Spencer-Lee,EMEA,Low
+V01972,Riley-Snow,LATAM,Low
+V01676,Wilkerson-Ayala,EMEA,Medium
+V00743,Lewis Ltd,APAC,Medium
+V02824,Meyer PLC,EMEA,Medium
+V01911,Levy-Smith,APAC,Medium
+V00777,Taylor Inc,APAC,Low
+V04047,Woods-Hicks,LATAM,Medium
+V01561,Diaz PLC,AMER,Medium
+V00159,Mccarthy Inc,LATAM,High
+V01622,Singh and Sons,AMER,High
+V00219,Williams-Brown,APAC,Medium
+V00252,"   graham, olsen and costa  ",AMER,High
+V03191,Gutierrez-Bell,LATAM,
+V00808,Bailey LLC,LATAM,
+V02335,Stevens-Sullivan,APAC,High
+V02701,Marquez PLC,LATAM,Medium
+V04710,"Reed, James and Henry",EMEA,Low
+V00004,Davis and Sons,EMEA,Low
+V04904,Duncan Inc,APAC,Low
+V03875,Wang Ltd,LATAM,Medium
+V03750,"Wilkinson, Everett and Collins",AMER,Medium
+V01671,"Liu, Buchanan and Meyer",APAC,High
+V04093,Gardner-Wilson,AMER,Low
+V03790,"Gonzalez, Compton and Walton",AMER,Low
+V01635,"Torres, Burns and Garner",AMER,Low
+V03831,Richardson-Small,LATAM,High
+V02189,Walters Group,AMER,High
+V01667,"Burns, Nguyen and Ellis",AMER,High
+V00447,"Henderson, Cox and Cox",APAC,High
+V00332,"Turner, Ortiz and Taylor",LATAM,High
+V00454,White Ltd,EMEA,Low
+V02429,Thomas and Sons,AMER,Medium
+V02604,"Oliver, Simmons and Mcdonald",AMER,Medium
+V04483,"Love, Anderson and Brown",LATAM,High
+V02286,Oneill and Sons,APAC,High
+V01263,Greer-Pruitt,AMER,High
+V03998,Hill-Wood,AMER,High
+V00351,Fernandez and Sons,EMEA,Medium
+V03184,"Cole, Montes and Davis",AMER,Medium
+V04543,Pham Inc,EMEA,Medium
+V02968,Hamilton LLC,LATAM,Medium
+V03474,Santos Group,APAC,High
+V01850,Mullins-Gutierrez,APAC,High
+V00883,Barber-Fischer,AMER,High
+V01409,Allen-Smith,EMEA,Low
+V03666,Wood-Hart,EMEA,Medium
+V03010,"Nelson, White and Moore",APAC,High
+V02917,Lindsey-Shaw,LATAM,Medium
+V03901,"Davidson, Lara and Massey",EMEA,High
+V04066,Rivera Group,APAC,Medium
+V04589,Avery-Cohen,EMEA,High
+V00623,Pearson and Sons,LATAM,Medium
+V01397,Owen-Mendez,LATAM,Low
+V03513,"Hamilton, Patterson and Daniel",LATAM,High
+V03414,Wolfe-Rodriguez,LATAM,Low
+V00606,Bush-Vaughn,EMEA,Low
+V02617,Short-Logan,LATAM,High
+V00073,Henderson-Bernard,AMER,Medium
+V00676,Johnson Ltd,APAC,High
+V03856,George-Daugherty,AMER,Low
+V00305,"Evans, Hayden and Vaughn",LATAM,High
+V00985,Underwood-Foster,AMER,Medium
+V00218,Erickson and Sons,EMEA,Medium
+V04143,"Huff, Bird and Miller",LATAM,High
+V03734,"Chen, Henry and Wells",EMEA,High
+V02284,"Washington, Vasquez and Singleton",EMEA,High
+V04826,"Martin, Kennedy and Chavez",EMEA,High
+V01242,"Valencia, Joseph and Walls",LATAM,Medium
+V03063,"Roth, Bailey and Garcia",LATAM,Low
+V04640,Mendez-Tyler,AMER,Medium
+V00234,Arnold and Sons,APAC,High
+V04106,Thomas Ltd,LATAM,Medium
+V01851,Young-Alexander,LATAM,Low
+V02590,Salas-York,APAC,Medium
+V02145,Johnson-Thompson,APAC,High
+V01506,Garrett-Black,EMEA,High
+V02781,Clark Inc,LATAM,Low
+V04699,Clarke-Warren,APAC,Low
+V02819,Garner Inc,LATAM,Medium
+V03029,Adams-Perkins,AMER,Low
+V02766,"Parker, Benitez and Velasquez",APAC,Medium
+V03122,Shaw and Sons,LATAM,High
+V03806,Freeman-Yang,EMEA,Medium
+V01326,"Quinn, Humphrey and Ford",LATAM,Low
+V04162,"Ritter, Baker and Leon",EMEA,Low
+V04648,"Jacobs, Calhoun and Wyatt",APAC,
+V03990,Gibbs-Nguyen,AMER,Medium
+V01924,"Gregory, Nguyen and Daugherty",AMER,Low
+V04520,Guzman-Martin,AMER,Low
+V03453,"Castaneda, Solis and Gonzales",LATAM,Medium
+V00548,"Moore, Hopkins and Le",EMEA,High
+V02466,Parker Group,APAC,Low
+V03346,"Scott, Tucker and Diaz",LATAM,Low
+V04035,"Clark, Turner and Coleman",LATAM,Medium
+V01253,Vega-Thomas,EMEA,Medium
+V03674,Johnson Ltd,APAC,Low
+V04750,Cole PLC,AMER,Medium
+V00339,Crosby-Ramirez,LATAM,High
+V00529,"Daniels, Vance and York",AMER,High
+V03477,Ayala and Sons,APAC,Medium
+V00771,Armstrong and Sons,AMER,High
+V01710,Richardson-Gray,LATAM,High
+V04072,Lucero-Chase,AMER,High
+V01056,Watson Group,LATAM,Medium
+V02979,James PLC,LATAM,Medium
+V03482,Kim PLC,AMER,High
+V01946,Brown LLC,LATAM,
+V03876,Pierce-Bell,AMER,Medium
+V02557,"Sandoval, Thomas and Young",AMER,Medium
+V00531,Hicks-Martinez,EMEA,High
+V01297,Russell-Hayes,LATAM,High
+V01874,Erickson Inc,EMEA,Low
+V04755,Moyer-Sanchez,AMER,Medium
+V01233,Tran Group,APAC,High
+V03667,"Collins, Thomas and Soto",APAC,High
+V04873,Mack-Alvarado,LATAM,Low
+V00295,"Brennan, Wallace and Benson",APAC,Medium
+V03742,"Mclaughlin, Cook and Powers",LATAM,Medium
+V00445,"Conner, Li and Santiago",LATAM,Medium
+V00496,Carter Inc,EMEA,Medium
+V04695,Ortiz Group,AMER,High
+V00886,Wheeler PLC,AMER,High
+V01344,Brown LLC,APAC,Low
+V04280,Montoya Group,LATAM,Low
+V00336,"Avery, Horton and Fernandez",EMEA,Low
+V03418,"Santos, Sandoval and Wallace",EMEA,Medium
+V01340,"Martin, Palmer and Griffin",AMER,High
+V04185,"Lucero, Sanchez and Perez",APAC,High
+V03153,Walker Group,EMEA,High
+V03871,"Manning, Fritz and Brooks",APAC,Low
+V02149,"Henry, Spencer and Ryan",EMEA,
+V03314,Martin-Parker,AMER,High
+V03874,Duncan and Sons,LATAM,Low
+V03451,"May, Crawford and Collier",LATAM,Low
+V04219,"Wilson, Davis and Shah",EMEA,Low
+V02451,Mann PLC,AMER,High
+V01372,Cruz-Rodriguez,EMEA,High
+V01129,"Evans, Jackson and Sandoval",EMEA,High
+V04874,Zhang-Lewis,EMEA,High
+V01749,"Russo, Collins and Murphy",AMER,Low
+V03074,Pham Ltd,EMEA,Low
+V00541,"Matthews, Saunders and Anderson",AMER,Medium
+V04082,Blair LLC,EMEA,Low
+V00661,Foster Inc,LATAM,High
+V02982,Hicks Ltd,AMER,Medium
+V04113,"Hernandez, Dunlap and Lynch",LATAM,High
+V01089,"Cohen, Compton and Perez",LATAM,Medium
+V01398,"Mann, Martin and Oconnell",LATAM,Medium
+V04411,"Phillips, Gutierrez and Davidson",AMER,High
+V04681,"Ball, Mitchell and Allen",AMER,High
+V04505,"Garner, Campbell and Hawkins",LATAM,High
+V02299,Nguyen-Dennis,AMER,High
+V04330,Marquez PLC,AMER,Low
+V01923,"Walker, Brock and Simmons",APAC,High
+V00815,Hall-Sullivan,EMEA,Medium
+V03854,"Mitchell, Smith and Clark",EMEA,Medium
+V01300,Avila PLC,EMEA,High
+V04456,   elliott-zamora  ,APAC,Low
+V01324,Joseph Ltd,APAC,Medium
+V03181,Lin-Wilson,EMEA,Low
+V02040,Brown-Davidson,APAC,High
+V01978,"Mullins, Steele and Russell",APAC,Medium
+V04429,Barnes-Johnson,LATAM,High
+V01554,"Moore, Campbell and Ortiz",EMEA,Medium
+V00438,"Williams, Mccoy and Cook",AMER,High
+V02318,"Miller, Mcdonald and Miller",LATAM,High
+V01928,Thomas-Perry,LATAM,Low
+V04824,"   davis, obrien and barker  ",APAC,Medium
+V00116,Walker Ltd,APAC,Low
+V04307,"Martin, Payne and Stewart",EMEA,High
+V00906,"Brown, Hurst and Blevins",AMER,
+V02612,Leonard LLC,EMEA,High
+V01996,Zavala and Sons,EMEA,High
+V00503,Morgan-Lopez,AMER,Medium
+V02406,Medina Group,AMER,Low
+V00154,Green-Wright,EMEA,Low
+V00619,Smith PLC,EMEA,Medium
+V01466,Dillon-Mccarty,LATAM,Medium
+V02897,Nelson PLC,EMEA,Low
+V01244,"Reed, Chambers and Zavala",APAC,High
+V00765,Miller Group,AMER,High
+V04170,Harris-Chase,EMEA,Low
+V00902,"Griffith, Mitchell and Pugh",AMER,Low
+V01997,"Wilson, Mendoza and Crosby",LATAM,Medium
+V03424,"Morgan, Espinoza and Buchanan",APAC,Low
+V02257,Williamson and Sons,APAC,High
+V04858,Gibson Ltd,APAC,Low
+V04444,Morgan LLC,APAC,
+V00193,Short-Garcia,APAC,High
+V01018,Daugherty Ltd,LATAM,Low
+V03329,"Sullivan, Long and Robinson",LATAM,Low
+V04438,"Porter, Graham and York",LATAM,High
+V00472,Combs Ltd,AMER,Medium
+V00904,Harris-Lawson,AMER,High
+V04645,Mejia Inc,EMEA,Medium
+V01598,"Cunningham, Murphy and Wolfe",AMER,Low
+V00408,Roberts-Sullivan,AMER,High
+V02888,Santos-Martin,LATAM,High
+V02625,Carrillo-Wolfe,EMEA,High
+V02670,Sanders Inc,AMER,Medium
+V02155,Pacheco-Silva,APAC,High
+V04081,Wright LLC,AMER,High
+V01446,"Holmes, Stewart and Smith",LATAM,High
+V04389,Sanchez and Sons,APAC,Low
+V03770,Clark-Lyons,LATAM,Low
+V01301,Haynes Inc,EMEA,Low
+V02648,Reynolds-Mckinney,EMEA,Medium
+V02892,Cowan-Terry,AMER,Medium
+V02790,Johnson Inc,LATAM,High
+V04560,Fernandez-Collier,EMEA,High
+V02949,Martinez-Freeman,LATAM,High
+V01864,Murray-Leonard,AMER,High
+V01306,Taylor Group,AMER,Medium
+V04776,Smith-Anderson,AMER,Low
+V03945,"Medina, Miller and Yates",EMEA,High
+V00063,Wright and Sons,AMER,High
+V03801,"Bennett, Ford and Sanchez",APAC,Low
+V02581,Wood LLC,APAC,High
+V01572,"Ray, Craig and Park",APAC,Medium
+V04015,"Marks, Murphy and Ryan",EMEA,Medium
+V02939,Evans-Carter,AMER,High
+V00211,"Pierce, Bell and Chavez",AMER,Low
+V03922,Walker LLC,APAC,High
+V04226,"Miller, Hayes and Davis",APAC,Medium
+V02106,Jackson-Webster,EMEA,Medium
+V00779,Alexander-Jordan,EMEA,High
+V03179,"Newton, Doyle and Stewart",APAC,Medium
+V00645,Sullivan PLC,EMEA,Low
+V00108,Dickson-Brady,APAC,High
+V01014,Brown-Hernandez,LATAM,
+V03837,"Rodgers, Wright and Miller",LATAM,Low
+V00253,Bailey-Cook,AMER,High
+V03199,Garcia-Brady,APAC,Medium
+V01216,Petersen PLC,LATAM,Medium
+V03472,Nelson Inc,EMEA,Low
+V00322,Brock-Mcdonald,LATAM,High
+V02344,Hernandez-Henderson,APAC,Medium
+V01441,"Ramirez, Walker and Ray",APAC,High
+V00677,Mendez-Mayer,AMER,Low
+V04706,Gray Group,AMER,
+V00581,"Cook, Wells and Bryant",EMEA,Low
+V00433,Hayes LLC,EMEA,Medium
+V04628,Solis-Lopez,LATAM,Low
+V04672,Baker Group,EMEA,Low
+V00713,"Butler, Hernandez and Rivera",EMEA,Medium
+V00798,"Ortega, Jackson and Salazar",EMEA,Medium
+V01738,Morgan Group,AMER,High
+V01701,"Grant, Bryan and Williams",APAC,Low
+V01150,Smith-Ferguson,LATAM,Low
+V04950,"Carpenter, Coffey and Wright",AMER,High
+V04214,Joseph LLC,LATAM,Low
+V00255,Roberts-Landry,EMEA,High
+V01387,"Smith, Pena and Watts",EMEA,Medium
+V01406,Harris Ltd,EMEA,High
+V04153,"Williams, Holland and Alexander",EMEA,High
+V01631,"Hughes, Whitney and Romero",APAC,High
+V04791,"Turner, Kaufman and Esparza",EMEA,Medium
+V03816,Martin Ltd,LATAM,High
+V03341,Fuentes PLC,EMEA,High
+V04610,Yang PLC,AMER,
+V02732,Gray-Ruiz,EMEA,Low
+V04095,Rogers-Stafford,EMEA,Medium
+V03879,Beck Ltd,APAC,Medium
+V04711,"Griffin, Coleman and Kim",EMEA,High
+V01568,"Davis, Hardy and Schmidt",EMEA,High
+V01391,"Sanders, Harris and Arnold",APAC,High
+V01321,Jensen-Torres,AMER,Low
+V04371,Frey-Diaz,LATAM,High
+V01648,"Roach, Browning and Jordan",AMER,High
+V01795,"Berger, Fields and Smith",AMER,High
+V03638,"Rivera, Jacobs and Smith",AMER,Low
+V04923,"Mcbride, Hall and Hill",AMER,Low
+V01584,Foley Inc,APAC,Medium
+V02310,"Munoz, Howard and Davis",LATAM,Low
+V02470,Scott-David,EMEA,High
+V02174,"Richard, Davis and Rogers",EMEA,Low
+V01448,"Hensley, Lopez and Baker",AMER,Low
+V02558,"Trevino, Henderson and Gonzalez",APAC,High
+V01177,Kelley and Sons,LATAM,High
+V04990,Zamora LLC,LATAM,Low
+V00474,Lowery-Kennedy,EMEA,High
+V03640,Barr-Wang,EMEA,
+V03946,Knight-Wright,LATAM,Low
+V01607,Foster-Duncan,APAC,Medium
+V03044,Daniels LLC,EMEA,High
+V00943,Cline-Ayala,AMER,High
+V01376,"Gordon, Wilson and Olson",EMEA,High
+V04321,"Thompson, Coffey and Kidd",AMER,Medium
+V02659,"Quinn, Ellis and Bartlett",LATAM,
+V02560,Peterson Ltd,APAC,Medium
+V03711,"Thomas, Martin and Baxter",AMER,High
+V04742,"Monroe, Sullivan and King",APAC,High
+V00748,Goodwin Ltd,EMEA,High
+V00294,Good-Hodges,EMEA,Low
+V04029,"Gonzalez, Underwood and Schaefer",LATAM,High
+V03165,Parrish Ltd,AMER,High
+V01870,Bell-Hardy,EMEA,Low
+V03906,Ware-Medina,AMER,
+V01661,Joseph-Brooks,APAC,Medium
+V04455,Li and Sons,AMER,Medium
+V04168,Sloan Inc,APAC,Low
+V02292,Clay Inc,AMER,Low
+V00444,Collins Group,APAC,Medium
+V04052,Perez-Haynes,APAC,Low
+V00248,"Matthews, Smith and Hubbard",APAC,High
+V01432,Porter and Sons,LATAM,Medium
+V03006,"Brown, Compton and Lee",LATAM,Low
+V00017,James Group,EMEA,High
+V00545,"Jacobson, Singleton and King",APAC,High
+V00879,Baxter LLC,APAC,High
+V03485,"Smith, Gutierrez and Goodwin",EMEA,Low
+V01088,Ramirez-Vasquez,APAC,Low
+V02393,Carrillo Ltd,EMEA,Low
+V00091,"Turner, Riggs and Roman",LATAM,High
+V04765,"Watson, West and Cook",APAC,Low
+V03611,"Johnson, Walters and Smith",APAC,High
+V01719,"Gomez, Anderson and Hart",EMEA,Medium
+V04213,"Matthews, Huffman and Arellano",AMER,High
+V02281,Martin-Mcdonald,AMER,Low
+V03600,Phillips-Rodriguez,APAC,Medium
+V04532,Martinez Ltd,APAC,Medium
+V03948,"Mathews, Perez and Love",APAC,Low
+V04304,"Brown, White and Lee",LATAM,High
+V01579,"Gardner, Brooks and Pierce",AMER,Medium
+V03782,Watkins-Neal,EMEA,Low
+V00100,Walsh LLC,APAC,Medium
+V03835,   evans-johnson  ,EMEA,Medium
+V04843,Anderson-Murphy,APAC,Low
+V03440,"Welch, Johnson and Thompson",EMEA,High
+V00443,"Hale, Myers and Larson",AMER,Medium
+V01908,Johnson PLC,EMEA,High
+V03201,"Shaffer, Contreras and Christian",EMEA,High
+V03873,Foster and Sons,APAC,Medium
+V04988,"Wilkinson, Guzman and Elliott",LATAM,High
+V04034,Harrell-Hebert,AMER,Low
+V04889,Floyd-Kelly,AMER,High
+V04409,Lopez LLC,LATAM,High
+V03686,Forbes-Cortez,AMER,Medium
+V01500,"Smith, Weeks and Arroyo",AMER,Medium
+V01295,Bauer PLC,AMER,High
+V00788,Benton Group,EMEA,Low
+V00283,"Pollard, Simpson and Johnson",APAC,Low
+V04814,"Jennings, Serrano and Howard",APAC,Low
+V01740,Larson LLC,APAC,High
+V04300,   williams-smith  ,LATAM,Medium
+V02482,Medina Group,AMER,Medium
+V00770,Hardy PLC,EMEA,Low
+V02000,"Frazier, Ramirez and Brown",AMER,
+V00670,"Anderson, Dalton and Wilson",EMEA,Medium
+V00509,Jackson-Wallace,AMER,Low
+V03994,David-Watkins,APAC,High
+V04922,White and Sons,AMER,Low
+V01377,Winters PLC,AMER,Low
+V04567,"French, Burns and Nguyen",AMER,High
+V02699,"Hanson, Williams and Mcclure",LATAM,Medium
+V04536,"Nelson, Johnson and Hart",LATAM,Medium
+V04849,Hunt Group,APAC,Medium
+V03691,Clark-Rivera,AMER,Low
+V04169,"Sullivan, Howell and Fowler",LATAM,Medium
+V04509,Johnson-Morrison,EMEA,Medium
+V01982,Warner PLC,EMEA,Medium
+V04805,Sullivan and Sons,APAC,Medium
+V01265,"Morrison, Parsons and Brandt",LATAM,Medium
+V01463,Combs-Davis,AMER,Low
+V00800,Sheppard-Jordan,EMEA,Low
+V00593,"Allen, Armstrong and Graves",LATAM,Low
+V00131,"Parker, Ortiz and Powell",EMEA,Low
+V02161,Jackson-Ryan,EMEA,Low
+V04537,Simon and Sons,AMER,High
+V04418,Smith-Garner,APAC,Medium
+V04381,Price-Dominguez,LATAM,Medium
+V01090,Mccann-Ramos,AMER,Medium
+V03075,Reyes PLC,AMER,
+V01581,Smith-Johnson,APAC,High
+V02001,Chavez-Mason,EMEA,High
+V02637,Rodriguez-Hudson,APAC,Medium
+V04453,Harrington-Armstrong,LATAM,Medium
+V00559,Gross-Valencia,APAC,Low
+V02136,Jimenez Inc,EMEA,Low
+V04813,   anderson llc  ,APAC,Low
+V01369,Hanson PLC,APAC,High
+V01492,Dunn-Taylor,AMER,Medium
+V03748,Ramos LLC,APAC,Low
+V01995,Castro and Sons,LATAM,Medium
+V04223,Mann LLC,EMEA,Medium
+V03490,Anderson-Sanders,EMEA,Medium
+V04075,Anderson-Douglas,EMEA,Medium
+V00326,"Martinez, Richardson and Curry",APAC,Low
+V03802,Hughes LLC,AMER,Medium
+V01902,Diaz LLC,LATAM,High
+V02169,Harris-Reid,LATAM,Low
+V03033,Lopez Group,LATAM,Low
+V02222,"Martinez, Camacho and Mathews",LATAM,High
+V00229,Rowe Group,LATAM,Medium
+V03972,Lewis PLC,AMER,Medium
+V03509,Guerrero Inc,EMEA,High
+V03385,Bernard Group,EMEA,Low
+V01402,Lynch Ltd,EMEA,Medium
+V00334,Davis PLC,EMEA,Low
+V02102,"Mcmahon, Rush and Bailey",AMER,High
+V02233,"Johnson, Williams and May",EMEA,Low
+V01149,Powell-Sanford,EMEA,Low
+V00694,Faulkner-Grant,APAC,High
+V01271,Williams LLC,APAC,High
+V04630,Hughes Ltd,APAC,High
+V02304,Allen Group,EMEA,Low
+V00687,"Fry, Hobbs and Buck",APAC,Medium
+V04141,Kirby-Oconnor,EMEA,Low
+V02676,Jackson Inc,AMER,Medium
+V00776,"Weber, Wheeler and Gonzalez",LATAM,Low
+V00799,"Terrell, Byrd and Ross",APAC,
+V03609,Hamilton Ltd,EMEA,Low
+V00409,Jackson-Meza,LATAM,Medium
+V03694,Hernandez Inc,AMER,High
+V01998,"Pitts, Warner and Mullins",AMER,Medium
+V03669,Hancock Group,APAC,High
+V00578,Brooks-Hatfield,LATAM,
+V02025,Williams LLC,EMEA,Medium
+V02594,"Brooks, Stone and White",AMER,
+V04329,"Ross, Cummings and Harris",APAC,Medium
+V03576,Vargas-Jensen,AMER,High
+V01696,Ellis Group,LATAM,High
+V03397,"Harris, Thomas and Yang",AMER,Low
+V04415,Snyder Ltd,APAC,Low
+V00345,"Harper, Smith and Buchanan",LATAM,Medium
+V03264,Thomas-Edwards,APAC,Medium
+V01363,"Thomas, Jackson and Nielsen",AMER,Low
+V01479,Gutierrez-White,APAC,Medium
+V03552,"Gordon, Andrews and Kelley",APAC,Medium
+V01464,"Cook, Ward and Castro",LATAM,High
+V03558,Steele Group,APAC,High
+V02032,Smith Ltd,LATAM,Low
+V04535,"Young, Kane and Riley",LATAM,Medium
+V02865,Evans-Martinez,EMEA,Medium
+V04844,"Henderson, Edwards and Sexton",EMEA,Low
+V01039,Lynn-Jones,APAC,High
+V01031,Baker and Sons,APAC,High
+V02386,Sanchez Group,EMEA,High
+V00540,Humphrey PLC,AMER,Low
+V03888,"Walker, Lynch and Gordon",APAC,Medium
+V04617,Martinez and Sons,LATAM,Low
+V01771,Bradley-Davis,EMEA,High
+V01517,Snyder LLC,APAC,Medium
+V01626,"Williams, Jackson and Campbell",LATAM,High
+V04801,Briggs-Moore,APAC,Medium
+V03216,"Thompson, Strong and Holmes",LATAM,Medium
+V02537,Bennett Ltd,EMEA,Medium
+V00702,Giles Ltd,EMEA,Medium
+V03253,Hayden-Garcia,APAC,Low
+V00418,Thomas and Sons,LATAM,High
+V02754,"Mann, Johnson and Wade",AMER,Low
+V04032,Ferguson Inc,LATAM,Low
+V00896,"Hernandez, Jenkins and Parks",LATAM,High
+V03102,"Perez, Huynh and Nelson",AMER,High
+V02592,Gibbs-Mendez,APAC,High
+V04155,Li-Fuller,AMER,Medium
+V04593,"Welch, Davis and James",EMEA,Medium
+V04952,"Jones, Foster and Sanford",AMER,Medium
+V00323,Taylor and Sons,EMEA,Low
+V01490,Dalton-Nguyen,APAC,Medium
+V01952,Watkins-Nguyen,EMEA,High
+V00311,"Beltran, Lozano and Mcgee",APAC,Low
+V04634,"Martin, Sims and Gutierrez",AMER,Low
+V01646,"Anderson, Delgado and Carpenter",AMER,Medium
+V02408,"Campbell, Davis and Arnold",EMEA,Medium
+V02412,Green-Romero,LATAM,High
+V01985,Clarke LLC,AMER,High
+V00044,Allen-Allen,AMER,
+V03934,Wong-Harrell,LATAM,Low
+V01960,Hughes and Sons,LATAM,High
+V00818,Cole Group,AMER,
+V04077,Woods Ltd,APAC,High
+V01115,Byrd-Holloway,AMER,High
+V03045,"Miller, Taylor and Malone",AMER,High
+V03291,Villa Inc,AMER,Low
+V01545,"Phillips, Terry and Lopez",AMER,Medium
+V03263,Lewis LLC,APAC,High
+V03836,Howard Inc,AMER,Low
+V00807,Guerra Ltd,EMEA,
+V00784,Bennett-Velasquez,LATAM,Medium
+V01206,"Brown, Schneider and Moore",APAC,Low
+V00429,Gilbert PLC,LATAM,High
+V02031,Gould LLC,APAC,Low
+V04314,Gill Inc,EMEA,Low
+V01425,"Haynes, Mcbride and Gutierrez",EMEA,High
+V04188,Perry-Arnold,EMEA,High
+V00365,"Phillips, Wagner and Jordan",EMEA,High
+V02428,Dennis-Butler,AMER,High
+V04224,Davis-Green,AMER,High
+V01794,"Brown, Robinson and Taylor",APAC,High
+V02815,"Paul, Hardy and Valdez",AMER,Low
+V00038,"Baker, Mason and White",AMER,Low
+V02142,"Payne, Cisneros and Johnson",LATAM,Low
+V01970,Hood-Ramirez,EMEA,Low
+V02138,Hernandez-Howell,LATAM,Medium
+V00639,Holden Group,EMEA,High
+V03733,Roy Group,LATAM,Low
+V04494,Mendoza Inc,EMEA,
+V03313,"Harris, Ross and Jones",AMER,Medium
+V02298,"Smith, Booker and Douglas",APAC,Low
+V01204,Alvarado-Davidson,APAC,Low
+V04999,Robinson Inc,LATAM,Low
+V00584,"Kirby, Wheeler and Romero",EMEA,Medium
+V02541,"Williams, Horn and Morales",EMEA,High
+V03811,Lopez-Clark,LATAM,Medium
+V04978,"Krueger, Rodriguez and Roach",LATAM,High
+V03252,Mcdaniel Ltd,EMEA,Low
+V01977,"Nicholson, Chavez and Allen",LATAM,High
+V03206,"Foster, Ayers and Casey",EMEA,
+V02507,"Turner, Robbins and Young",AMER,High
+V04152,"Mckee, Fisher and Long",EMEA,Low
+V01365,Johns Ltd,LATAM,Medium
+V01234,"Webb, Romero and Morse",APAC,High
+V04609,"Gould, Wilson and Martin",EMEA,Low
+V04479,Pierce-Fuller,APAC,Medium
+V02550,Hardy-Wallace,LATAM,High
+V03478,"Franklin, Gray and Sutton",AMER,Medium
+V01269,"Baker, Martin and Singleton",LATAM,High
+V02177,Pearson LLC,EMEA,Low
+V02937,Morgan Ltd,LATAM,Low
+V03261,White LLC,APAC,Low
+V00658,Chavez PLC,EMEA,High
+V01704,"Lane, Morrison and Rivera",APAC,High
+V02431,"Palmer, Rice and Benson",APAC,High
+V01116,Silva-Smith,APAC,Medium
+V02728,Thompson-Wright,EMEA,Low
+V00706,"Morris, Campbell and Owens",LATAM,Low
+V02770,Gonzalez and Sons,EMEA,Medium
+V01043,Bush-Reynolds,APAC,High
+V04103,Graham-Joyce,APAC,High
+V04974,"May, Thomas and Adams",EMEA,High
+V01861,Blanchard-Reynolds,EMEA,Low
+V02143,Beard-Wilson,LATAM,Low
+V00076,"Daniels, Adkins and Brown",APAC,Medium
+V01843,Smith-Rodriguez,APAC,Low
+V00395,"Ramos, Nelson and Fischer",EMEA,High
+V01641,Hernandez Group,AMER,Low
+V02700,Turner-George,APAC,
+V02664,"Barrera, Kerr and Jenkins",LATAM,Low
+V04390,Brown-Armstrong,EMEA,Medium
+V02706,Smith-Barr,EMEA,Low
+V03248,"Case, Adams and Olson",EMEA,Medium
+V01103,Thompson-Harrell,APAC,High
+V03760,Collins Group,LATAM,Medium
+V01746,Gentry Group,LATAM,Low
+V00490,Cooper Ltd,LATAM,Low
+V02521,Frazier Group,EMEA,High
+V02835,"Michael, Walker and Fitzgerald",EMEA,High
+V04687,Davis Ltd,EMEA,Low
+V02350,Petty-Allison,LATAM,Low
+V01981,   castillo llc  ,LATAM,High
+V02717,Meyer Group,EMEA,Medium
+V01604,Baker-Ross,LATAM,Low
+V03382,"Edwards, Donovan and Marquez",EMEA,Low
+V00966,Owens-Russell,LATAM,Low
+V00147,Robinson-Brock,AMER,Low
+V04621,"Lopez, Gutierrez and Castro",AMER,High
+V00157,"Mitchell, Nelson and Flores",APAC,Low
+V01655,Hernandez-Lopez,LATAM,Medium
+V00847,"Alexander, Robinson and Coleman",AMER,High
+V02988,"Garcia, Lopez and Vaughan",AMER,High
+V01417,Thompson-Hunter,EMEA,High
+V03521,Morgan-Foster,AMER,High
+V02016,"Wilkinson, Wallace and Torres",APAC,High
+V03533,Cohen Group,EMEA,Medium
+V01563,Hebert-Collier,AMER,High
+V02437,Tucker-Moody,LATAM,Low
+V00852,"Norris, Callahan and Bishop",LATAM,Low
+V02309,Fitzgerald-Dorsey,EMEA,Medium
+V03021,"Henson, Baker and Anderson",AMER,High
+V03753,White Inc,AMER,Medium
+V04265,"Williams, Lewis and Bryant",EMEA,Low
+V01249,Rich-Henderson,APAC,Low
+V00555,Evans-Jones,AMER,Medium
+V00001,"Rodriguez, Figueroa and Sanchez",AMER,Low
+V02153,Flores-Johnson,AMER,Medium
+V02006,Miller and Sons,EMEA,Low
+V00587,Whitney PLC,AMER,Medium
+V03183,Harding-Mathews,LATAM,High
+V03355,"Gardner, Gaines and Archer",AMER,Low
+V02003,"Bryan, Lam and Hayes",EMEA,Low
+V01860,"Blanchard, Davis and Schmidt",AMER,Low
+V04346,Smith Inc,EMEA,High
+V04763,Thomas Ltd,EMEA,Low
+V02381,"Wilson, Harris and Ward",EMEA,Low
+V01698,Chapman Group,AMER,Medium
+V00083,Donovan-Harris,AMER,High
+V03082,Brown LLC,APAC,High
+V03378,Wright Group,APAC,Low
+V03916,Davis-May,LATAM,High
+V00992,Ramirez and Sons,LATAM,Medium
+V03226,Lopez-Delgado,APAC,High
+V02358,"Reed, Terry and Smith",LATAM,Medium
+V01210,Hunter PLC,LATAM,High
+V00146,Stafford Inc,AMER,Medium
+V03411,Alvarez LLC,EMEA,High
+V04418,Smith-Garner,APAC,Medium
+V02100,"   harris, santana and lopez  ",EMEA,Low
+V03133,"Hughes, Clark and Bishop",EMEA,Medium
+V03464,Gonzalez-Barron,EMEA,High
+V02832,Welch-Lewis,AMER,Medium
+V01424,Reyes and Sons,APAC,High
+V03928,Scott-Perez,LATAM,High
+V03366,Petersen-Martinez,APAC,
+V03735,"Christensen, Aguirre and Johnson",LATAM,
+V01359,Cortez-Olson,EMEA,High
+V04638,"Barber, Brooks and Cole",EMEA,High
+V03262,Gibbs-Howard,LATAM,Medium
+V03387,Buchanan-Carpenter,EMEA,Medium
+V02090,Jackson-Torres,APAC,Low
+V00128,Diaz Inc,APAC,High
+V04425,Vazquez Group,AMER,Medium
+V04675,Ward Inc,AMER,High
+V01787,Stephens-Young,LATAM,Low
+V00348,Willis and Sons,AMER,Medium
+V02262,Fitzgerald-Scott,AMER,High
+V03488,White-Williams,EMEA,Low
+V02908,Jackson Group,AMER,Low
+V03178,"Jensen, Morris and Downs",AMER,Low
+V01017,"Foster, Garcia and Turner",EMEA,High
+V00107,"Wright, Garcia and Deleon",EMEA,Medium
+V03762,Perez-Lopez,LATAM,High
+V00199,Ramirez Group,LATAM,Medium
+V00829,Allen Inc,AMER,Low
+V02099,Webster Inc,EMEA,Medium
+V01268,"Palmer, Bennett and Patterson",EMEA,Low
+V01992,"Cox, Williams and Reyes",AMER,Low
+V00988,Ramirez-Stephenson,APAC,Low
+V00398,"Estrada, Williams and Foster",EMEA,Low
+V01345,Williams and Sons,APAC,Medium
+V02971,"Lopez, Campbell and Wilson",EMEA,Medium
+V04815,"Miller, Martin and Collins",AMER,High
+V01857,Thomas-Berg,LATAM,Medium
+V00335,Price LLC,EMEA,Medium
+V01456,Gonzalez-Marsh,EMEA,Low
+V04024,Preston-Morales,APAC,Low
+V00528,Contreras-Mckinney,EMEA,High
+V02698,Jones LLC,EMEA,Low
+V00630,Hays-Daniels,LATAM,
+V03460,"Frederick, Porter and Ross",AMER,Low
+V00635,Gibbs-Bradley,EMEA,Medium
+V02834,Hernandez-Moran,AMER,Medium
+V04701,Massey-Obrien,EMEA,High
+V03347,Carey LLC,AMER,Medium
+V03300,Lane Ltd,LATAM,Medium
+V03167,Thomas LLC,AMER,High
+V03399,"Phelps, Turner and Collins",LATAM,Medium
+V04243,"Spencer, Morgan and Diaz",EMEA,Medium
+V03621,"Best, Humphrey and Pittman",LATAM,Low
+V00984,Jackson PLC,APAC,Medium
+V00683,"Holder, Young and Hendricks",APAC,Medium
+V01172,Hunt PLC,LATAM,High
+V00882,Williams Ltd,APAC,Low
+V04880,"Scott, Sandoval and Powers",LATAM,Medium
+V00206,Freeman-Chang,APAC,High
+V02388,Watson-Fischer,AMER,Low
+V00837,Lee Group,EMEA,High
+V02311,Hunt-Burns,EMEA,Medium
+V04652,Holt LLC,LATAM,Medium
+V04928,Ellison-Fisher,APAC,Medium
+V04802,Good-Cook,APAC,Low
+V00504,"Jimenez, Glass and Stone",LATAM,Low
+V02645,Moore-Rodriguez,APAC,High
+V02514,"Anderson, Brown and Green",APAC,Medium
+V00971,Hernandez-Dawson,EMEA,
+V04367,Nixon LLC,APAC,High
+V02078,Davis-Carpenter,EMEA,Low
+V00270,Baird-Sanchez,EMEA,Low
+V03652,"Morales, Cardenas and Mcdowell",EMEA,Low
+V02013,Brown and Sons,AMER,Medium
+V00758,Lopez-Willis,LATAM,High
+V01628,Jones Ltd,APAC,Low
+V04388,"Huang, Johnson and Anderson",EMEA,High
+V01117,"Levy, Franco and Hoffman",EMEA,Medium
+V02347,Richards-Harris,AMER,Low
+V01165,"Vang, Stanley and Valdez",LATAM,Low
+V00257,Cordova Group,AMER,Medium
+V00821,Ray PLC,AMER,Medium
+V01271,Williams LLC,APAC,High
+V03290,"Barrera, Wood and Leach",APAC,High
+V04903,Johnson and Sons,LATAM,Medium
+V01275,"Robinson, White and Jones",LATAM,High
+V02239,Green Ltd,LATAM,
+V01247,Aguilar-Bender,AMER,Medium
+V01800,Sellers-Zuniga,LATAM,Medium
+V04871,"Olsen, Payne and Butler",APAC,Medium
+V04505,"Garner, Campbell and Hawkins",LATAM,High
+V02133,King Group,EMEA,High
+V02027,"Mann, Wade and Spence",EMEA,Low
+V03775,Watson-Gray,AMER,Medium
+V02830,"Flores, Shaw and Barker",LATAM,High
+V03422,"Warren, Palmer and Thompson",AMER,High
+V04819,Prince Group,APAC,Medium
+V03660,Carter-Davis,EMEA,High
+V03670,"Wright, Thomas and Jensen",APAC,Low
+V00310,Smith-Grimes,AMER,High
+V04911,"Stewart, Collins and Short",AMER,Low
+V02585,Lee Group,APAC,Medium
+V01272,"Williams, Randolph and Gilbert",LATAM,Medium
+V04164,"Morris, Morales and Bailey",APAC,High
+V02410,"Vargas, Allen and Schroeder",APAC,Low
+V03852,Hill Ltd,LATAM,High
+V00278,Gibson-Morris,APAC,Low
+V01429,Woods LLC,EMEA,Low
+V03175,Gaines-Hudson,APAC,High
+V04079,Perez Inc,APAC,High
+V04331,Gould Ltd,AMER,
+V00328,Rodriguez-Hall,APAC,High
+V00609,Huang-Foster,LATAM,Low
+V04107,Parsons and Sons,LATAM,High
+V01375,Valenzuela-Greene,EMEA,Medium
+V02232,"Daniel, Kelley and Murphy",EMEA,Medium
+V01320,Stewart Group,AMER,High
+V00891,Taylor-Ayala,EMEA,High
+V04691,Mcclain and Sons,APAC,Low
+V01256,Cervantes-Garcia,AMER,High
+V01212,Solis-West,APAC,High
+V03476,Smith Inc,EMEA,
+V03189,Turner LLC,APAC,Medium
+V03659,Costa-Johnston,LATAM,High
+V03579,"Davenport, Roberts and Woods",AMER,High
+V03963,Murphy Group,EMEA,Medium
+V01804,Wood PLC,APAC,Medium
+V03164,Irwin-Lewis,APAC,High
+V02193,Sanchez LLC,APAC,High
+V02458,Sanchez Ltd,AMER,Medium
+V04457,Dixon-Davis,LATAM,Low
+V00419,Morrison Ltd,LATAM,Low
+V02122,"Garcia, Kim and Barrett",LATAM,Medium
+V00243,Gonzales-Harrison,EMEA,Low
+V00616,Sanchez Ltd,EMEA,Medium
+V02818,Peterson PLC,AMER,Low
+V00145,Hernandez Ltd,APAC,Low
+V04879,Garcia Ltd,APAC,Low
+V01498,Smith-Mills,APAC,Medium
+V04573,"Smith, Leon and Wagner",AMER,Low
+V03166,Nelson-Reid,AMER,High
+V02715,Stevenson-Murphy,APAC,Low
+V01355,Shaw and Sons,APAC,Low
+V04070,Prince-Davis,APAC,High
+V02989,Cook-Rodriguez,APAC,Medium
+V03567,Yoder Group,APAC,Low
+V02871,Sheppard Inc,EMEA,Low
+V04401,Hughes Ltd,LATAM,Low
+V01530,"Pineda, Meyer and King",LATAM,Low
+V04251,"Day, Campbell and Taylor",LATAM,Medium
+V01264,"Mckinney, Richardson and Chapman",LATAM,High
+V01819,Arnold-Cole,AMER,High
+V04038,Martinez-Gould,AMER,Low
+V02151,"Brown, Baker and Garza",LATAM,High
+V03963,Murphy Group,EMEA,Medium
+V01349,Davenport-Baker,LATAM,Low
+V01337,"Vincent, Anderson and Mason",LATAM,Medium
+V00102,"Patterson, Smith and Jones",EMEA,High
+V04083,Page-Murray,EMEA,Medium
+V02980,Graves-Baird,APAC,High
+V04993,Perez-Bernard,AMER,Medium
+V00010,Abbott-Munoz,APAC,Low
+V02123,Wilson Group,AMER,
+V00021,Gray-Mayo,LATAM,Medium
+V00825,"Price, Long and Wilson",APAC,High
+V02277,Stewart Group,EMEA,Medium
+V02374,Glover-Hammond,LATAM,Low
+V00174,Lewis-Murphy,EMEA,Low
+V02319,Evans-Joyce,EMEA,Medium
+V04906,Montes Group,APAC,Low
+V00389,Bennett Group,AMER,High
+V01528,Price-Ali,AMER,High
+V01082,"Washington, Lynch and Johnson",LATAM,High
+V02190,Colon-Lucas,EMEA,Medium
+V02047,Hughes-Smith,AMER,Medium
+V03553,Ryan-Martinez,EMEA,Low
+V03031,"Hamilton, Hernandez and Mendoza",APAC,Medium
+V03636,Herrera Ltd,APAC,High
+V03241,"Bond, Wilson and Cooper",LATAM,Low
+V01246,"   morris, wilson and bell  ",LATAM,Medium
+V03573,"Sellers, Strong and Gomez",AMER,Medium
+V04092,"Sullivan, Haney and Chavez",APAC,Low
+V01072,Flowers LLC,AMER,Medium
+V04222,White-Collins,APAC,High
+V00354,"Morris, Thompson and Williams",LATAM,Medium
+V01076,"Ellis, Marks and Buchanan",EMEA,High
+V03929,Aguilar and Sons,EMEA,Low
+V00506,Morrison-Short,APAC,High
+V04086,"Thomas, Doyle and Rosales",LATAM,Low
+V04296,Allen PLC,EMEA,
+V00026,Wilkerson-Day,LATAM,Low
+V00889,"Anderson, Jones and Reyes",EMEA,High
+V04730,Foley-Miranda,EMEA,High
+V02748,Lee Group,APAC,High
+V02414,West PLC,EMEA,High
+V03692,"Cortez, Phelps and Taylor",APAC,Medium
+V04348,Harris-Hernandez,LATAM,Low
+V01015,"Stark, Schroeder and Mathis",EMEA,Medium
+V01455,Brock-Peters,LATAM,Low
+V02073,Williams-Carter,EMEA,Low
+V02970,Williamson Ltd,APAC,Low
+V03975,Duncan and Sons,AMER,High
+V02644,   jackson group  ,AMER,Low
+V00978,Parks-Pace,APAC,High
+V04175,"Phillips, Castro and Thompson",EMEA,Medium
+V03543,"Brooks, Dunlap and Carter",AMER,Low
+V01540,"Moody, Martinez and Hall",APAC,
+V04442,Lara-Butler,AMER,Low
+V00442,Rangel LLC,APAC,High
+V00508,Parker-Morrison,LATAM,Medium
+V03123,Matthews Group,APAC,High
+V01504,   wright-espinoza  ,EMEA,High
+V02631,"Goodwin, Farmer and Vaughn",AMER,Low
+V03220,Hood-Moore,EMEA,High
+V04854,"Harris, Hernandez and Becker",LATAM,Low
+V01205,Combs PLC,AMER,Medium
+V04867,"King, Baker and Schmidt",APAC,High
+V02250,   wilcox-snyder  ,EMEA,Medium
+V03402,Meyer and Sons,APAC,Low
+V04338,White-Ramos,EMEA,Low
+V01209,Rivera LLC,EMEA,Low
+V03268,Guzman-Rose,LATAM,High
+V02469,Garcia-Thomas,AMER,Low
+V02995,"Martinez, Willis and Barr",EMEA,Medium
+V04312,Smith-Brown,EMEA,Medium
+V00363,"Hernandez, Martinez and Weber",EMEA,Low
+V01828,Marshall-Miller,AMER,Medium
+V04011,Taylor Ltd,LATAM,High
+V01166,Williams Inc,EMEA,High
+V00930,"Proctor, Burton and Crawford",EMEA,Medium
+V04965,Harris-Rodriguez,APAC,Medium
+V00816,Lopez Ltd,LATAM,Low
+V02601,   scott-miller  ,AMER,High
+V02512,"Snyder, Arnold and Keller",LATAM,Medium
+V01905,"Lee, Dominguez and Mosley",LATAM,Low
+V00264,"Lloyd, Mckinney and Collins",LATAM,High
+V03172,Gonzalez Group,LATAM,Low
+V01155,"Torres, Brown and Williams",APAC,
+V04465,Jacobs-Herrera,AMER,Low
+V02116,Wilson-Campbell,EMEA,Medium
+V00378,Bell-Lane,LATAM,Low
+V00793,Ewing-Mendoza,APAC,
+V03826,Schmidt-Reyes,EMEA,Medium
+V03613,"Gonzalez, Harrison and Washington",LATAM,High
+V02641,"Burns, Lopez and Jones",APAC,High
+V00526,Hayes Ltd,AMER,High
+V02870,"Reeves, Tyler and Martinez",EMEA,Medium
+V02720,"Mcneil, Solis and Horton",APAC,
+V03571,Bass Inc,AMER,Low
+V02005,Lopez Group,APAC,Medium
+V02719,"Rivera, Allen and Ryan",AMER,High
+V01752,Reeves-Boyd,EMEA,High
+V04230,"Elliott, Villarreal and Sosa",EMEA,High
+V01401,Baker LLC,LATAM,Low
+V02711,Todd-Harvey,LATAM,High
+V00636,Thompson Ltd,EMEA,Medium
+V01191,Marsh-Banks,LATAM,Medium
+V03634,"Robinson, Fields and Williams",AMER,Medium
+V04447,Wood Group,LATAM,Medium
+V03859,"Lynch, Murray and Fisher",LATAM,Low
+V03111,Allen and Sons,EMEA,High
+V03296,Silva Inc,EMEA,High
+V04105,Sanders PLC,AMER,High
+V03715,"Wolf, Allen and Long",EMEA,Medium
+V02394,"Acevedo, Miller and Edwards",LATAM,Medium
+V02227,"Sullivan, Johnson and Delacruz",AMER,High
+V04285,Barrera Group,AMER,Low
+V00950,Hall LLC,AMER,Low
+V01653,Ali-Turner,APAC,Low
+V03442,Zhang PLC,AMER,High
+V00781,"Harris, Edwards and Oconnell",LATAM,Low
+V03590,"Clark, Stone and Andrews",LATAM,High
+V00877,Harris-Barker,EMEA,Medium
+V03242,Webb-Mendez,LATAM,Medium
+V02166,Stokes Inc,AMER,Low
+V00405,Graham Group,EMEA,High
+V02629,Porter Ltd,AMER,Medium
+V02878,"Jackson, Rowland and Barrett",LATAM,Low
+V01827,"Simon, Terrell and Terrell",APAC,High
+V01459,"Holmes, Le and Floyd",LATAM,High
+V03016,Bowman LLC,LATAM,
+V02851,Mccann-White,APAC,Medium
+V02022,Joseph LLC,EMEA,Low
+V01882,Ramirez Inc,APAC,High
+V04125,Taylor-Morales,APAC,Medium
+V02708,Gordon Ltd,AMER,Medium
+V01876,Douglas-Yoder,LATAM,Medium
+V03799,Cooper Group,LATAM,Low
+V04003,Sanchez-Armstrong,AMER,High
+V02931,"Brady, Sanchez and Stevenson",LATAM,High
+V02716,Stewart-Buchanan,APAC,Medium
+V04738,Smith Group,APAC,High
+V03857,Davis-Walker,EMEA,Medium
+V01045,Rivera and Sons,APAC,Low
+V01797,"Carter, Gilbert and West",APAC,Low
+V03424,"Morgan, Espinoza and Buchanan",APAC,Low
+V04967,Hammond-Kennedy,LATAM,Low
+V04762,Weeks-Martin,AMER,Medium
+V01694,Roach and Sons,AMER,High
+V02359,Barber-Harrison,AMER,Low
+V03256,"Burgess, Cabrera and Dean",LATAM,Low
+V03280,"Williams, Newman and Jones",LATAM,High
+V00034,Frazier Inc,APAC,High
+V04249,Alvarado LLC,LATAM,Low
+V03839,"Snyder, Orozco and Reed",EMEA,High
+V01596,"Delgado, Guzman and Smith",APAC,High
+V00753,Davis and Sons,EMEA,High
+V01618,Singh and Sons,AMER,Low
+V00901,Wright PLC,EMEA,Low
+V01670,"Crosby, Armstrong and Herrera",LATAM,Medium
+V04325,Archer and Sons,LATAM,Medium
+V01434,Perez and Sons,APAC,Medium
+V04454,Erickson PLC,EMEA,Medium
+V03612,Willis and Sons,APAC,Medium
+V03978,"   moore, frye and zavala  ",APAC,
+V03743,Hurst-Jackson,LATAM,Low
+V02636,Brown-Hughes,APAC,Medium
+V01565,"Paul, Zamora and Short",AMER,Medium
+V01431,Valentine Ltd,EMEA,Medium
+V04740,"Barber, Oneal and Owens",LATAM,High
+V02511,Rodriguez-Ramirez,LATAM,Low
+V00721,Landry Ltd,EMEA,Medium
+V00087,"Ferrell, Jones and Lewis",EMEA,
+V00632,"Mcdonald, Lee and Rodriguez",APAC,Low
+V04268,Duncan PLC,LATAM,Low
+V03182,"Russell, Meyer and Smith",LATAM,Low
+V03287,Johnson Inc,LATAM,Medium
+V02872,Atkins Ltd,LATAM,High
+V00273,Morgan-French,LATAM,High
+V02485,Nelson-King,LATAM,Medium
+V00769,Smith-Gutierrez,EMEA,
+V04468,Mills PLC,APAC,Medium
+V03524,"Guerrero, Huff and Abbott",AMER,Low
+V03190,"Fuentes, Martinez and Porter",APAC,Medium
+V04670,Reilly-Gibson,LATAM,Low
+V02443,Berry-Knight,AMER,High
+V03671,Mills-Franco,APAC,Low
+V02616,"Daniels, Green and Carrillo",AMER,Low
+V01330,"Gonzalez, Gross and Sims",EMEA,High
+V04144,Marquez Group,LATAM,Low
+V02494,Clark-Haley,LATAM,Low
+V00512,"Whitney, Gould and Jones",AMER,Medium
+V03489,Morrison-Zamora,AMER,Low
+V01443,Ayers-Johnson,APAC,Medium
+V04890,Gomez Group,APAC,High
+V02963,Shaw-Mclean,EMEA,Medium
+V04671,"Silva, Hill and Bradley",EMEA,Low
+V00925,"Smith, Crawford and Reed",LATAM,Medium
+V04005,Taylor Inc,EMEA,High
+V04773,"Reid, Thomas and Gill",EMEA,
+V01863,Scott PLC,APAC,Low
+V02242,Duffy-Wilkerson,AMER,Medium
+V02266,"Mckinney, Pacheco and Smith",APAC,Medium
+V02602,Phillips PLC,LATAM,Low
+V00510,Williams-Berg,EMEA,Low
+V03309,"Palmer, Edwards and Blackburn",EMEA,High
+V00940,Shaw Inc,EMEA,High
+V00457,Bishop-Goodwin,APAC,Low
+V04232,Nichols LLC,LATAM,Medium
+V02336,"Church, Guzman and Tucker",APAC,Medium
+V03210,Randall-Stone,LATAM,Low
+V03379,"Gonzalez, Torres and Evans",EMEA,Low
+V03240,Keller Ltd,EMEA,High
+V02111,Zavala-Coleman,EMEA,High
+V04181,Austin-Arellano,LATAM,
+V03211,"Greene, Rogers and Haley",AMER,Medium
+V01796,Guerrero Group,AMER,Low
+V03680,"Jones, Martinez and Smith",LATAM,High
+V02170,Pittman PLC,LATAM,High
+V04139,Copeland-Richmond,EMEA,Low
+V02869,Stone PLC,AMER,High
+V03461,Gardner Inc,APAC,High
+V01356,Martin-Jones,LATAM,Medium
+V04436,Gallegos-Nash,APAC,Low
+V04010,Scott-Adkins,APAC,Medium
+V04078,"Gonzalez, Robinson and Anderson",LATAM,Low
+V03362,Ho-Thomas,APAC,Low
+V03064,Stanley-Cantu,EMEA,High
+V00366,"Wilson, Pena and Rich",EMEA,High
+V02722,"Morris, Ramos and Smith",EMEA,Low
+V03961,"Mendez, Bryant and Smith",EMEA,Medium
+V01844,Kent Ltd,LATAM,Low
+V03741,Lucero-Lee,APAC,Medium
+V04393,Berg-Williamson,AMER,High
+V01683,"Huang, Khan and Davis",APAC,High
+V03858,"Nguyen, Brown and Roberts",APAC,Low
+V02566,Steele Group,AMER,High
+V00685,Young-Walter,APAC,Low
+V00519,Hines-Berry,EMEA,Low
+V03997,"Willis, Brown and Brown",APAC,Low
+V04485,"Martin, Reeves and Davis",EMEA,Low
+V02778,Woods Ltd,APAC,High
+V01291,Harris Ltd,APAC,Medium
+V00782,Carter-Neal,EMEA,High
+V01219,Velasquez Group,APAC,High
+V02134,Fuller and Sons,EMEA,Medium
+V04402,"Lee, Roth and Erickson",EMEA,Low
+V00448,Bean LLC,APAC,High
+V00552,"Fowler, Jimenez and Burton",EMEA,Medium
+V04239,"Stone, Mccullough and Jimenez",AMER,High
+V04596,"Bond, Robinson and Jenkins",APAC,High
+V04186,"Cain, Thomas and Phillips",EMEA,High
+V02868,"Roth, Logan and Moreno",EMEA,
+V03563,Craig-Wade,LATAM,High
+V00399,"Brown, Harris and Dougherty",LATAM,High
+V00863,Burton-Brooks,AMER,Low
+V03996,"Moyer, Mccarthy and Wright",EMEA,Medium
+V00359,"Turner, Schneider and Johnson",EMEA,High
+V02125,"Schaefer, Levine and Brown",EMEA,High
+V01552,"Brown, Coffey and Fuentes",AMER,Medium
+V02583,"Keith, Johns and Jones",AMER,High
+V00117,Ross LLC,APAC,Low
+V02382,"Carter, Alexander and Hunter",LATAM,Low
+V04229,"Smith, Murphy and Torres",AMER,Medium
+V01280,"Smith, Caldwell and Griffin",EMEA,High
+V03043,Sparks Inc,LATAM,High
+V03789,Tanner-Sanford,APAC,Low
+V02343,"Garrison, Ryan and Miller",AMER,High
+V02454,Friedman PLC,APAC,High
+V01087,Morgan LLC,AMER,High
+V04413,"Allen, Smith and Zamora",EMEA,Low
+V02838,Ritter PLC,AMER,Medium
+V00489,King-Smith,AMER,Medium
+V03950,Arnold-Davis,AMER,High
+V00803,Griffin Group,EMEA,High
+V04684,Hernandez PLC,EMEA,High
+V02201,Lester Group,EMEA,High
+V04993,Perez-Bernard,AMER,Medium
+V04422,Harmon-Castillo,LATAM,High
+V00226,Hernandez PLC,APAC,Low
+V02796,"Nguyen, Wallace and Lawson",LATAM,Medium
+V04737,"Obrien, Williams and Mcgrath",AMER,High
+V02817,Wilson-Miller,LATAM,Low
+V03068,Briggs-Wilson,EMEA,Medium
+V02981,Rogers Group,APAC,Low
+V01473,Welch-Duncan,AMER,Low
+V03350,"Smith, Irwin and Chase",EMEA,Medium
+V03330,"Adams, Harris and Floyd",AMER,Medium
+V01214,Mcgee-Smith,LATAM,Low
+V03103,Boyd and Sons,AMER,High
+V04131,Weaver PLC,LATAM,Low
+V03820,"Hunter, Parks and Smith",APAC,
+V01106,Johnson-Williams,AMER,Low
+V03577,"Williams, Rodgers and Kelly",LATAM,High
+V00155,"Ramirez, Strickland and Washington",AMER,High
+V00182,"Gould, Marshall and Scott",AMER,Medium
+V03829,"Brennan, Graham and Marshall",APAC,
+V01293,"Parks, Johnson and Love",EMEA,High
+V03517,"Green, Horne and Mcdonald",APAC,Medium
+V01325,Hill-Ward,AMER,High
+V03532,"Douglas, Hall and Pena",AMER,High
+V04926,Escobar-Barrett,LATAM,Medium
+V01158,Ferrell-Henry,LATAM,High
+V01949,"Williams, Medina and Moore",LATAM,Medium
+V02666,"Miranda, Nguyen and Hayes",LATAM,High
+V02598,Jacobson Group,LATAM,High
+V01187,"Holland, Murphy and Kline",EMEA,High
+V03322,"Reilly, Lee and Lopez",AMER,High
+V03761,"Mitchell, Ramirez and Cunningham",AMER,Low
+V01058,Marshall-Perez,EMEA,High
+V00302,Estrada-Nolan,AMER,Low
+V00938,"Rios, Walker and Wright",APAC,Medium
+V03276,"Murphy, Reyes and Ray",APAC,Low
+V04690,Allen PLC,EMEA,Low
+V01353,Gomez-Parrish,AMER,Medium
+V03305,Bonilla Inc,EMEA,Medium
+V02332,"Hendrix, Green and Nunez",EMEA,Low
+V04677,Dunn LLC,AMER,Low
+V04619,Griffin PLC,EMEA,Medium
+V04757,Brooks-Bell,EMEA,Low
+V01726,"Campbell, Tyler and Parker",LATAM,Medium
+V00613,"Scott, Mendoza and Harris",EMEA,Low
+V04154,Berry-Mills,AMER,Medium
+V04045,"Howard, Cowan and Perry",AMER,High
+V02204,Young PLC,LATAM,High
+V02362,"Mcdonald, Ware and Sharp",APAC,High
+V02383,"Harrell, Moore and Cox",AMER,High
+V02095,Smith Group,EMEA,Medium
+V02520,Richard-Russell,LATAM,Low
+V03416,Bryant-Elliott,EMEA,High
+V03298,"Barron, Church and Gutierrez",EMEA,Medium
+V01231,Ellis-Lawrence,AMER,Low
+V00340,"Wood, Ramos and Sampson",APAC,High
+V01083,Powell-Montgomery,LATAM,Low
+V02924,"Mitchell, Noble and Stokes",AMER,Low
+V00824,Rose-Fowler,AMER,Medium
+V00327,Richards-Carson,LATAM,Low
+V03409,Thomas Ltd,APAC,Medium
+V04618,Hudson Ltd,AMER,Medium
+V04756,Prince Inc,APAC,Low
+V03979,"Larson, Butler and Barber",AMER,High
+V01774,Callahan PLC,LATAM,High
+V03537,Bailey Inc,EMEA,High
+V01312,"Cooper, Gutierrez and Brewer",LATAM,Low
+V03960,"Tanner, Waters and Lee",AMER,Low
+V04851,Johnson-Smith,LATAM,Medium
+V03844,"Miller, Pennington and Curry",APAC,Low
+V01289,"Smith, Jones and Santiago",AMER,Low
+V02231,Hunter-Bell,AMER,High
+V03406,Skinner PLC,EMEA,Medium
+V03097,"Dominguez, Mitchell and Moore",APAC,High
+V04320,"Suarez, Walker and Mitchell",LATAM,Low
+V03687,"Nelson, Morris and Preston",EMEA,Low
+V02372,"Johnson, Brown and Jordan",AMER,High
+V02407,"Higgins, Hobbs and Meyer",APAC,Low
+V03819,Martin and Sons,EMEA,Medium
+V04781,Acosta-Buchanan,AMER,Low
+V04087,"Bullock, Cruz and Williams",LATAM,Low
+V00320,"Shaw, Nelson and Martin",AMER,Medium
+V02251,Reeves and Sons,LATAM,Low
+V02575,Morgan PLC,AMER,Medium
+V01919,Jackson Inc,APAC,Low
+V04866,"Phelps, Montoya and Barnett",APAC,Medium
+V00975,"Adkins, Wright and Murray",APAC,High
+V02665,"Martinez, Wood and Campos",AMER,Medium
+V04647,"Roman, Stark and Turner",EMEA,High
+V02158,Wright Ltd,APAC,High
+V03728,Davis-Wood,EMEA,Low
+V02348,"Gallegos, Myers and Cook",EMEA,Low
+V01925,"Gardner, Morris and Oconnell",AMER,High
+V04025,Smith-Clayton,APAC,Low
+V02710,Parker Ltd,LATAM,Low
+V02363,Moyer-Whitaker,EMEA,
+V03561,"   hall, hartman and hall  ",EMEA,
+V01035,Bell-Bennett,APAC,Low
+V01555,Rodriguez-Mills,AMER,Low
+V02611,Johnson-Gonzalez,APAC,Low
+V04221,Horton-Taylor,APAC,High
+V01408,"Hale, Gilbert and Craig",LATAM,Medium
+V00467,Davis-Lozano,LATAM,High
+V04191,Francis-Mann,LATAM,Low
+V04240,"Moore, Austin and Rogers",EMEA,Low
+V02845,Ramos Group,EMEA,High
+V01583,Smith-Joyce,APAC,Low
+V00023,Perez Inc,LATAM,Low
+V04339,"Clark, Bradley and Jackson",AMER,Low
+V04424,"Duarte, Lee and Matthews",AMER,High
+V04303,"Brown, James and Arroyo",APAC,Low
+V00458,Young-Allen,LATAM,Medium
+V01909,Burns Inc,LATAM,Low
+V02656,Graves-Dawson,EMEA,Medium
+V04272,Joyce-Benitez,EMEA,High
+V00223,Sheppard LLC,AMER,Medium
+V01005,"Bradford, Salinas and Kelly",EMEA,High
+V02650,Matthews-Shaw,LATAM,Medium
+V02624,Edwards and Sons,AMER,Low
+V04991,Hodge LLC,AMER,Medium
+V02462,Johnson-Rice,LATAM,High
+V03390,Powell Inc,LATAM,Low
+V02223,Smith-Yu,LATAM,Low
+V04100,Perez Group,EMEA,Low
+V00778,Cook-Oliver,LATAM,
+V01799,Hudson-Gentry,AMER,Medium
+V01393,Hinton-Lane,AMER,Medium
+V04245,Bauer Inc,LATAM,Medium
+V00736,Sutton-Abbott,AMER,Medium
+V01559,Duncan Group,LATAM,High
+V02686,Wang-Mcfarland,AMER,Low
+V01842,Anderson-Campbell,LATAM,Medium
+V04516,Dixon LLC,EMEA,Low
+V01470,"Griffin, Miller and Austin",LATAM,Medium
+V04754,"Marshall, Khan and Ford",APAC,Low
+V00463,"Taylor, Wright and Davidson",AMER,Low
+V04704,Edwards Group,LATAM,Medium
+V01239,Waller-Chavez,AMER,High
+V01339,Bates PLC,AMER,Medium
+V00973,Green-Ewing,EMEA,High
+V02757,"Skinner, Smith and Wise",APAC,Medium
+V04178,Baldwin PLC,EMEA,Medium
+V04820,Adams LLC,LATAM,Low
+V03001,"Dawson, Snow and Malone",EMEA,Low
+V04056,Cunningham and Sons,AMER,High
+V01196,Carr-Huffman,LATAM,Medium
+V03494,Deleon-Carter,APAC,High
+V04097,"Bryant, Davis and Chase",LATAM,High
+V02137,Reyes Ltd,EMEA,Low
+V02208,Murphy-Silva,LATAM,High
+V02914,Bradley-Adams,APAC,High
+V02986,Williams Inc,APAC,Low
+V01875,Gates and Sons,EMEA,Low
+V02676,Jackson Inc,AMER,Medium
+V03757,Wiley and Sons,AMER,Medium
+V00956,   morse plc  ,AMER,Medium
+V00836,"Brown, Howard and Smith",AMER,High
+V01323,Jackson-Edwards,AMER,Low
+V02764,Olsen-Adams,APAC,Low
+V02721,Franklin Group,APAC,Low
+V00492,Anderson-Bell,EMEA,Low
+V03157,Gonzalez-Murphy,APAC,Medium
+V02840,Todd-Myers,AMER,High
+V02490,"Lutz, Johns and Clark",EMEA,Medium
+V02085,"Arnold, Avila and Wilson",LATAM,Medium
+V00727,"Durham, Hopkins and Smith",AMER,Low
+V02967,Jordan-Harper,LATAM,Low
+V01944,Jennings Group,EMEA,Low
+V02385,Montes-Hammond,AMER,Low
+V00668,Kane-Knox,AMER,High
+V01648,"Roach, Browning and Jordan",AMER,High
+V04315,"Gardner, Smith and Holloway",AMER,High
+V02593,Romero Ltd,EMEA,High
+V00766,Hawkins-Hunt,AMER,High
+V03458,"Howard, Brennan and Moore",AMER,Low
+V02784,Munoz-Rogers,APAC,
+V01668,Patterson Inc,AMER,Medium
+V02183,"Hayden, Harmon and Mcdonald",APAC,Medium
+V01814,"Smith, Griffith and Tucker",APAC,Medium
+V03229,Hopkins-Hill,AMER,High
+V03438,Johnson Ltd,EMEA,High
+V01731,Robles-Brewer,LATAM,High
+V02973,Gonzalez-Mccarthy,APAC,High
+V04845,"Parrish, White and Booth",AMER,Medium
+V02936,Simpson-Jackson,APAC,Low
+V04519,Cortez-Ellis,AMER,Low
+V00570,Williams-Campbell,APAC,Medium
+V04033,Fernandez Inc,EMEA,Low
+V02547,"Lee, Garcia and Larson",EMEA,Low
+V00090,Moore-Bass,AMER,Medium
+V01322,"Hernandez, Knight and Aguirre",AMER,High
+V01290,Hancock Group,AMER,Low
+V04253,Powell-Bennett,LATAM,Low
+V03546,Rodriguez and Sons,LATAM,Low
+V02642,Campbell-Hall,LATAM,Medium
+V02064,White-Knox,EMEA,Medium
+V04120,"Chung, Brown and Jenkins",LATAM,Medium
+V03701,"Daniel, Richardson and Wang",LATAM,Medium
+V01248,"Butler, Adkins and Skinner",APAC,Low
+V00838,"Wagner, Simpson and Cohen",LATAM,High
+V01699,Ortiz-Miller,AMER,Medium
+V00841,Carter LLC,EMEA,Low
+V01929,"Wood, Martin and Sanchez",LATAM,
+V03630,"Lewis, Rosales and Ortiz",LATAM,High
+V01556,Williams and Sons,LATAM,High
+V03138,Jackson-Phillips,LATAM,
+V02058,"Bradley, Melendez and Gonzalez",LATAM,Low
+V00894,Bishop and Sons,LATAM,Low
+V01348,"Nguyen, Padilla and Boyd",AMER,Low
+V01765,Williams-Johnson,LATAM,High
+V03832,"Wood, Simmons and Leonard",EMEA,Medium
+V02082,Moore and Sons,APAC,High
+V01852,"Jackson, Lane and Wilkinson",LATAM,Medium
+V02097,"Palmer, Brown and Wilson",LATAM,Low
+V00067,Williams PLC,EMEA,Medium
+V00333,Torres Group,APAC,High
+V01152,"Lee, Rhodes and Sims",AMER,Medium
+V02213,Ferguson-Lyons,AMER,Medium
+V03214,Solis PLC,EMEA,Low
+V03783,"Ross, Flowers and King",AMER,Medium
+V02478,Torres Group,AMER,High
+V00750,"Allen, Davenport and Price",APAC,Low
+V04319,"Gibson, Calhoun and Hernandez",AMER,Medium
+V00493,Li-Thompson,EMEA,High
+V01930,"Williams, Garcia and Boone",AMER,Medium
+V01658,Hall Inc,APAC,Low
+V00092,"Smith, Montoya and Evans",EMEA,Low
+V00865,Robertson-Ramirez,APAC,High
+V01803,Abbott-Phelps,EMEA,Low
+V02545,Curtis-Lowe,AMER,High
+V01624,"Webb, Blair and Thomas",AMER,Medium
+V00111,Patton-Jenkins,LATAM,High
+V04968,"Brown, Gibson and Turner",EMEA,High
+V02996,"Roth, Lee and Griffin",LATAM,High
+V02086,Moon-Wilson,AMER,Medium
+V02862,"   walker, matthews and archer  ",APAC,Low
+V03845,Morales-White,LATAM,Low
+V04574,Simpson Inc,EMEA,Low
+V01016,Yu-Brooks,EMEA,High
+V00934,Williams Inc,AMER,Low
+V03594,"Molina, Middleton and Estrada",EMEA,High
+V02712,Taylor Group,EMEA,Low
+V02709,Hall PLC,AMER,Medium
+V02302,Yates-Manning,APAC,Low
+V01688,"Salazar, Moore and Pierce",LATAM,High
+V02762,Willis-Gross,APAC,Low
+V03608,Mann LLC,EMEA,
+V01189,White-Morales,APAC,Medium
+V00084,"Edwards, Baker and Anderson",AMER,Medium
+V03449,Carroll-Lin,EMEA,
+V03696,Benson PLC,EMEA,Low
+V00168,Johnson-Rogers,AMER,Low
+V02990,"Smith, Arnold and Atkins",EMEA,Medium
+V01262,Harris-Melton,EMEA,Medium
+V02999,   ferguson and sons  ,APAC,Medium
+V00046,Spence PLC,EMEA,Low
+V00451,"Wise, Conley and Stephenson",LATAM,Low
+V00684,"Flores, Harper and Chambers",AMER,High
+V01948,"Trujillo, Chang and Williams",LATAM,Medium
+V02771,"Fry, Hayes and Olsen",APAC,High
+V00611,Williams-Moses,EMEA,High
+V02933,Craig PLC,AMER,Low
+V04384,Anderson-Reed,AMER,Low
+V03977,Phelps PLC,APAC,Medium
+V04328,Ford-Morgan,EMEA,Medium
+V02128,"Porter, Hubbard and Miranda",LATAM,High
+V02858,Hancock-Santos,LATAM,Medium
+V01217,"Walsh, Wu and Hart",AMER,Medium
+V04700,Smith-Romero,APAC,High
+V03080,Mcknight Inc,AMER,Medium
+V02902,Smith-Bennett,APAC,High
+V02994,Anderson Ltd,EMEA,Low
+V01589,"Ross, Hardin and Navarro",APAC,High
+V00539,Owens-Holmes,AMER,Low
+V01915,"Hernandez, Riley and Buckley",AMER,Medium
+V01697,"Aguirre, Franklin and Snyder",LATAM,
+V01051,"Greene, Gonzalez and Johnson",AMER,Low
+V01703,Thomas Inc,AMER,High
+V01440,"Melton, Henry and Joyce",AMER,High
+V01849,Larson and Sons,EMEA,High
+V03519,Marsh-Tapia,APAC,High
+V03910,"Mack, Cox and Moran",EMEA,Low
+V03867,"Wood, Carter and Stewart",APAC,Medium
+V01623,Payne LLC,LATAM,Medium
+V00210,"Wood, Tran and Cooper",AMER,High
+V01873,"Shannon, Robinson and Greene",APAC,High
+V00870,Donaldson and Sons,APAC,Low
+V01130,"White, Davis and Anderson",LATAM,High
+V04343,Stewart-Fitzpatrick,APAC,Medium
+V03228,Barber Group,APAC,Medium
+V03450,Lopez-Blair,APAC,Medium
+V04646,Ramirez-Campbell,EMEA,High
+V03215,Anderson-Fields,EMEA,Low
+V01203,"Davis, Stanley and Wright",EMEA,Medium
+V04557,"Owens, Molina and Hensley",LATAM,High
+V01682,White PLC,LATAM,
+V02002,Harrison PLC,APAC,Medium
+V01249,Rich-Henderson,APAC,Low
+V02427,"Henderson, Alexander and Galvan",AMER,Medium
+V01751,"Haney, Harris and Johnson",APAC,Medium
+V01073,Bartlett-Sloan,EMEA,High
+V02308,Martinez Group,APAC,Medium
+V02186,Boyd LLC,LATAM,High
+V02940,Smith Ltd,LATAM,Medium
+V03207,"Campbell, Hobbs and Baker",EMEA,Low
+V02742,Hensley Ltd,EMEA,Medium
+V03157,Gonzalez-Murphy,APAC,Medium
+V01316,"Murray, Dunn and Roberts",EMEA,Low
+V04293,Harrison Inc,LATAM,Medium
+V01141,   ortiz-hudson  ,LATAM,Medium
+V04970,Franco-Stuart,LATAM,Medium
+V00375,"Hoffman, Santiago and Jenkins",LATAM,High
+V00715,"Pena, Cohen and Scott",APAC,Medium
+V04140,Brown-Garcia,AMER,Medium
+V01974,Baird-Williams,EMEA,Medium
+V01282,"   blackwell, james and hogan  ",EMEA,High
+V03514,"Goodwin, Aguirre and Tran",APAC,Low
+V03812,Davis-Cruz,APAC,High
+V03117,Smith-Kelly,LATAM,Medium
+V03842,Watson-Thomas,LATAM,Low
+V04735,Gibson Ltd,APAC,High
+V03880,"Gill, Stewart and Nichols",EMEA,High
+V00259,Gutierrez-Lopez,APAC,High
+V04992,Blake-Patel,EMEA,High
+V04492,Allen Ltd,EMEA,Medium
+V02113,Owens PLC,APAC,
+V03840,Barker-Sanchez,AMER,Low
+V03752,"Miller, Conrad and Davis",APAC,Medium
+V03803,Ross LLC,AMER,Medium
+V02489,Rivas Ltd,EMEA,Low
+V02608,Valenzuela-Phillips,APAC,High
+V03176,Hoffman PLC,APAC,High
+V03143,Case PLC,APAC,High
+V01551,"Vincent, Parsons and Allen",AMER,Medium
+V03515,"Randolph, Mitchell and Ritter",APAC,High
+V03109,"Coleman, Nelson and Garcia",EMEA,Low
+V02196,Nelson Inc,AMER,High
+V03607,Mccoy-Hunt,EMEA,High
+V01471,Welch-Thomas,EMEA,
+V00678,Allen Inc,AMER,Medium
+V04324,Jenkins-Hobbs,APAC,Medium
+V03885,Hines-Douglas,AMER,High
+V04576,Weaver Inc,LATAM,High
+V01593,Deleon LLC,LATAM,Medium
+V02053,Thomas LLC,AMER,Medium
+V00805,"Hernandez, Cuevas and Webb",APAC,Low
+V01374,"Barnes, Hernandez and Davis",AMER,Medium
+V01755,Garcia Ltd,EMEA,High
+V01415,Perez-Mccarty,AMER,Low
+V04728,"Hodges, Cummings and Hernandez",AMER,High
+V04511,Williams Inc,LATAM,High
+V02496,"Nielsen, Lynch and Smith",LATAM,High
+V02033,"Cantrell, Rivera and Thornton",AMER,Low
+V03534,"Stewart, Tran and Perez",APAC,Medium
+V01095,Jones Ltd,LATAM,Medium
+V01093,Figueroa-Malone,AMER,High
+V01261,"Edwards, Arnold and Smith",APAC,
+V01824,Good PLC,APAC,Medium
+V04626,Richards-Smith,APAC,Medium
+V02296,Miller Ltd,AMER,
+V04611,"Johnson, Crawford and Bauer",APAC,
+V00691,White-Medina,LATAM,Low
+V00169,"Yates, Ramsey and Pittman",EMEA,High
+V04809,Hogan Inc,APAC,Low
+V02361,"Morgan, Guzman and Kirby",APAC,Medium
+V00707,"Howard, Green and Hunt",AMER,High
+V04149,"Rodriguez, Massey and Day",LATAM,Medium
+V03765,Kelly-Cox,EMEA,Low
+V03971,Lee Inc,AMER,Low
+V03737,Thornton and Sons,LATAM,High
+V04986,Le-Coleman,LATAM,High
+V01808,"Long, Flores and Reyes",EMEA,Low
+V03527,"Richard, Robinson and Brown",LATAM,Medium
+V04356,"Lucero, Vaughn and Mckee",APAC,
+V03083,Allison-Delacruz,EMEA,Medium
+V02525,Miller-Armstrong,EMEA,Medium
+V01343,Williams-Juarez,EMEA,Low
+V03606,Hunter LLC,APAC,Low
+V03772,"Ayala, Scott and Mcdonald",LATAM,Medium
+V03038,   ramsey and sons  ,APAC,Low
+V01137,"Carpenter, Oliver and Kennedy",APAC,Medium
+V01670,"Crosby, Armstrong and Herrera",LATAM,Medium
+V00738,Gray-Tran,LATAM,Low
+V01198,Clay Group,AMER,Low
+V01029,Fields Inc,LATAM,
+V00854,Li Inc,EMEA,Low
+V01729,"Choi, Collier and Lee",APAC,Medium
+V03756,Little Group,AMER,High
+V01722,Johnson Ltd,AMER,Low
+V01953,Burgess LLC,LATAM,Low
+V04789,Perez Inc,LATAM,Low
+V03665,Sanders and Sons,APAC,Medium
+V03238,Schultz-Hayes,APAC,High
+V01925,"Gardner, Morris and Oconnell",AMER,High
+V01901,Chen Ltd,EMEA,Medium
+V00732,"Hernandez, Lee and Fox",AMER,Medium
+V02654,Stevens-Johnston,LATAM,High
+V00806,Perry-Nixon,LATAM,Medium
+V00477,Scott and Sons,EMEA,Medium
+V01179,"Davis, Rodriguez and Andrews",LATAM,Medium
+V03429,"Fox, Anderson and Nguyen",EMEA,Low
+V01430,Shannon LLC,LATAM,High
+V03262,Gibbs-Howard,LATAM,Medium
+V00407,Berry-Mckinney,LATAM,Low
+V04036,Hall-Gillespie,LATAM,High
+V02595,"Brooks, Neal and Baldwin",LATAM,Low
+V01228,Bryant and Sons,AMER,Medium
+V03892,Cohen-Crane,EMEA,
+V00382,Bruce-Villegas,AMER,Low
+V03541,Johnson PLC,AMER,Low
+V01061,"Gutierrez, Avila and Perez",APAC,Medium
+V04825,Long LLC,AMER,High
+V00470,Hughes Inc,APAC,High
+V04050,Ward-Collins,EMEA,Medium
+V02657,Myers-Colon,AMER,Low
+V00843,Cunningham-Barton,LATAM,Low
+V04363,"Cooper, Morgan and Miller",AMER,Medium
+V00914,Hunter-Fuller,EMEA,Low
+V00601,Stevens PLC,LATAM,Low
+V02607,Baker Inc,LATAM,Low
+V01822,Joseph LLC,AMER,Low
+V00370,Edwards-Scott,LATAM,Medium
+V01736,"Rivera, Hendricks and Flynn",EMEA,Medium
+V04508,Long-Santos,LATAM,Low
+V00819,Smith-Lewis,AMER,Low
+V02734,Weiss Group,AMER,Low
+V01897,Fernandez Inc,EMEA,High
+V03072,Snyder-Olson,LATAM,Low
+V01334,Arnold PLC,EMEA,Medium
+V02738,Ford-Chavez,APAC,Low
+V02647,Anderson and Sons,EMEA,Low
+V04556,"King, Taylor and Middleton",AMER,High
+V04150,Johnston Inc,LATAM,Low
+V02154,Anderson LLC,LATAM,Medium
+V04210,Lewis-Hayes,AMER,Medium
+V01153,Perez LLC,EMEA,Medium
+V03817,"Flowers, Marshall and Miller",APAC,High
+V03333,"Velez, Howell and Stevenson",AMER,Low
+V01786,"Reynolds, Baird and Bradley",LATAM,Low
+V04943,"Price, Bryan and Carter",APAC,High
+V04326,"Gomez, Mcmahon and Fisher",AMER,Medium
+V04767,Solis PLC,LATAM,Medium
+V03703,Jones and Sons,LATAM,High
+V03626,"Coleman, Thompson and Huber",AMER,High
+V01151,"Watson, Smith and Morris",APAC,Medium
+V03443,"Gonzalez, King and Kim",EMEA,Medium
+V04212,"Shah, Thomas and Ryan",AMER,High
+V00153,Manning Group,LATAM,Medium
+V01991,Fitzgerald-Brown,AMER,Low
+V01890,Jones Ltd,EMEA,
+V00589,"Soto, Carlson and Baker",AMER,Low
+V03725,Reyes and Sons,AMER,Low
+V00088,Anderson-Bailey,EMEA,Medium
+V02792,Hayes-Parks,LATAM,Medium
+V03195,"Graham, Mitchell and Keller",LATAM,
+V00024,Morales-Jones,APAC,High
+V03217,Hall-Mckinney,EMEA,Medium
+V02802,"Glover, Moran and Johnson",EMEA,High
+V03564,"Green, Mitchell and Edwards",EMEA,Medium
+V00384,"Gallegos, Adams and White",AMER,Low
+V03091,Johnson LLC,LATAM,High
+V01221,   moran-cox  ,APAC,High
+V00657,"Burns, Nolan and Griffin",LATAM,Low
+V04275,Howell LLC,AMER,High
+V04475,Bryant-Gonzalez,EMEA,Medium
+V02207,Young Inc,APAC,Medium
+V00823,Wilson-Lambert,EMEA,High
+V01519,Ford-Moody,APAC,High
+V03200,"Ho, Garcia and Wallace",LATAM,Low
+V00900,Wright Ltd,APAC,High
+V03940,Stevens-Durham,AMER,Low
+V00346,Zhang PLC,AMER,Medium
+V03057,Garcia LLC,APAC,High
+V04419,Flores LLC,AMER,Medium
+V00949,Hernandez Group,APAC,High
+V00077,"Woods, Calhoun and Schmidt",APAC,High
+V04398,Davis Inc,LATAM,Low
+V04201,"Nicholson, Walker and Adams",EMEA,Low
+V01955,Garcia Ltd,LATAM,Medium
+V00274,Hoover-Campbell,LATAM,High
+V00759,Miller-Montgomery,LATAM,Medium
+V03288,Taylor LLC,APAC,Low
+V04256,Townsend-Hale,AMER,Medium
+V01480,Martinez and Sons,EMEA,High
+V02379,"Casey, Meza and Colon",EMEA,High
+V00216,"Carlson, Hooper and Wall",LATAM,Low
+V01404,"Meyer, Dawson and Harper",AMER,Medium
+V01075,Arnold-Gates,AMER,High
+V00002,Doyle Ltd,EMEA,High
+V02614,Lee-Munoz,APAC,Medium
+V03653,Jones PLC,AMER,High
+V00551,"Baker, Clark and Armstrong",LATAM,Low
+V00163,"Smith, Gilmore and Johnston",AMER,Medium
+V04785,Sosa-Scott,EMEA,
+V00698,"   calderon, williams and bennett  ",EMEA,High
+V04446,"Campbell, Hardy and Roman",LATAM,Medium
+V03018,"Whitney, Mayo and Clark",APAC,Medium
+V00056,Jones-Young,AMER,Low
+V00047,Anderson Group,AMER,High
+V02434,Rodriguez-Wood,EMEA,Medium
+V00717,Murray-Oconnor,LATAM,
+V04254,Johnson-Garcia,LATAM,High
+V02334,Smith Ltd,EMEA,Low
+V03510,"Hines, Pineda and Kent",EMEA,Medium
+V03787,Fisher LLC,LATAM,High
+V01121,"Evans, Hernandez and Cannon",LATAM,Medium
+V04920,"York, Cox and Davis",APAC,Medium
+V00666,Cannon Ltd,LATAM,High
+V02759,Stone and Sons,LATAM,High
+V03170,"Orozco, White and Brown",EMEA,High
+V00053,Chapman and Sons,AMER,Low
+V03349,"Washington, Nelson and Stone",LATAM,High
+V02613,Mcgee-Mack,LATAM,Low
+V02534,Harding PLC,AMER,Low
+V04338,White-Ramos,EMEA,Low
+V04498,Dixon LLC,APAC,Medium
+V02903,Gray Inc,EMEA,Low
+V04313,Mack-Wilson,APAC,High
+V02497,Chambers Group,LATAM,Low
+V03682,Williams Group,LATAM,Low
+V04041,Harris Group,LATAM,Medium
+V01662,Henry-Taylor,LATAM,Low
+V01445,Bryant Inc,APAC,High
+V04882,"Martin, Davis and Huynh",APAC,Medium
+V02185,Michael-Barber,APAC,Low
+V02925,Hayden Group,LATAM,High
+V00036,   rodriguez-graham  ,AMER,High
+V01436,Lowe Ltd,AMER,High
+V04937,Robinson-Erickson,AMER,Low
+V03054,Dorsey Ltd,LATAM,High
+V00652,"Marks, Miller and Griffin",AMER,Medium
+V02276,Black-Graham,APAC,Low
+V00692,Atkinson LLC,EMEA,High
+V01605,Ayala-Anderson,AMER,High
+V04914,"Green, Gray and Hernandez",LATAM,Low
+V03432,Hall Ltd,AMER,High
+V01529,Moore-Chandler,APAC,Medium
+V01307,"Phillips, Walters and Evans",LATAM,Medium
+V00888,Mcneil Group,LATAM,High
+V01250,Mills Inc,APAC,High
+V01485,Garcia PLC,AMER,Low
+V00690,"Flores, Butler and Hernandez",AMER,Low
+V02890,Bentley-Thomas,APAC,High
+V02794,Andersen LLC,APAC,Low
+V04534,Thompson-Rodriguez,AMER,Medium
+V01630,Lin-Smith,AMER,High
+V02880,Hopkins-Wallace,LATAM,High
+V02081,Mccall-Martin,AMER,Medium
+V04743,Jackson-Hodge,APAC,Low
+V03548,"Logan, Marquez and Case",AMER,Low
+V03855,Sandoval-Hill,APAC,
+V04489,"Clarke, Neal and Kelley",AMER,Low
+V01958,Brown-Graham,LATAM,Low
+V04063,Johnson and Sons,LATAM,High
+V01314,Lee-White,EMEA,Low
+V03949,Williams PLC,APAC,Medium
+V04299,Mack Ltd,EMEA,Low
+V00787,Maldonado PLC,AMER,Medium
+V04989,James PLC,EMEA,Low
+V02160,Melton Inc,EMEA,Medium
+V04568,Kelley-Foster,AMER,Low
+V02063,"Kennedy, Valdez and Stafford",AMER,High
+V04322,   richardson inc  ,EMEA,High
+V02129,"Nelson, Clarke and Schneider",APAC,High
+V02909,Reed Ltd,AMER,High
+V01127,"Reeves, Parks and Little",APAC,Low
+V02836,Gates Ltd,APAC,Medium
+V01188,"Adams, Quinn and Watson",APAC,Medium
+V03620,"Silva, Little and Washington",AMER,Medium
+V03605,Luna LLC,AMER,Medium
+V01394,"Sanders, Taylor and Shields",LATAM,High
+V02749,Wise-Walton,EMEA,High
+V02912,Parks Ltd,APAC,Medium
+V03015,Ferguson LLC,APAC,Low
+V00391,   frank-bradley  ,LATAM,Medium
+V01452,Ramirez-White,APAC,High
+V01762,"Flores, Thomas and Bush",EMEA,Low
+V03363,"Hernandez, Levy and Hanson",AMER,Low
+V03925,Marquez-Nunez,EMEA,High
+V02413,Williams Ltd,AMER,High
+V04316,Pineda-Newman,LATAM,Low
+V00961,Green-Edwards,APAC,High
+V04957,Melton LLC,APAC,High
+V02853,"Morgan, Hamilton and Hernandez",AMER,Medium
+V02354,Hall-Brown,AMER,Low
+V01566,"Brown, Jensen and Rice",AMER,High
+V03139,Ramirez LLC,AMER,Medium
+V01768,"Soto, Vaughn and Griffin",LATAM,Low
+V04544,"Nelson, Wiggins and Young",LATAM,Low
+V04474,"Moore, Wallace and Edwards",LATAM,
+V01979,Anderson LLC,AMER,High
+V04884,"Jones, Mcgrath and Marks",AMER,Low
+V01240,Taylor PLC,LATAM,Low
+V00031,Burton Ltd,APAC,Low
+V02809,Miranda-Robinson,EMEA,High
+V02420,"Wright, Murphy and Aguilar",LATAM,
+V04772,Guerrero-Gonzales,LATAM,Medium
+V04165,Kirk Inc,APAC,High
+V01317,King and Sons,LATAM,High
+V01042,Wheeler-Austin,EMEA,Medium
+V00968,Baker-Wilson,EMEA,High
+V02234,"Ramos, Davidson and Smith",AMER,Medium
+V02056,Davis-Ortiz,LATAM,High
+V03169,Savage-Warren,APAC,Medium
+V03113,Lopez-Harris,EMEA,High
+V00538,"Jones, Compton and Day",LATAM,Medium
+V03578,Lozano-Mccoy,LATAM,Medium
+V01534,"Wilson, Mccormick and Smith",APAC,Low
+V00520,"Richardson, Edwards and Ramirez",AMER,High
+V02480,Patton and Sons,EMEA,Low
+V01910,"Schneider, Porter and Hanna",AMER,High
+V01069,Stokes and Sons,EMEA,Low
+V00573,Luna-Gallagher,AMER,
+V01889,Baldwin-Garcia,AMER,High
+V04883,Cuevas-Holt,LATAM,Low
+V03318,Bell-Wilson,APAC,Medium
+V03098,"Johnson, Potter and Gordon",LATAM,High
+V02120,Crosby-Richardson,EMEA,Medium
+V04039,Wallace Ltd,LATAM,Low
+V00974,Crane Group,EMEA,Low
+V01227,Lopez Group,AMER,Low
+V03441,Hale Group,AMER,Medium
+V03388,Martinez-Daniels,AMER,Medium
+V03454,"Bennett, Jones and Miller",APAC,High
+V04218,Banks Group,LATAM,Medium
+V03426,Jones-Franco,AMER,Medium
+V01110,"Smith, Buck and Holland",APAC,
+V00386,Kane PLC,AMER,High
+V03818,"Oconnor, Rios and Sullivan",APAC,High
+V00041,Ryan PLC,EMEA,High
+V01453,Krause Ltd,AMER,Medium
+V03778,Alvarez-Rogers,AMER,Low
+V04673,"Holden, Larson and Alvarez",AMER,High
+V01450,White-Coleman,APAC,Low
+V04977,Francis-Smith,AMER,High
+V03344,Torres Ltd,LATAM,Medium
+V02785,"Wu, Key and Montoya",APAC,Low
+V00783,Faulkner-Casey,AMER,Medium
+V03394,Wheeler-Short,EMEA,High
+V04062,Diaz Inc,EMEA,Medium
+V04907,Anderson Inc,APAC,Medium
+V01292,"Rowe, Lucas and Case",APAC,High
+V02876,"Scott, Mullins and Miller",EMEA,High
+V02184,"Patel, Mendez and Hammond",LATAM,Medium
+V00649,"Zhang, Brooks and Miles",AMER,High
+V02430,Dawson-Anderson,LATAM,High
+V04091,"Castillo, Mathews and Lopez",EMEA,High
+V03236,Gutierrez Group,AMER,Low
+V00109,Hancock and Sons,APAC,High
+V03196,"Kim, Campbell and Oliver",APAC,Low
+V03967,Freeman LLC,EMEA,Low
+V04838,Douglas-Diaz,AMER,Medium
+V04927,Woodard Inc,AMER,Medium
+V04665,Brooks-Myers,LATAM,Medium
+V02984,Ramirez-Bell,APAC,High
+V03541,Johnson PLC,AMER,Low
+V00422,"Cole, Glass and Cunningham",AMER,High
+V04909,Snyder-Ferrell,EMEA,Low
+V01032,"Jones, Scott and Rodriguez",APAC,Low
+V01633,"Miller, Gonzalez and Rasmussen",EMEA,Low
+V02579,Pena-Dyer,AMER,Medium
+V02084,"Norris, Cisneros and Mathis",LATAM,Low
+V04204,Johnson Group,APAC,Medium
+V04049,Ross-Mathews,EMEA,High
+V01940,"Young, Wilson and Moreno",LATAM,Low
+V01123,Guerrero-Becker,AMER,Medium
+V01735,"Stewart, Herrera and Clark",AMER,Medium
+V00525,Gonzalez-Taylor,AMER,Medium
+V01642,"Taylor, Blair and Meyer",EMEA,Medium
+V04399,Hamilton Ltd,LATAM,High
+V01526,"Vang, Gonzalez and Moss",EMEA,High
+V01973,"Shah, Mcintyre and Villanueva",EMEA,Low
+V04685,"Stewart, Robinson and Shaffer",EMEA,High
+V00939,"Flores, Mckenzie and Duncan",LATAM,High
+V00312,Parsons-Hall,APAC,Medium
+V04060,Barnes and Sons,AMER,Medium
+V01621,Cole-Johnson,EMEA,Low
+V04478,"Woods, Thomas and Decker",APAC,
+V00543,Torres and Sons,EMEA,High
+V02401,Smith-Ramirez,APAC,High
+V03076,Ryan-Vasquez,LATAM,Medium
+V02549,"Martinez, Hicks and Kelly",AMER,Medium
+V04790,Webb-Murphy,EMEA,Low
+V01836,"Curry, Acosta and Elliott",EMEA,Low
+V04817,Mcneil PLC,AMER,High
+V02320,"Leach, Skinner and Mills",AMER,Medium
+V00381,"Richardson, Farmer and Andrews",EMEA,High
+V02626,Gonzales PLC,AMER,Low
+V02904,Thompson Ltd,APAC,High
+V03009,Hart-Myers,LATAM,Medium
+V00747,Ali PLC,EMEA,
+V01573,Andrade-Jackson,AMER,Low
+V04496,Mason LLC,LATAM,Medium
+V00269,Hicks-Hill,LATAM,High
+V02806,"Allen, Lewis and Mullins",LATAM,Low
+V01139,Moreno-Gutierrez,AMER,High
+V01523,Huang LLC,EMEA,Low
+V02779,Smith LLC,APAC,Low
+V04585,   porter llc  ,LATAM,High
+V03958,"Lawrence, George and Evans",AMER,High
+V04659,"   lopez, austin and buchanan  ",LATAM,High
+V00309,"Phillips, Spence and Barrett",EMEA,Medium
+V00812,"Wilson, Sweeney and Wong",APAC,
+V01453,Krause Ltd,AMER,Medium
+V03417,Carpenter Inc,EMEA,
+V00995,Mayo Ltd,LATAM,Low
+V00585,"Patel, Erickson and Evans",AMER,Low
+V02804,"Davies, Archer and Owens",AMER,Medium
+V00232,"Choi, Garcia and Farmer",LATAM,Low
+V03136,Payne-Novak,LATAM,Medium
+V04527,Brewer Group,LATAM,Medium
+V02463,Scott-Wilson,LATAM,Low
+V02506,Lee-Velasquez,AMER,Low
+V04833,Hernandez Inc,LATAM,Medium
+V04705,Wright-Roberts,AMER,High
+V04994,Norris Inc,AMER,Low
+V04984,Bradley-Smith,LATAM,Medium
+V01820,Perez-Coleman,AMER,High
+V00519,Hines-Berry,EMEA,Low
+V03986,"Trujillo, Proctor and Wang",APAC,Medium
+V00663,"Brown, Mcknight and Michael",EMEA,Low
+V00371,Mcdaniel Group,LATAM,Low
+V01107,"Chan, Lewis and Walker",AMER,High
+V01104,"Arnold, Cooper and Monroe",AMER,Low
+V00518,"Hernandez, Cole and Watson",APAC,Medium
+V03090,"Perkins, Woods and Wheeler",APAC,High
+V00945,Wood LLC,LATAM,
+V02643,"Warren, Gibson and Wood",LATAM,Low
+V04110,Ryan-Steele,AMER,High
+V02312,Alvarez-Hart,EMEA,High
+V02985,Wright-Jacobson,EMEA,High
+V00110,Johnson-Doyle,LATAM,High
+V02202,Powers-Blackwell,AMER,Low
+V04426,Hobbs-Nguyen,AMER,Medium
+V00542,"Bartlett, Brown and Martinez",AMER,Low
+V03927,Thomas LLC,EMEA,Low
+V03145,Ortiz-Harvey,AMER,Low
+V03445,Cervantes-Stokes,APAC,Low
+V03639,"Smith, Gray and Deleon",APAC,Medium
+V01009,"Thomas, Vaughan and Copeland",LATAM,High
+V02955,Smith-Stephenson,LATAM,Low
+V04503,Hicks-Calderon,APAC,Low
+V03797,Davis-Sanchez,AMER,Low
+V01006,Thompson PLC,LATAM,High
+V00794,Ferguson-Mclean,EMEA,High
+V04109,"Heath, Warren and Mcbride",AMER,Low
+V03023,Holloway and Sons,EMEA,High
+V03386,Campos PLC,AMER,Low
+V02295,Hood and Sons,EMEA,Medium
+V02271,Anderson-Stewart,EMEA,Medium
+V04057,"Moore, Neal and Farmer",AMER,Low
+V04635,"Ward, Perez and Baker",AMER,Low
+V01659,Miller-Chan,LATAM,Medium
+V04891,Gardner LLC,APAC,High
+V03778,Alvarez-Rogers,AMER,Low
+V01346,"Velez, Ward and Harrison",LATAM,Low
+V04865,Cole LLC,LATAM,High
+V01383,Kent Inc,AMER,Medium
+V00927,Brady LLC,AMER,Low
+V02533,Underwood PLC,EMEA,
+V00465,"Rosales, Mitchell and Hines",EMEA,High
+V03260,"Clements, Moreno and Sanders",APAC,Low
+V01410,Miller LLC,LATAM,Low
+V01358,"Love, Wilson and Hall",AMER,Low
+V02671,Wilson-Stark,AMER,Low
+V03712,Miller-Booker,AMER,Medium
+V00631,Small-Anderson,AMER,Low
+V04708,Brewer Inc,AMER,Medium
+V00276,"Burns, Hernandez and Ryan",LATAM,Medium
+V01465,Cooper-Jenkins,APAC,Medium
+V01003,Adams Ltd,APAC,Medium
+V00688,"Shelton, Peters and Williams",LATAM,Medium
+V00027,Baker and Sons,EMEA,High
+V00710,Edwards-Williams,APAC,
+V03302,"Webb, Davis and Miranda",LATAM,High
+V03470,George-Salazar,EMEA,Low
+V00789,"Clark, Salinas and Guerra",APAC,High
+V01428,"Goodman, Peterson and Spencer",EMEA,High
+V00643,Green LLC,EMEA,High
+V00711,Figueroa Inc,APAC,Low
+V00923,Parker Ltd,AMER,Low
+V02396,Keller Ltd,AMER,Medium
+V04917,Johnson-Zavala,APAC,Medium
+V02345,Martin and Sons,APAC,Low
+V02221,Fowler-Haynes,AMER,Medium
+V03944,"Jones, Tran and Nichols",EMEA,Low
+V01145,"Brown, Hayes and Clark",LATAM,Low
+V02829,"Ortega, Solis and Warner",APAC,Low
+V04382,Terry-Rogers,EMEA,High
+V04747,Bennett-Brooks,EMEA,Low
+V01226,"Newton, Ortiz and King",APAC,Low
+V01522,Daniels and Sons,APAC,Medium
+V00319,Buchanan LLC,LATAM,Medium
+V03542,Rogers-Russell,APAC,Low
+V02911,Woods-Anderson,EMEA,Medium
+V03230,Burton Ltd,APAC,Low
+V04627,Flores and Sons,AMER,Medium
+V02787,Hester LLC,APAC,Low
+V02315,Davis-Palmer,LATAM,Low
+V03185,Reese and Sons,LATAM,High
+V02725,Watkins and Sons,AMER,High
+V04584,"Mendez, Williams and Henry",EMEA,
+V02235,Fuller LLC,EMEA,Medium
+V00183,Jackson-Lawson,AMER,Medium
+V00695,Price LLC,LATAM,High
+V00089,Suarez LLC,AMER,Medium
+V03593,Roberts LLC,EMEA,Low
+V04452,"Leon, Hale and Winters",EMEA,Low
+V02029,Ferguson Inc,EMEA,Low
+V03773,Weeks PLC,APAC,High
+V00012,Dudley Group,APAC,High
+V03204,Bell Group,APAC,High
+V01782,Patel-Morales,AMER,
+V03822,Coleman-Harmon,LATAM,Low
+V02072,Ward-Fields,EMEA,Medium
+V00003,"Mcclain, Miller and Henderson",AMER,High
+V04688,"Irwin, Nelson and Tucker",AMER,Low
+V03496,"Gordon, Brown and Mccullough",LATAM,High
+V01531,"Evans, Ward and Williams",EMEA,Low
+V04177,"Melendez, Alvarado and Phelps",AMER,Medium
+V02567,"Lewis, Castillo and Tate",LATAM,Medium
+V02554,Collins-Mcclure,LATAM,Medium
+V01085,Vaughn-Williams,AMER,High
+V02004,Marsh-Dougherty,EMEA,Medium
+V03328,Andrade Ltd,LATAM,Medium
+V00842,Medina and Sons,EMEA,Low
+V01458,Taylor-Barry,AMER,Low
+V01245,"Hester, Thompson and Daniels",LATAM,High
+V02640,Johnson Ltd,EMEA,Medium
+V02265,Barajas-Crosby,APAC,Low
+V00681,Morales and Sons,APAC,High
+V01859,Gregory-Nixon,EMEA,Low
+V00704,Dominguez Ltd,AMER,High
+V01357,"Campbell, Hernandez and Moore",EMEA,High
+V03899,"Murray, Sanchez and Morrison",LATAM,Low
+V04719,Chavez-Carter,APAC,Medium
+V01854,Jackson Group,EMEA,Medium
+V03498,Skinner PLC,EMEA,Low
+V01764,Austin-Morgan,AMER,Low
+V03709,"Barnett, Kennedy and Jackson",LATAM,Medium
+V04578,Martinez-Lopez,APAC,High
+V03708,"Jacobs, Levy and Mclaughlin",EMEA,Medium
+V04796,   terry plc  ,EMEA,
+V01223,Smith LLC,APAC,High
+V00196,"Nelson, Morton and Medina",EMEA,Medium
+V03086,Brown and Sons,EMEA,Medium
+V01426,Black-Smith,LATAM,Medium
+V03544,Martin Inc,LATAM,
+V01588,"Wright, Scott and Evans",EMEA,Low
+V00483,"Andrews, Higgins and Carter",APAC,High
+V02346,"Park, Maynard and Ruiz",LATAM,Low
+V00656,Wilson-Harris,LATAM,Medium
+V00357,Hayes and Sons,LATAM,Low
+V02216,Cox Ltd,AMER,
+V02947,Jordan and Sons,APAC,High
+V02021,Huber-Montgomery,EMEA,Medium
+V00648,Mendoza Group,APAC,High
+V01893,Ortega LLC,APAC,Medium
+V00522,Holmes-Mcintyre,EMEA,High
+V00790,Fuentes Group,AMER,Low
+V03557,Hall-Edwards,AMER,High
+V03685,Ross-Phillips,AMER,Medium
+V03243,"Smith, Boyd and Scott",LATAM,Medium
+V04752,Smith and Sons,LATAM,Medium
+V03254,"Collins, Bauer and Mckay",AMER,High
+V03616,"Vincent, Curry and Smith",LATAM,High
+V04184,"Haney, Johnson and Walker",LATAM,Medium
+V02523,"Walker, Ramirez and Fisher",AMER,High
+V03658,"Johnson, Hill and Harris",EMEA,High
+V04636,Goodwin Inc,APAC,Low
+V02758,"Dawson, Cruz and Mccarthy",AMER,Medium
+V01066,"Johnson, Duncan and Black",EMEA,High
+V04370,Howell PLC,EMEA,Low
+V02877,Hunter LLC,LATAM,High
+V00134,"   carroll, sullivan and bass  ",LATAM,High
+V04702,Thomas-Jones,AMER,Medium
+V03793,Ellis-Martin,AMER,Medium
+V02212,King-Lawrence,EMEA,Medium
+V00022,"Watts, Robinson and Nguyen",APAC,Low
+V03900,Robles Group,EMEA,High
+V00990,Holland Group,EMEA,High
+V01775,Durham-Myers,AMER,Low
+V01817,English-Dominguez,LATAM,Medium
+V04587,Mullins-Carrillo,AMER,High
+V02307,Holland-Best,AMER,
+V03794,Hopkins and Sons,APAC,High
+V01805,Smith PLC,LATAM,Low
+V04305,"Griffith, Johnson and Alexander",AMER,High
+V04193,Diaz-Schaefer,EMEA,High
+V02366,"Curry, Estrada and Anderson",APAC,High
+V04014,"Brooks, Knight and Forbes",LATAM,Medium
+V04495,Blake and Sons,AMER,High
+V04117,Griffith LLC,EMEA,High
+V00752,"Ramsey, Mason and Mccann",EMEA,High
+V03642,"Gonzalez, Moore and Nichols",APAC,High
+V02885,Guzman and Sons,APAC,Medium
+V00757,Kelly Group,APAC,Medium
+V00855,"Bell, Campbell and Ryan",APAC,Low
+V04258,"Adkins, Duncan and Thompson",AMER,High
+V02390,"Fisher, Perez and Pham",EMEA,Low
+V01193,"Brown, Dunlap and Moore",AMER,Low
+V00135,Mitchell-Jordan,LATAM,
+V00045,"Arroyo, Miller and Tucker",EMEA,Low
+V03882,Mitchell-Middleton,AMER,High
+V01403,Arias-Morales,EMEA,High
+V04306,Guzman LLC,EMEA,High
+V03911,"Soto, Alexander and Cobb",EMEA,Medium
+V00795,"Barnes, Johnson and Schmitt",LATAM,High
+V01639,Zamora-Briggs,APAC,Low
+V03603,Dennis-Wilson,AMER,Low
+V00885,Lewis Inc,APAC,Medium
+V04112,"Walters, Montgomery and Bridges",EMEA,High
+V01903,Randall LLC,APAC,High
+V04827,"Torres, Valdez and Briggs",APAC,Low
+V00293,Bright-Francis,LATAM,Low
+V03679,"Haney, Miller and Garcia",APAC,Low
+V02238,Hayes-Russo,APAC,High
+V01730,Nielsen-Mendoza,AMER,Medium
+V04732,Taylor-Williams,APAC,Low
+V00318,Burgess-Thompson,AMER,Medium
+V02030,Sullivan Group,APAC,Low
+V04406,Miller and Sons,EMEA,Medium
+V03759,Burgess Ltd,AMER,High
+V02780,Ortega Inc,AMER,Low
+V00756,Bowers-Hayes,AMER,Medium
+V01091,Adams-Butler,EMEA,Low
+V03849,Benson Inc,AMER,Low
+V00057,"Washington, Ryan and Cummings",AMER,Low
+V02252,Roberts-Snyder,AMER,Low
+V02330,"Cole, Morton and Peterson",EMEA,Medium
+V04504,Lewis-Herrera,LATAM,High
+V03851,Hill-Barker,AMER,High
+V03736,Salazar Ltd,LATAM,High
+V04211,"Terry, Torres and Hall",AMER,Medium
+V00734,Chung-Stevens,AMER,High
+V02395,Hamilton Group,EMEA,High
+V00850,Gonzales Inc,APAC,High
+V00033,"Ferrell, Rice and Maddox",EMEA,High
+V02370,Howard LLC,EMEA,High
+V01741,"Hodge, Mckinney and Nelson",APAC,High
+V04902,Day-Gonzalez,EMEA,High
+V03730,Johnson-Hill,AMER,Medium
+V01536,Barker-Moore,LATAM,Low
+V04391,Maxwell Inc,LATAM,High
+V03173,Alvarez-Barker,LATAM,
+V02267,"Harvey, Turner and Foster",LATAM,Medium
+V04837,Pineda-Clark,EMEA,Low
+V03180,Mosley and Sons,EMEA,Medium
+V02263,Hawkins Inc,EMEA,Low
+V01099,Hull Ltd,EMEA,Medium
+V03821,"Choi, Morales and Wise",LATAM,Medium
+V00468,Wilkerson-Arias,EMEA,Medium
+V04467,Quinn-Moss,EMEA,Low
+V04161,Bowers-Nguyen,APAC,High
+V03395,"   olson, rivera and brown  ",EMEA,Low
+V00646,"Carrillo, Vaughn and Fowler",AMER,High
+V03788,"Morales, Johnson and Hunt",EMEA,Medium
+V00235,Ortiz Ltd,APAC,High
+V04439,Costa-Brown,LATAM,Low
+V01733,"Huang, Ford and Olsen",APAC,Medium
+V00437,Ortiz-Morgan,APAC,Low
+V04932,Harrison LLC,AMER,Low
+V03321,Davis-Wong,APAC,High
+V02486,"James, Bell and Chen",EMEA,Medium
+V01745,Brooks Inc,LATAM,High
+V02008,Hill Ltd,EMEA,Low
+V03292,Ware-Williams,LATAM,Medium
+V03480,Cannon-Dominguez,LATAM,Low
+V03754,Stewart Ltd,APAC,High
+V00308,Armstrong-Andrews,APAC,High
+V00436,Cox LLC,APAC,Low
+V00424,Hernandez-Jones,APAC,Low
+V01975,Quinn-Gordon,APAC,Low
+V04717,"Moon, Davis and Dominguez",EMEA,Low
+V04480,"Nguyen, Thompson and Austin",LATAM,Medium
+V00719,White-Preston,LATAM,High
+V00722,Duran Group,EMEA,Low
+V03368,"Flowers, Williams and Taylor",LATAM,High
+V00245,"Fernandez, Kim and George",EMEA,Low
+V00739,Walsh Ltd,APAC,Medium
+V00845,Adams PLC,AMER,Low
+V01866,Meyer Ltd,AMER,
+V00534,Mcdonald-Bird,EMEA,High
+V01649,Douglas PLC,EMEA,High
+V00861,"Morris, Wright and Bridges",APAC,Low
+V01954,Maxwell LLC,APAC,High
+V04953,Chung-Andrews,APAC,Low
+V00603,"Becker, Lara and Baker",LATAM,High
+V02987,"Garner, Lewis and Kennedy",EMEA,Medium
+V02159,Watkins-Lozano,EMEA,Medium
+V00989,Mendez PLC,LATAM,Low
+V00114,Gonzalez Group,APAC,Medium
+V02886,"Howard, Anderson and Dean",AMER,Low
+V03500,Martinez Ltd,EMEA,Medium
+V04554,Olsen Group,AMER,Medium
+V04818,Underwood and Sons,EMEA,High
+V00651,Gill Ltd,APAC,High
+V00823,Wilson-Lambert,EMEA,High
+V03792,Parker and Sons,AMER,High
+V01389,Pearson-King,APAC,Low
+V02911,Woods-Anderson,EMEA,Medium
+V02048,Bell-Madden,AMER,
+V01898,Finley-Meyers,AMER,Medium
+V02439,Zuniga LLC,EMEA,Medium
+V03092,Miller Inc,EMEA,Low
+V04806,Sanchez-Ballard,EMEA,High
+V00237,Warner-Gibson,AMER,High
+V01845,Hopkins LLC,LATAM,High
+V04804,Reilly-Sanders,EMEA,High
+V04896,"Bell, Peterson and Price",LATAM,Medium
+V04517,Robinson and Sons,AMER,High
+V02793,Robertson-Keller,APAC,Low
+V00786,Vargas PLC,EMEA,Low
+V01288,Jackson PLC,AMER,Medium
+V03952,Mills Inc,AMER,High
+V01055,Davis-Stephens,APAC,Low
+V03518,Anderson Inc,EMEA,Medium
+V04148,"Stone, Schaefer and Reyes",LATAM,Medium
+V02442,Harrell Group,EMEA,Medium
+V03767,Johnson PLC,EMEA,Low
+V00344,Davis-Lewis,AMER,High
+V04487,Cooper-Jones,LATAM,High
+V02367,Moore Group,AMER,High
+V00820,Goodwin-Stokes,EMEA,High
+V04376,Nelson Ltd,LATAM,Low
+V00594,Smith LLC,LATAM,High
+V02474,Marshall-Russell,LATAM,Medium
+V02150,Alvarez-Dickerson,APAC,Medium
+V02816,"Burch, Kim and Hall",APAC,High
+V04930,Rush PLC,EMEA,High
+V01421,Carrillo-Todd,AMER,Low
+V00025,"Walter, Edwards and Rios",LATAM,Medium
+V03052,Perez Group,AMER,Low
+V04096,Peterson-Wiggins,EMEA,Medium
+V01518,Collins-Lloyd,LATAM,High
+V01371,Carlson-Jones,AMER,Medium
+V03002,"Hester, Jacobson and West",APAC,Medium
+V00236,"Harrison, Johnson and Roberts",APAC,High
+V00723,Kirby and Sons,AMER,Medium
+V04863,Sloan-Lynch,APAC,High
+V03645,Case Inc,LATAM,Low
+V02423,Coleman and Sons,AMER,Low
+V01612,Bailey-Flores,APAC,Low
+V03907,"Frank, Holland and Ferguson",EMEA,Medium
+V02118,Spencer LLC,EMEA,Medium
+V01079,"Chang, Ayers and Buckley",LATAM,Low
+V00124,"Joyce, Wilson and Lam",AMER,Medium
+V02843,"Glenn, Brown and Michael",APAC,Low
+V03060,Munoz and Sons,APAC,Low
+V04739,"Lindsey, Byrd and Foster",APAC,High
+V00214,"Tapia, Vaughn and Lee",LATAM,
+V04759,George LLC,APAC,Low
+V01947,   clark-king  ,APAC,High
+V04881,   martin-simmons  ,EMEA,
+V02958,Martin and Sons,APAC,Medium
+V01767,White-Carlson,APAC,Medium
+V04323,Trujillo-Thomas,APAC,Low
+V04021,"Jordan, Hill and Hayes",AMER,Low
+V00514,Cisneros and Sons,LATAM,High
+V02473,Avery-Adams,AMER,Low
+V03100,"Vaughan, Gibson and Dawson",AMER,Medium
+V00567,"Owens, Koch and Jimenez",EMEA,Low
+V02833,Padilla-Bennett,AMER,Low
+V01711,Chang PLC,AMER,High
+V01950,Washington Inc,APAC,Low
+V01643,"Salazar, Garrett and Perez",AMER,Medium
+V04016,Andrews-Walters,APAC,Low
+V03959,Perkins Inc,LATAM,Low
+V04023,"Morgan, Rose and Schwartz",LATAM,High
+V01386,Lane Inc,APAC,Medium
+V00846,Weaver-Sherman,APAC,Medium
+V03838,Martinez and Sons,APAC,High
+V00277,Cook-Hines,AMER,High
+V01959,Reilly Group,LATAM,High
+V00590,"Patton, Parsons and Lane",LATAM,
+V00848,"Greer, Potter and Evans",LATAM,Low
+V02799,Hatfield-Vincent,EMEA,High
+V01546,Stephens LLC,EMEA,High
+V03828,"Lawrence, Gonzalez and Hess",APAC,High
+V01825,Bush-Wilson,LATAM,High
+V00043,Rodriguez LLC,LATAM,High
+V00558,Edwards Ltd,EMEA,Medium
+V01027,Rivera Inc,AMER,Medium
+V01756,"Edwards, Lane and Collins",APAC,Medium
+V04358,Davis-Williams,AMER,High
+V01838,Berry Ltd,EMEA,High
+V00188,Vargas Ltd,LATAM,Medium
+V03947,Robles-White,AMER,Low
+V04000,"Jones, Rowland and Oconnor",LATAM,High
+V02274,"Ward, Jordan and Orr",LATAM,Low
+V00762,"Moore, Price and Ward",APAC,Low
+V01847,Washington PLC,APAC,Medium
+V00605,"Evans, David and Hendrix",APAC,Medium
+V01650,Stewart PLC,APAC,High
+V03503,Porter Inc,EMEA,Medium
+V02807,"Graves, Garcia and Holder",EMEA,High
+V01616,Gonzalez LLC,LATAM,Low
+V04257,"Guerra, Lopez and Davis",EMEA,High
+V04816,Williams PLC,AMER,Low
+V00708,Owens-Lang,LATAM,Medium
+V02305,Smith and Sons,EMEA,Medium
+V00664,Andersen Group,EMEA,
+V04198,Davis PLC,LATAM,High
+V04145,Willis and Sons,AMER,High
+V00742,Jacobson Inc,AMER,Medium
+V02752,Fitzgerald-Allen,AMER,Low
+V01881,"Carrillo, Morris and Martin",APAC,Medium
+V02891,Jones Ltd,APAC,High
+V01329,Wilkinson and Sons,EMEA,Medium
+V03209,Johnson-Johnson,LATAM,Medium
+V01236,"Ochoa, Garcia and Sandoval",EMEA,High
+V00299,"Sparks, Jackson and Miller",APAC,Medium
+V01215,Gutierrez-Hawkins,APAC,Medium
+V01812,Roberts Ltd,AMER,Medium
+V04172,Fischer-Chung,LATAM,Medium
+V03841,"Hoover, Carroll and Williams",APAC,Low
+V03413,Richardson-Hill,APAC,High
+V04912,   williams-rodriguez  ,AMER,Low
+V01258,"Price, Dixon and Robles",APAC,Medium
+V01303,"Turner, Miller and Hubbard",EMEA,High
+V04225,Perez Ltd,EMEA,Low
+V00401,Wilson-Jimenez,APAC,Medium
+V00887,"Wallace, Smith and Cooper",EMEA,Medium
+V03093,Carroll Group,APAC,High
+V03507,Wallace-Walker,APAC,High
+V04941,Vasquez and Sons,LATAM,Medium
+V03324,"Snyder, Hamilton and Maldonado",EMEA,
+V00942,Finley Inc,LATAM,Low
+V02627,Brooks PLC,LATAM,Medium
+V02178,"Brock, Reynolds and Fernandez",APAC,Low
+V01969,Atkins-Robinson,AMER,Medium
+V03410,"Allen, Hunt and Lyons",EMEA,Low
+V04490,Olsen Group,EMEA,Low
+V03326,Johnston and Sons,LATAM,Medium
+V03596,"Fischer, Johnson and Orr",EMEA,High
+V04966,Taylor-Ramirez,APAC,Medium
+V01900,Cook-Turner,LATAM,Low
+V02049,"Miller, Luna and Wallace",EMEA,High
+V00251,Moon-White,APAC,High
+V03877,Barnes PLC,EMEA,High
+V04758,Eaton-Wiggins,LATAM,Low
+V00112,"Shields, Cochran and Adams",EMEA,High
+V00417,"Mullen, Brewer and Hernandez",AMER,Low
+V04715,Werner LLC,LATAM,Medium
+V00265,Tran Inc,AMER,Medium
+V01467,Ray Ltd,EMEA,High
+V00151,Salazar-Ball,AMER,Low
+V00579,"Mcmillan, Fischer and Gonzalez",APAC,Low
+V01920,Hoover-Davis,LATAM,Medium
+V01895,"Smith, Zimmerman and Wise",AMER,Medium
+V04997,"Jones, Becker and Daugherty",EMEA,High
+V01148,Mendez Ltd,APAC,Low
+V04810,Fernandez Group,LATAM,Low
+V03556,Bartlett-Murphy,LATAM,Low
+V03107,Delgado-Sullivan,AMER,Low
+V03805,Carlson-Ferguson,APAC,High
+V01199,Brown Ltd,AMER,High
+V04554,Olsen Group,AMER,Medium
+V00629,"Morrison, Hebert and Rogers",LATAM,High
+V00078,Yu Inc,AMER,High
+V01571,"Curry, Perry and Garcia",AMER,Medium
+V03008,"Mata, Martin and Christensen",LATAM,High
+V00931,"Ward, Porter and Bradley",LATAM,Low
+V00659,Bryant-Brown,EMEA,Medium
+V04885,Mckay Inc,APAC,Low
+V04594,Allen-Riggs,AMER,Low
+V02751,"Richardson, Brown and Cruz",APAC,High
+V03966,Garrett-Rodriguez,LATAM,Low
+V02620,Grimes and Sons,AMER,High
+V01542,Quinn-Smith,LATAM,Low
+V04282,Williams-Wang,EMEA,Medium
+V03160,Ramirez Inc,APAC,Medium
+V04167,Stewart LLC,LATAM,Low
+V04126,"Singh, Blackburn and Hernandez",AMER,
+V03137,Porter Group,APAC,High
+V02076,Stephens LLC,LATAM,Low
+V03710,Hays Inc,EMEA,Medium
+V02306,Price Group,AMER,Medium
+V01525,"Wright, Wise and Ramos",EMEA,Medium
+V03436,"Stafford, Campos and Fisher",AMER,Medium
+V00960,Bates-Anderson,APAC,Low
+V00549,"Morgan, Bradshaw and Williams",AMER,Medium
+V03462,"Ruiz, Lowery and Baker",LATAM,High
+V01350,"Hudson, Bennett and Gray",AMER,Medium
+V04797,Gutierrez-Ross,AMER,Low
+V04202,Stevens Group,APAC,High
+V00313,Robinson-Lee,EMEA,High
+V02237,"Hines, Bradford and Jennings",EMEA,Low
+V03299,Barnett-Boyd,AMER,Medium
+V04004,"Green, Schmidt and Carter",APAC,High
+V03134,Rubio PLC,EMEA,Medium
+V03050,Hunt Group,AMER,Medium
+V01315,"Phelps, York and Randolph",AMER,Medium
+V01381,Bell-Ballard,EMEA,Low
+V02261,Reeves Ltd,APAC,High
+V01011,Davis and Sons,EMEA,Low
+V03383,Gomez-Owens,EMEA,Medium
+V01311,Clark-Figueroa,EMEA,Low
+V00501,"Rivera, Martinez and Richardson",AMER,Medium
+V04506,"Price, Davenport and Webster",EMEA,High
+V02398,"Whitney, Lloyd and Liu",AMER,Medium
+V02071,Howard Inc,AMER,Medium
+V04488,Gardner-Warren,LATAM,Medium
+V00637,Wilcox-Robertson,APAC,Medium
+V03149,Oliver Ltd,LATAM,Low
+V03267,Hoffman Group,LATAM,High
+V01723,Mclaughlin and Sons,APAC,Medium
+V04443,Frye Ltd,APAC,Low
+V01132,Arroyo LLC,APAC,Low
+V03118,Benjamin-Porter,AMER,High
+V03468,"Strong, Warner and Cannon",LATAM,High
+V04336,"Jenkins, Gonzalez and Morgan",AMER,Medium
+V01335,"Kennedy, Rowe and Diaz",EMEA,Low
+V00013,Arnold Ltd,EMEA,Medium
+V00383,"Austin, Day and Johnson",LATAM,Low
+V00372,Davis Inc,EMEA,Medium
+V02253,   reynolds and sons  ,EMEA,High
+V01270,Rivera Ltd,EMEA,Low
+V00954,Barnes Inc,LATAM,Low
+V01352,Kaufman-Walker,EMEA,High
+V02517,"Byrd, Mendez and Becker",APAC,High
+V04482,"Avila, Williams and Hunt",LATAM,Medium
+V00947,Vargas-Snyder,EMEA,High
+V03933,"Edwards, Brooks and Grimes",EMEA,
+V02921,   bruce-walters  ,EMEA,Low
+V01656,Lopez PLC,AMER,Low
+V01192,Wilson Ltd,APAC,Low
+V02861,Burns Ltd,EMEA,High
+V03401,"Gonzalez, Jones and Hernandez",LATAM,Medium
+V04565,Michael-Ortega,APAC,Medium
+V04009,Gonzalez-Mata,LATAM,High
+V03128,Mack and Sons,LATAM,Medium
+V04012,Simmons-Shaffer,LATAM,Low
+V02948,Rice and Sons,APAC,
+V01951,Jacobson Ltd,AMER,Medium
+V01545,"Phillips, Terry and Lopez",AMER,Medium
+V00292,Young Ltd,LATAM,Medium
+V01509,White LLC,LATAM,Medium
+V00414,Cook and Sons,EMEA,High
+V00604,Lee-Wright,LATAM,Medium
+V00192,"Wood, Hunter and Peterson",LATAM,
+V00937,Tran Ltd,EMEA,Low
+V01296,Andrews and Sons,APAC,Medium
+V00064,"West, Henderson and Ramirez",APAC,Low
+V00306,Bruce-Gonzalez,APAC,Medium
+V02461,Morgan and Sons,LATAM,Medium
+V03937,Walker-Clark,LATAM,Medium
+V03026,"Rodriguez, Reese and Reyes",AMER,Low
+V03420,"Ellis, Smith and Moore",EMEA,Low
+V03585,Evans LLC,APAC,Medium
+V00042,George Group,APAC,Medium
+V03746,Lee PLC,EMEA,Low
+V00903,Abbott Ltd,LATAM,Medium
+V04040,"Clark, Williams and Gonzales",AMER,Low
+V02062,Baker Ltd,LATAM,High
+V01200,Smith-Oneill,APAC,Medium
+V03951,Quinn Inc,EMEA,Low
+V04206,"Hernandez, Fleming and Jones",APAC,High
+V04189,"Lee, Lopez and Stone",AMER,Medium
+V03251,"Potts, Nielsen and Wright",LATAM,Low
+V00910,"Fisher, Payne and Thompson",APAC,Medium
+V02205,"Mason, Martinez and Beck",LATAM,Low
+V02540,   jones-byrd  ,LATAM,Low
+V00461,Strickland-Shaw,EMEA,Medium
+V02847,"Gonzalez, Curtis and Cox",APAC,Medium
+V03065,"Lindsey, Mccormick and Hensley",LATAM,Low
+V02879,Turner PLC,LATAM,Medium
+V00868,"Stanton, Reid and Terry",EMEA,Medium
+V01156,Bryant-Meyer,EMEA,High
+V00642,Turner-Sharp,APAC,High
+V04242,Bowers-Raymond,LATAM,
+V03935,Thompson-Prince,LATAM,
+V03141,Scott-Kennedy,EMEA,High
+V03359,"Miles, Flowers and Martinez",LATAM,High
+V02658,Perry and Sons,APAC,Medium
+V00191,Reed Group,EMEA,Low
+V01491,Mcdonald-Pitts,AMER,Medium
+V04292,Gonzalez-Holmes,EMEA,Low
+V00892,May Ltd,EMEA,Medium
+V04042,"Olsen, Davis and Thompson",AMER,High
+V04297,Kim-Thomas,AMER,Medium
+V00019,"Adams, Zuniga and Wong",EMEA,High
+V00298,Schmidt PLC,EMEA,Medium
+V04947,"Fisher, Wong and Jimenez",APAC,Low
+V00595,Hernandez-Vaughn,EMEA,High
+V01222,   wilson-malone  ,LATAM,High
+V04918,Lopez-Davis,EMEA,Medium
+V00473,Moody-Taylor,AMER,High
+V03014,Arnold-Jackson,AMER,
+V00225,Jones-Soto,APAC,High
+V01319,"Rios, Garcia and Harvey",LATAM,High
+V03431,Johnson Ltd,APAC,High
+V00582,"Barry, Taylor and Velazquez",APAC,Medium
+V03067,Hernandez-Griffin,LATAM,High
+V02855,Turner-Carlson,AMER,Medium
+V03380,"Murray, White and Patton",EMEA,High
+V01585,"Short, Ellison and Dixon",APAC,Medium
+V04513,"Burgess, Whitaker and Craig",EMEA,High
+V00485,"Butler, Beck and Miller",LATAM,Medium
+V02827,Hood-Porter,AMER,High
+V03785,Evans-Arellano,AMER,Medium
+V01790,Peters-Short,LATAM,Low
+V00272,"Suarez, Shields and Hill",EMEA,Medium
+V04855,"Manning, Hill and Myers",LATAM,
+V02797,Stevenson-Bauer,AMER,Medium
+V02795,Schultz Inc,AMER,High
+V01813,Taylor Inc,LATAM,High
+V01594,Hobbs-Hamilton,APAC,
+V04234,"Brooks, Thompson and Alexander",EMEA,Medium
+V01934,Butler-Aguirre,EMEA,Low
+V02730,Nelson Group,AMER,High
+V01632,"Garcia, Stewart and Delacruz",APAC,Low
+V03493,Wallace LLC,APAC,
+V01868,Decker Inc,APAC,High
+V01444,Long-Parks,APAC,Medium
+V02259,Smith and Sons,APAC,High
+V01567,"Jones, Torres and Blackburn",APAC,Low
+V03127,"Hall, Lewis and Maldonado",LATAM,High
+V02740,Taylor-Harrison,AMER,High
+V02468,Reeves LLC,AMER,High
+V03981,Wood-Torres,AMER,Low
+V03234,Kirk-Durham,AMER,High
+V00156,Hill Inc,LATAM,High
+V04676,Boone LLC,AMER,High
+V01601,"Wagner, Walker and Roberts",EMEA,High
+V00498,Robertson-Hays,APAC,Medium
+V00665,Mitchell and Sons,APAC,Low
+V00763,Smith LLC,AMER,Low
+V01619,"Mcintosh, Melton and Wilkins",LATAM,Low
+V00874,Williams Ltd,AMER,Low
+V00553,May-Turner,LATAM,Low
+V03146,"Anderson, Richardson and Kirk",LATAM,High
+V03668,Davis and Sons,APAC,High
+V04913,Ortega-Murillo,AMER,Low
+V01201,"Saunders, Ray and Cunningham",EMEA,Medium
+V02741,Hendricks Inc,EMEA,Medium
+V01053,Anthony-Parker,APAC,High
+V01861,Blanchard-Reynolds,EMEA,Low
+V00696,Rivera Inc,EMEA,Medium
+V00061,"Brown, Valdez and Lucas",APAC,Medium
+V00129,"Mccall, Hanson and Alvarado",LATAM,Low
+V03747,Daniel Inc,APAC,Medium
+V01907,Moss-Taylor,AMER,High
+V01442,Fox Group,AMER,Medium
+V03213,Jensen Group,AMER,Medium
+V01501,Evans-Cannon,LATAM,High
+V03776,"Valenzuela, Morris and Garcia",APAC,Medium
+V03956,Gonzalez Inc,APAC,High
+V02961,Marsh-Klein,AMER,Medium
+V02760,Martin-Simmons,AMER,High
+V03595,Davis PLC,EMEA,High
+V02241,Richardson-Long,LATAM,High
+V03763,Thompson LLC,EMEA,Low
+V03989,Wall-Johnson,EMEA,Low
+V00746,White LLC,EMEA,High
+V03673,Jenkins-Yang,EMEA,High
+V00435,"Kim, Gonzales and Mills",APAC,High
+V02293,Maldonado-Becker,EMEA,High
+V03572,"Jackson, Jones and Robertson",EMEA,Low
+V01833,Berry-Rivera,EMEA,Low
+V00166,Medina-Navarro,EMEA,Medium
+V04692,Rodriguez-Allen,APAC,High
+V01388,Ortiz-Rodriguez,AMER,Low
+V01988,Schmidt-Phillips,APAC,Low
+V04591,Wells PLC,APAC,Medium
+V02194,Washington-Esparza,LATAM,High
+V04484,Taylor Inc,AMER,Medium
+V04915,Atkinson-Zavala,LATAM,Medium
+V02009,Crawford and Sons,AMER,Medium
+V01971,"Patterson, Salas and Wright",LATAM,Low
+V04529,Evans Inc,APAC,High
+V01574,Pierce PLC,AMER,Medium
+V02596,Wells-Perkins,APAC,Medium
+V02409,"Peterson, Reid and Johnson",LATAM,High
+V04497,Avila-Santiago,AMER,Medium
+V00683,"Holder, Young and Hendricks",APAC,Medium
+V02773,Lamb and Sons,APAC,Medium
+V04782,Mcdonald and Sons,AMER,Medium
+V00532,Conner and Sons,LATAM,Medium
+V00634,Higgins-Smith,AMER,Low
+V01926,Duran PLC,AMER,Low
+V02522,Ward-Blake,LATAM,Medium
+V03192,"Simmons, Dickson and Rogers",LATAM,Low
+V00455,"Lamb, Martin and Kim",LATAM,Medium
+V02098,Williams-Turner,EMEA,Low
+V02828,Hernandez-Campbell,EMEA,Low
+V02264,Galvan-Ruiz,EMEA,High
+V00113,"Rodriguez, Brennan and Garrison",AMER,Medium
+V01748,Peterson Group,APAC,High
+V00434,"Miller, Lucas and Williams",AMER,High
+V04551,"Fernandez, Flores and Fowler",APAC,Medium
+V00459,Mckee-Lee,LATAM,Low
+V04905,"Peck, Wong and Perry",APAC,Low
+V00929,Nelson-Brown,AMER,High
+V04916,"Cox, Jimenez and Rodgers",LATAM,Medium
+V04287,Harding LLC,AMER,Low
+V03115,"Cunningham, Elliott and Tyler",AMER,Low
+V04507,Cook-Murphy,APAC,Medium
+V04643,Crawford-Jones,AMER,Low
+V03193,Ellis LLC,AMER,Medium
+V00564,Wright-Grimes,APAC,High
+V01932,Smith and Sons,AMER,High
+V00015,Williams and Sons,APAC,Low
+V04835,"Allen, Olson and Ortiz",EMEA,Low
+V02141,"Jimenez, Wagner and Daniels",LATAM,Low
+V01818,Hanson-Gibson,APAC,Low
+V02769,"Jordan, Thompson and Lopez",AMER,
+V02165,Hudson-Morris,LATAM,High
+V03657,Glover-Coleman,APAC,Medium
+V04039,Wallace Ltd,LATAM,Low
+V01936,"Nelson, Cole and Allen",APAC,Low
+V00093,"Garcia, Humphrey and Baker",LATAM,Low
+V00489,King-Smith,AMER,Medium
+V04151,   ward ltd  ,EMEA,Low
+V00679,Wheeler Group,EMEA,Low
+V04440,Jones LLC,EMEA,Low
+V01384,George-Stephens,APAC,Low
+V00916,"Herrera, Jensen and Ramirez",AMER,High
+V04318,"Young, Henry and Wright",AMER,Low
+V01793,"Wise, Gray and Snyder",APAC,Low
+V00844,Dunn-Wilson,EMEA,High
+V00316,"Lucas, Parker and Alexander",APAC,High
+V00494,"Marshall, Dominguez and Welch",APAC,High
+V02576,White Inc,APAC,Medium
+V04445,"Montgomery, Carr and George",LATAM,High
+V01494,"Fields, Elliott and Mills",EMEA,Medium
+V04026,Smith LLC,APAC,Low
+V04940,Ray-Blair,AMER,Medium
+V03365,Smith-Williams,APAC,Low
+V03412,Contreras-Haley,LATAM,High
+V02606,Reyes-White,APAC,
+V01167,Wallace-Martinez,AMER,Low
+V02655,"Davis, Lucas and Ellison",APAC,High
+V03860,"Murphy, Price and Spears",LATAM,Low
+V00404,Jones-Hensley,APAC,Low
+V01059,Elliott-Hernandez,AMER,Low
+V02079,Smith PLC,LATAM,High
+V02957,Fisher-Rivera,AMER,Low
+V04951,"Williams, Bolton and Mcgee",APAC,Medium
+V03706,Robles PLC,LATAM,Medium
+V02527,"Coleman, Jones and Wright",AMER,High
+V03713,Hunt Group,APAC,Medium
+V02801,"Lee, Thomas and Meyer",APAC,Low
+V04279,Bennett-Kirby,APAC,High
+V03116,Williams Inc,LATAM,Low
+V00638,Morales Inc,EMEA,Medium
+V01590,"Nguyen, Olson and Freeman",EMEA,Low
+V04669,"   riggs, smith and lopez  ",AMER,High
+V04525,Turner Group,APAC,Medium
+V00430,Ford-Spencer,LATAM,High
+V03069,Moyer-Ramirez,EMEA,Medium
+V04924,"Fischer, Durham and Miller",EMEA,High
+V00187,Sanders-Espinoza,LATAM,Medium
+V01700,"Smith, Khan and Ramirez",APAC,Medium
+V02273,Porter LLC,AMER,Medium
+V03258,"Weiss, Cole and Preston",APAC,Low
+V03121,Russell-Figueroa,APAC,Medium
+V01912,Brown-French,EMEA,Low
+V03370,"Moore, Miller and Nelson",APAC,Medium
+V04910,"   juarez, wilson and cochran  ",EMEA,High
+V00406,Atkins PLC,APAC,High
+V04549,Hoover-Stephens,LATAM,
+V02034,Kemp-Montes,APAC,Medium
+V04138,"Grimes, Allen and Horn",EMEA,Medium
+V03073,Guzman-Fields,AMER,High
+V03678,Fletcher-Robertson,APAC,Low
+V00986,Reyes Group,EMEA,Medium
+V00479,Young-Martinez,EMEA,High
+V03332,Gross-Davis,AMER,High
+V01945,Thompson-Santiago,EMEA,High
+V01220,Castro-Harvey,EMEA,Low
+V00860,"Martinez, Cline and Wright",LATAM,High
+V00055,Jones Inc,AMER,Medium
+V00133,"Bentley, Byrd and Orr",LATAM,Medium
+V03622,Contreras-Henry,LATAM,Low
+V03308,Peterson PLC,LATAM,High
+V03720,"Alexander, Neal and King",LATAM,Low
+V03526,Johnson-Howard,EMEA,Medium
+V00203,Peterson-Beard,EMEA,Medium
+V02476,Adams PLC,LATAM,Low
+V02552,Anderson PLC,APAC,Medium
+V02426,Wiggins-Silva,APAC,Medium
+V03392,Combs-Miller,EMEA,High
+V02256,Johnson LLC,AMER,Low
+V04375,"Parker, Cole and Hamilton",EMEA,Medium
+V02436,Torres-Brooks,LATAM,Medium
+V00431,"Huang, Cole and Pacheco",AMER,Medium
+V03970,Peterson-Mcdaniel,EMEA,Low
+V03628,Larsen-Shields,APAC,Medium
+V04235,Romero Group,LATAM,High
+V03650,Johnson Ltd,LATAM,High
+V04463,"Smith, Kelly and Oliver",APAC,High
+V03848,"Green, Turner and Palmer",AMER,Low
+V00217,Perez-White,AMER,Medium
+V01578,"Jordan, Swanson and Franklin",EMEA,Medium
+V04960,"Thomas, Price and Lopez",LATAM,Medium
+V04794,Richard and Sons,LATAM,Low
+V02991,Ward-Patrick,APAC,Low
+V02923,Johnston Inc,LATAM,High
+V04255,"Webb, Price and Jimenez",EMEA,High
+V00583,Martin-Ewing,LATAM,Medium
+V02035,"Estrada, Marsh and Chandler",APAC,High
+V04365,Byrd-Rangel,LATAM,Medium
+V04085,Murphy LLC,AMER,Medium
+V00018,"Flowers, Martin and Kelly",LATAM,Medium
+V01737,Montes LLC,APAC,Medium
+V02163,"Robertson, Fisher and Smith",AMER,High
+V03048,"Adams, Stephens and Smith",LATAM,Low
+V02504,Wallace and Sons,LATAM,Medium
+V03479,Tran Inc,LATAM,Low
+V00209,Holt-Torres,APAC,Medium
+V01645,Browning-Murphy,AMER,Low
+V02901,Melton and Sons,APAC,High
+V00486,Jones-Fox,APAC,Medium
+V03718,Moses Ltd,EMEA,Low
+V01013,"Harris, Anderson and Love",AMER,High
+V00764,Ward-Nelson,AMER,Low
+V04089,Walters and Sons,EMEA,High
+V03286,Cameron PLC,EMEA,Medium
+V03943,"Johnson, Sims and Crane",AMER,Low
+V01143,Maxwell Group,APAC,Low
+V03071,Saunders LLC,EMEA,High
+V02690,Walker Inc,APAC,High
+V00804,Barton-Chapman,LATAM,High
+V01274,Bowers LLC,EMEA,Medium
+V04273,Watson Group,EMEA,Low
+V04683,Reilly-Gomez,EMEA,Low
+V00660,Chambers-Parker,APAC,Low
+V00374,"Watson, Anderson and Brown",AMER,Medium
+V04127,Thomas-Hill,EMEA,High
+V00180,Howell and Sons,LATAM,Low
+V00413,"Miller, Harrell and Reese",APAC,Medium
+V03345,Chavez-Navarro,AMER,Medium
+V00403,"Hall, Hansen and Barnett",APAC,Low
+V03469,   reed inc  ,AMER,Medium
+V04386,Miller-Cole,EMEA,Low
+V04158,Knapp-Pham,AMER,High
+V03530,Green-Simpson,AMER,Low
+V01064,Armstrong-Young,EMEA,Medium
+V04521,Castillo-Carlson,LATAM,Medium
+V01660,Shaw PLC,AMER,Low
+V00096,Harris-Walters,AMER,Medium
+V02199,Casey-Brown,LATAM,Low
+V04872,"Oneill, Oconnor and Wang",EMEA,Low
+V03283,Hawkins LLC,EMEA,Medium
+V03512,"Robinson, Johnson and Swanson",EMEA,High
+V03923,"Cox, Carter and Duffy",APAC,High
+V04998,Higgins-Walker,AMER,Low
+V04545,Patrick-Forbes,AMER,High
+V00266,Gay Inc,APAC,High
+V02966,"Smith, Cohen and Williams",LATAM,High
+V01849,Larson and Sons,EMEA,High
+V04104,Burch PLC,AMER,Low
+V02060,Davenport-Torres,APAC,
+V02050,Lara-Roberts,APAC,Low
+V01178,"Fitzpatrick, Rivera and Smith",APAC,Medium
+V04982,Hernandez Inc,EMEA,
+V02404,"Ramos, Reed and Cain",EMEA,High
+V02774,Bird-Savage,EMEA,High
+V01382,"Johnston, Coleman and Scott",AMER,Low
+V04334,Thomas-Rodriguez,AMER,
+V01257,"Stevenson, Hancock and Newton",LATAM,Low
+V04768,Stephenson Group,LATAM,Low
+V01758,Hill-Flores,APAC,Low
+V04472,"Schneider, Fisher and Richardson",EMEA,High
+V03511,Livingston-Solomon,APAC,High
+V03988,Bates LLC,APAC,Medium
+V03920,Lyons-Carroll,EMEA,High
+V04829,Wade-Clark,EMEA,
+V00602,Payne-Lowe,EMEA,High
+V04423,Evans-Burns,APAC,High
+V00329,Harvey PLC,LATAM,Medium
+V03847,Sanford-Leon,APAC,High
+V02240,"Serrano, Marsh and Gonzalez",LATAM,Medium
+V00802,"Burgess, Grant and Watts",AMER,Medium
+V03171,Peterson-Mullins,APAC,Medium
+V02020,Hernandez LLC,APAC,Low
+V02509,Conway-Mann,AMER,High
+V02910,"Faulkner, Schmidt and Wheeler",LATAM,High
+V04244,Horne Group,LATAM,
+V00415,Dixon Inc,LATAM,Low
+V00507,"Carter, Garcia and Murphy",APAC,High
+V03140,Davis-White,LATAM,
+V04250,"Hart, Park and Boyd",APAC,Low
+V04236,Howell PLC,EMEA,
+V02633,Weeks and Sons,LATAM,Medium
+V01160,Perez Ltd,EMEA,High
+V03282,"Turner, Stewart and Reed",APAC,High
+V01133,"Davis, Kelly and Garner",AMER,High
+V02831,Shea-Mccarthy,LATAM,Medium
+V02704,"Anderson, Thompson and Gill",APAC,Medium
+V01638,"Hill, Brown and Scott",EMEA,Low
+V00071,Gray Group,APAC,Medium
+V04473,Griffin Group,LATAM,Medium
+V04459,"Henry, Morrison and Macdonald",LATAM,Medium
+V03866,   miller-adkins  ,APAC,Medium
+V01052,Little Inc,LATAM,High
+V01462,Brown LLC,APAC,Medium
+V04823,Moore-Parsons,AMER,Low
+V04916,"Cox, Jimenez and Rodgers",LATAM,Medium
+V04798,"Rivera, Miller and Martin",EMEA,High
+V03024,"Sanford, Thompson and Bonilla",APAC,Medium
+V00032,Carlson-Cruz,AMER,High
+V04616,"Howard, Morales and Calhoun",APAC,Medium
+V03455,"Evans, Wilson and Hall",APAC,Medium
+V01773,"Miranda, Ruiz and Meza",APAC,High
+V04514,"Meyers, Ward and Brown",AMER,Low
+V03239,White Inc,EMEA,Medium
+V01378,Prince Ltd,AMER,Medium
+V00356,Strickland-Palmer,APAC,Medium
+V00618,Love-Garcia,APAC,Medium
+V00453,Harper and Sons,EMEA,Medium
+V00625,Butler and Sons,LATAM,High
+V03938,Ramirez Ltd,AMER,High
+V01550,"Hunter, Gross and Andrade",AMER,Low
+V01834,Yu-Yates,EMEA,Low
+V03027,"Scott, Sims and Munoz",AMER,Medium
+V01718,"Abbott, Green and Andrews",APAC,High
+V02974,Haynes PLC,AMER,Medium
+V01259,"Roberts, Beck and House",AMER,Low
+V04518,Clark-Arroyo,EMEA,Low
+V01260,Butler-French,AMER,High
+V04945,Bartlett-Roberts,LATAM,Medium
+V03325,"Wright, Rodriguez and Wilson",AMER,Medium
+V01114,Stevens-Robinson,EMEA,
+V03540,"Perry, May and Liu",LATAM,High
+V01283,Cruz PLC,AMER,Medium
+V00964,Taylor PLC,APAC,High
+V00515,"Gregory, Kim and Martinez",APAC,High
+V00597,Salas-Fitzgerald,AMER,Medium
+V01531,"Evans, Ward and Williams",EMEA,Low
+V01980,Holland Inc,AMER,High
+V02317,"Moore, Simpson and Soto",AMER,Low
+V02051,"Waller, Coleman and Mosley",APAC,Low
+V01243,"Robinson, Clark and Klein",APAC,Medium
+V02091,"Olsen, Walker and Vincent",APAC,Medium
+V03303,"Miller, Hansen and Salas",LATAM,High
+V00446,"Osborn, Gaines and Davis",EMEA,Medium
+V01691,White Ltd,AMER,High
+V00150,"Schmidt, Hansen and Stewart",APAC,Medium
+V00062,Powell LLC,LATAM,Low
+V04853,Rogers-Garcia,AMER,Medium
+V00851,Clark Ltd,APAC,Medium
+V02618,Bautista-Underwood,EMEA,Low
+V00247,Davis Ltd,APAC,High
+V02369,Young-Hawkins,AMER,High
+V04598,"Norman, Walls and Wallace",APAC,Medium
+V02714,"Johnson, Mclean and George",APAC,Low
+V00330,Herman-Walker,APAC,Low
+V03400,Shaffer PLC,EMEA,High
+V01914,"Contreras, Ellis and Gregory",LATAM,Low
+V01939,"Serrano, Turner and Barnes",AMER,Medium
+V01202,"Marks, Stone and Watts",AMER,Low
+V02555,Hernandez LLC,APAC,Medium
+V03237,"Jones, Mcdaniel and Brooks",EMEA,High
+V01105,Curry-Barker,AMER,Low
+V04407,Thomas-Weaver,EMEA,
+V03508,Lopez-Jordan,EMEA,Low
+V04121,Castillo and Sons,AMER,
+V03618,Mckinney Inc,AMER,Medium
+V04443,Frye Ltd,APAC,Low
+V03492,"Harris, Thornton and Li",AMER,Low
+V01675,Lee Group,AMER,Low
+V04550,Hopkins-Watson,EMEA,Low
+V04846,Best Group,APAC,High
+V02546,Gibson LLC,APAC,Low
+V00314,Byrd-Le,AMER,Low
+V01131,Hardy-Hansen,APAC,Low
+V04355,"Ortiz, Hoffman and Fuller",EMEA,High
+V03984,Gill Group,AMER,High
+V00626,Osborn Group,AMER,Medium
+V01640,Raymond LLC,APAC,Low
+V03208,Nunez-Smith,EMEA,Low
+V02863,Hill-Mcgee,AMER,Medium
+V01439,Vasquez-Galloway,AMER,Low
+V01587,Moore-Baker,EMEA,High
+V04124,Jones-Richmond,APAC,Medium
+V02882,Obrien-Dixon,LATAM,Medium
+V01714,Rose-Warren,LATAM,High
+V03471,Clay Group,EMEA,High
+V01606,   castillo and sons  ,LATAM,Medium
+V02087,Mclean Group,EMEA,Medium
+V00016,Galloway-Wyatt,APAC,High
+V01856,"Hall, Vega and Price",LATAM,Low
+V01615,Hanson-Alexander,EMEA,Low
+V00751,"Rivera, Campos and Taylor",LATAM,Medium
+V02737,"Medina, Tran and Thompson",AMER,Low
+V01880,Hammond-Schwartz,EMEA,High
+V03384,Murray-Gaines,EMEA,Medium
+V00517,Reyes-Bradley,EMEA,Medium
+V02783,Frederick-Kennedy,APAC,Medium
+V03070,Morris and Sons,APAC,Low
+V00416,"Hicks, Bullock and Bailey",LATAM,Medium
+V03101,Ellison-Shaw,EMEA,Medium
+V01302,Reilly-Rodriguez,EMEA,Medium
+V00669,Miller-Brandt,LATAM,Low
+V00693,"Thomas, Ford and Brown",APAC,Low
+V02191,Mcdaniel-Young,LATAM,High
+V01679,Gallegos-Hayes,LATAM,High
+V02012,Rojas-Smith,APAC,High
+V00341,Garcia-Jennings,LATAM,Medium
+V01728,Peterson-Ramsey,AMER,High
+V02287,Brady LLC,LATAM,High
+V01433,Moss LLC,AMER,High
+V03974,Cohen PLC,EMEA,Low
+V01063,Sheppard-Mcdaniel,APAC,High
+V00610,Blevins-Ballard,AMER,High
+V03463,Johnson Group,AMER,High
+V02015,"Buchanan, Tucker and Wade",EMEA,Medium
+V01267,Lopez and Sons,LATAM,Medium
+V02998,"Cooper, Swanson and Mayo",EMEA,High
+V04404,Dennis-Vargas,APAC,High
+V02564,Garcia Inc,EMEA,High
+V04429,Barnes-Johnson,LATAM,High
+V04037,Johnson-Rich,AMER,Low
+V02946,Morales Inc,AMER,Medium
+V02045,"Harding, Kerr and Ward",LATAM,Low
+V01499,Cooper Group,LATAM,
+V00029,"   ross, robinson and bright  ",APAC,High
+V04898,Lewis-Lee,LATAM,High
+V01364,"Mullen, Greene and Elliott",AMER,Low
+V00361,Henry Group,AMER,Medium
+V02548,Watkins and Sons,EMEA,Medium
+V00439,Davis-Gregory,EMEA,Low
+V00104,"Tran, Jordan and Williams",APAC,Medium
+V03381,Davis-Rose,AMER,Low
+V01569,Lee Ltd,APAC,High
+V01229,"Morgan, Sherman and Williams",LATAM,High
+V04396,Brown and Sons,EMEA,Medium
+V03491,"Martinez, Jones and Wright",EMEA,Low
+V00897,Miller Inc,EMEA,Low
+V01717,"Peck, Andersen and Mitchell",AMER,High
+V01802,Carr PLC,LATAM,Medium
+V00592,"Harvey, Randall and Hernandez",APAC,Low
+V03662,"Ferguson, Sanchez and Smith",AMER,High
+V00728,"Arnold, Smith and Moreno",APAC,Low
+V02684,Myers LLC,LATAM,Low
+V01252,Adams and Sons,EMEA,Medium
+V03586,Elliott PLC,LATAM,High
+V00189,Garcia LLC,AMER,Low
+V02972,Gamble-Wright,EMEA,Medium
+V01564,Owen-Brown,AMER,Low
+V01279,"Moreno, Barajas and Colon",AMER,Medium
+V01060,"Contreras, Miller and Cooper",APAC,Medium
+V03089,"Hanna, Watson and Miles",EMEA,Medium
+V02993,"Hill, Silva and Miller",LATAM,High
+V03651,Hess Group,AMER,Low
+V03162,Carroll-Huerta,LATAM,Low
+V03338,Ibarra-Jackson,EMEA,High
+V00920,Collins Group,APAC,Medium
+V04668,Martinez-Bennett,EMEA,Low
+V03078,Rose-Frank,AMER,Medium
+V04579,"Jones, King and Tapia",AMER,Low
+V04166,Bell-Medina,AMER,High
+V03013,Phelps-Phillips,EMEA,Medium
+V02039,Griffin Inc,LATAM,High
+V00048,"Martin, Rose and Obrien",EMEA,High
+V01533,Smith-Bauer,APAC,Medium
+V02930,Klein Ltd,APAC,
+V02181,Burton PLC,AMER,Low
+V03749,"Gonzalez, Wagner and Thompson",AMER,Low
+V03705,Baker Inc,APAC,
+V04689,Sanchez Group,APAC,High
+V00121,   white-estes  ,EMEA,Low
+V04698,Macias Group,EMEA,Low
+V00367,"Le, Lewis and Hayes",EMEA,Medium
+V01438,"Rubio, Charles and Watson",APAC,Medium
+V00282,Hughes-Alvarado,EMEA,High
+V01750,Short PLC,APAC,Medium
+V02569,Lopez-Fritz,LATAM,Low
+V03011,Vargas Inc,LATAM,High
+V03980,Cantu Group,AMER,Low
+V00521,Johnson and Sons,AMER,High
+V03704,Cross LLC,APAC,Low
+V00822,Diaz and Sons,LATAM,
+V00720,"Bernard, Warren and Combs",LATAM,Medium
+V00813,"Marsh, Spears and Yang",AMER,Medium
+V03055,Mcdaniel-Espinoza,LATAM,High
+V03601,"Calhoun, Wilson and Oneal",APAC,High
+V02964,Anderson-Rosario,APAC,Medium
+V04799,Fry-Bates,EMEA,High
+V00122,Johnson-Carlson,AMER,Medium
+V04878,Lucas-Potts,LATAM,Medium
+V01878,King Group,AMER,Low
+V00588,Robles-Swanson,APAC,High
+V02140,"Saunders, Sparks and Harris",LATAM,High
+V00993,Gonzalez-Wilkerson,APAC,High
+V02301,Solis LLC,APAC,Low
+V04074,Collins Group,AMER,High
+V04512,"Fitzpatrick, Harris and Wolf",EMEA,High
+V00221,Garcia-Smith,EMEA,Low
+V00097,Wagner-King,LATAM,Medium
+V04209,Padilla-Bender,AMER,High
+V01747,"Johnson, Webb and Porter",LATAM,Medium
+V01084,"Steele, Williams and Preston",LATAM,Low
+V00227,Miller-Wright,LATAM,Low
+V03921,"Johnson, Taylor and Boyd",EMEA,Low
+V00709,"Harrison, Franco and Rocha",AMER,Low
+V04868,Walker Group,AMER,Medium
+V01904,"Harris, Spencer and Ponce",LATAM,High
+V04019,Berry Group,LATAM,Medium
+V00130,Cortez LLC,APAC,Medium
+V03619,Watts-Austin,APAC,High
+V00469,Brown-Shaw,LATAM,High
+V01629,Alvarado-Durham,AMER,High
+V04159,"Bryant, Macdonald and Howard",LATAM,High
+V04030,"Camacho, Hernandez and Mejia",AMER,
+V02727,"Mcdonald, Martin and Gonzalez",APAC,Medium
+V01175,Decker-Dudley,APAC,High
+V02755,Green Group,LATAM,High
+V02313,Davis-Henderson,APAC,Medium
+V01418,"Jones, Phillips and Arroyo",APAC,Medium
+V01341,Knight PLC,LATAM,Medium
+V02587,Mccall PLC,LATAM,Low
+V03221,Harris-Davis,LATAM,
+V00724,Mann Inc,EMEA,Low
+V02574,Mcclure Ltd,AMER,Medium
+V00285,Garcia-Lozano,EMEA,Low
+V01715,"Clark, Brown and Duncan",EMEA,Medium
+V01322,"Hernandez, Knight and Aguirre",AMER,High
+V00476,Gilbert-Bullock,AMER,
+V02249,Higgins Group,AMER,High
+V00440,King-York,APAC,
+V01360,Mendoza-Garza,APAC,Medium
+V04733,Bradford and Sons,EMEA,Low
+V02002,Harrison PLC,APAC,Medium
+V00572,"Smith, Rodriguez and Anderson",EMEA,Low
+V02294,Brooks-Hickman,LATAM,Low
+V04471,Phillips Inc,EMEA,High
+V04929,"Cook, Figueroa and Taylor",EMEA,Medium
+V02539,Brown-Bishop,EMEA,High
+V04938,Rojas Ltd,AMER,Low
+V00358,"Williams, Logan and Camacho",APAC,High
+V01207,Christian-Booth,AMER,Low
+V00035,"Dyer, Potter and Mack",APAC,Low
+V00072,House-Glover,LATAM,Medium
+V01862,"Garrison, Rogers and Adams",APAC,Medium
+V01411,Gomez-Foster,AMER,Medium
+V04614,Ramirez PLC,AMER,Medium
+V00655,Murphy PLC,APAC,Low
+V01277,Walker-Lewis,AMER,Low
+V01686,Wilson Group,LATAM,Medium
+V04830,Hernandez-Moore,LATAM,Low
+V02610,Garcia Inc,AMER,Low
+V01469,Nunez-Freeman,AMER,Low
+V03739,Ramos Ltd,LATAM,Medium
+V03235,Myers Group,EMEA,Low
+V00932,Moore-Ayala,AMER,Medium
+V01916,Moss Group,LATAM,Medium
+V04808,Castaneda-Garcia,AMER,Medium
+V03707,"Miranda, Rivera and Ingram",AMER,High
+V01331,"Jones, Smith and Hunter",LATAM,High
+V02822,Boone Group,APAC,Low
+V01074,Miller PLC,AMER,Low
+V02036,Morgan-Rodriguez,LATAM,Medium
+V04432,"Whitehead, Hernandez and Shah",APAC,High
+V03635,Ortiz-Armstrong,LATAM,Low
+V02052,Houston PLC,APAC,Medium
+V01420,"Wright, Ramos and Bennett",LATAM,Low
+V02175,Knight PLC,EMEA,Medium
+V00138,"Jackson, Miller and Robertson",AMER,Medium
+V00577,"   becker, wilson and hester  ",LATAM,High
+V01602,Hernandez-Rogers,APAC,
+V03649,Hall Ltd,LATAM,Medium
+V00612,Reed Group,EMEA,Low
+V04955,Rodriguez-Clark,LATAM,High
+V04291,Clements PLC,AMER,Low
+V03142,Hines-Ramos,APAC,Low
+V03951,Quinn Inc,EMEA,Low
+V02444,Harrington-Alvarez,AMER,Medium
+V01830,"Miller, Schultz and Yates",LATAM,Medium
+V02103,Wyatt Ltd,AMER,High
+V00912,Matthews Inc,LATAM,Low
+V02674,Reeves Group,LATAM,Medium
+V00565,Li PLC,LATAM,Medium
+V03771,"Arnold, Paul and Adams",APAC,High
+V03976,Moore-Miranda,LATAM,High
+V02077,"Marsh, Nelson and Wolfe",EMEA,High
+V02821,"Mclaughlin, Collins and Lawrence",EMEA,Medium
+V00376,"Pugh, Henderson and Moon",EMEA,Medium
+V03729,Shaw-Smith,EMEA,Medium
+V04961,"Hodge, Bates and Burns",APAC,High
+V03154,"Davis, Owens and Day",AMER,Medium
+V04486,Compton-Morgan,EMEA,Medium
+V04502,Miles-Perkins,AMER,Low
+V03319,"Miller, Reynolds and Hernandez",LATAM,Low
+V00066,Morton-Chase,EMEA,Low
+V04174,Stout-Graves,LATAM,High
+V02638,Fowler-Torres,APAC,High
+V03610,"Stewart, Skinner and Guerrero",AMER,Medium
+V01094,Nicholson-Robertson,LATAM,High
+V00566,"Edwards, Hines and Jimenez",LATAM,Low
+V02255,Barnes Group,EMEA,High
+V00240,"Walker, Hernandez and Baker",EMEA,High
+V00392,Ware and Sons,AMER,Medium
+V00220,Terry-Martinez,EMEA,Medium
+V02934,Thompson LLC,AMER,High
+V04031,Parker Inc,EMEA,High
+V01809,Graham-Clark,APAC,High
+V01770,"Chang, Lamb and Miller",LATAM,
+V01657,"Adams, Bradley and Hall",LATAM,Low
+V04259,Stevenson-Ferguson,AMER,High
+V01120,"Nguyen, Hill and Douglas",APAC,High
+V00016,Galloway-Wyatt,APAC,High
+V04559,"Hull, Mcgrath and Thomas",LATAM,Low
+V04876,Castro-Murphy,AMER,High
+V01161,Clark Inc,LATAM,Low
+V01026,"Walker, Cunningham and Zuniga",AMER,High
+V02447,"Nguyen, Marsh and Beck",AMER,Medium
+V02488,"Hart, Turner and Foster",LATAM,Low
+V04821,"Copeland, Jones and Salazar",AMER,Low
+V03865,"Faulkner, Welch and Hoffman",APAC,Low
+V04601,"Black, Thompson and Hayes",LATAM,Low
+V01318,"Carpenter, Lynn and Howard",LATAM,Low
+V01829,"Davis, Kennedy and Harmon",LATAM,Medium
+V00123,Chandler-Edwards,LATAM,Low
+V04352,Turner-Lang,AMER,Low
+V01692,Barnes LLC,APAC,Medium
+V01138,Mason Ltd,AMER,High
+V00980,Johnson Inc,APAC,High
+V03124,Willis-Christian,APAC,High
+V01327,Hampton-Tucker,EMEA,Medium
+V00834,Burns and Sons,LATAM,Medium
+V01487,Perez-Rojas,LATAM,Medium
+V00281,Garner-Thornton,EMEA,High
+V00050,"Harris, Collins and Carney",EMEA,Low
+V02723,Jones-Lee,AMER,Low
+V03473,Johnson PLC,EMEA,Low
+V03890,Dougherty-Nguyen,AMER,High
+V01065,Miller-Orr,AMER,High
+V02605,Richardson-Jimenez,LATAM,High
+V00775,Ward and Sons,EMEA,High
+V04620,   grant-woods  ,AMER,High
+V02027,"Mann, Wade and Spence",EMEA,Low
+V01266,Cole-Lucero,APAC,Low
+V03297,Flores and Sons,EMEA,High
+V02349,Mccoy Ltd,AMER,High
+V03110,Morrison-Bradford,AMER,High
+V00580,"Morales, Williams and Williams",LATAM,Low
+V02054,Mcneil-Fox,EMEA,Medium
+V04869,Sanders Group,EMEA,High
+V01062,Randall PLC,AMER,Low
+V02844,Ellis-Martin,EMEA,Low
+V01513,Booker Inc,APAC,High
+V02646,"Barnes, Paul and Price",EMEA,Medium
+V02275,Austin-Juarez,APAC,Medium
+V02475,Johnson-Schultz,APAC,Medium
+V02713,Harris-Bennett,AMER,High
+V03982,"Gomez, Mcgee and Cole",AMER,Medium
+V01304,James-Short,APAC,Low
+V04458,Hanson Inc,EMEA,Medium
+V03615,Gonzalez Inc,APAC,
+V02144,Edwards-Bennett,AMER,Medium
+V00394,"Miller, Ramos and Coleman",AMER,Medium
+V03808,Wood LLC,AMER,High
+V04207,"Hill, King and Mosley",LATAM,High
+V04834,Townsend-Watts,LATAM,Low
+V03904,"Rhodes, Camacho and Cowan",LATAM,Low
+V01001,"Howard, Silva and Hall",AMER,Medium
+V03421,"Foley, Gordon and Bailey",EMEA,Medium
+V02962,Potter-Deleon,EMEA,High
+V00397,Gregory-Watkins,LATAM,Low
+V04694,Griffin-Hall,APAC,High
+V00487,"Hartman, Romero and Smith",LATAM,Medium
+V01780,"Andrews, Romero and Sullivan",LATAM,Medium
+V01021,"Buchanan, Walker and Chapman",AMER,Low
+V04102,Martinez-Bailey,APAC,Medium
+V02803,   robles-turner  ,EMEA,Low
+V01136,Ruiz Ltd,APAC,Medium
+V02110,Nunez-Rodriguez,LATAM,High
+V02415,"Smith, Morgan and Young",EMEA,Low
+V03446,Miller Inc,APAC,Medium
+V03343,Fischer Inc,APAC,Medium
+V02445,"Bass, Anderson and Taylor",APAC,Medium
+V03033,Lopez Group,LATAM,Low
+V04410,Martin Ltd,AMER,Low
+V00208,Davis and Sons,LATAM,
+V00167,"Hurst, Freeman and Nelson",APAC,
+V01004,Gallagher and Sons,AMER,High
+V01592,"Evans, Cross and Johnston",EMEA,High
+V01057,Lopez-Williams,EMEA,High
+V01967,"Whitehead, Lane and Tran",AMER,High
+V01742,Crawford and Sons,LATAM,
+V02244,"Holland, Sims and Meadows",AMER,Low
+V03727,Smith LLC,APAC,High
+V03550,"Hernandez, Farmer and Banks",AMER,High
+V03501,Johnson and Sons,LATAM,High
+V03862,Carson-Hernandez,EMEA,High
+V00337,"Newton, Moore and Perry",EMEA,High
+V03896,Thompson Ltd,APAC,Medium
+V04901,Grant-Ellis,APAC,Medium
+V02226,Welch-Suarez,APAC,High
+V01230,"Monroe, Chapman and Barton",APAC,Low
+V01380,"Moreno, Perez and Lang",APAC,Low
+V03003,"Wilson, Graham and Webb",APAC,Medium
+V04667,Scott Inc,AMER,High
+V04362,Waller Ltd,LATAM,Medium
+V00037,Smith-Bowen,APAC,Medium
+V01591,"Warner, Weiss and Davis",APAC,Medium
+V00184,"Higgins, Strickland and Martin",AMER,Low
+V02531,Pittman-Wright,EMEA,High
+V02935,   palmer inc  ,APAC,Medium
+V03032,White-Lopez,EMEA,High
+V04397,Hardin Inc,LATAM,High
+V02977,Mooney-Hickman,LATAM,High
+V02365,   howell llc  ,EMEA,Low
+V03168,Miller-Russo,EMEA,Low
+V04205,"Santos, Huang and Woods",APAC,Low
+V04996,Mcdonald PLC,APAC,High
+V04564,"Stephens, Stone and Johnston",APAC,Medium
+V02384,Martinez and Sons,AMER,Low
+V03407,Underwood-Maldonado,EMEA,Medium
+V03040,Smith-Serrano,LATAM,High
+V01871,Lee-Johnson,LATAM,Low
+V03825,"Bonilla, Rodriguez and White",APAC,High
+V01326,"Quinn, Humphrey and Ford",LATAM,Low
+V02026,"Martinez, Green and Lopez",LATAM,High
+V02808,Martin LLC,LATAM,Medium
+V00569,Levy-Lewis,LATAM,High
+V00963,Chavez-Hall,EMEA,Low
+V03361,Roberts-Montes,AMER,Medium
+V00624,"Rodgers, Jefferson and Johnson",EMEA,High
+V02572,"Durham, Ward and Hester",AMER,Medium
+V04682,Montgomery PLC,APAC,Low
+V03085,"Bonilla, Durham and Sanchez",AMER,Medium
+V02326,Yang Group,AMER,Medium
+V01575,Sandoval-Ferguson,AMER,Low
+V00379,Moore Group,AMER,High
+V04795,Marshall and Sons,LATAM,Low
+V04575,"Clements, Allen and Sullivan",EMEA,Low
+V03912,Thomas LLC,AMER,
+V04969,Cole Ltd,APAC,High
+V00095,Campbell-Clark,APAC,Low
+V04417,Craig Ltd,APAC,
+V03270,"Shah, Aguirre and Powers",AMER,High
+V04360,Willis LLC,LATAM,High
+V04295,Miller Ltd,AMER,Low
+V04864,Leblanc PLC,APAC,High
+V00497,Blackwell LLC,LATAM,Medium
+V00369,Perry-Davis,LATAM,Low
+V02328,Miller Ltd,EMEA,Low
+V03188,"Ray, Smith and Cervantes",LATAM,High
+V03147,Brooks-Fleming,AMER,High
+V02342,Santos Group,APAC,Medium
+V02135,Garcia Inc,LATAM,Low
+V02115,"Roberts, Bowen and Miller",APAC,High
+V00014,"Mcclure, Ward and Lee",AMER,Medium
+V00020,"Reid, Ferguson and Sanchez",AMER,Low
+V02508,Coffey-Johnson,AMER,High
+V00456,Diaz-Ball,LATAM,High
+V02432,Kennedy-Francis,APAC,Low
+V00981,Orr Group,EMEA,High
+V01858,Roberts Group,AMER,Medium
+V01652,Acosta LLC,AMER,High
+V04466,"Lopez, Bradshaw and Jacobs",LATAM,Medium
+V03047,Moore-Brown,APAC,Medium
+V01195,"Gregory, White and James",AMER,
+V04410,Martin Ltd,AMER,Low
+V01019,Conner-Yu,LATAM,High
+V01544,Washington Group,EMEA,High
+V02126,Morgan PLC,LATAM,Medium
+V04942,Jordan PLC,EMEA,High
+V00075,Novak PLC,EMEA,Medium
+V00085,"Evans, Stewart and Walton",APAC,Low
+V00250,Ruiz Ltd,LATAM,Medium
+V00009,Garcia-James,AMER,Medium
+V00893,Jones PLC,LATAM,Medium
+V04208,Reeves Group,EMEA,Medium
+V00853,Martin-Taylor,LATAM,Low
+V03599,"Simmons, Wallace and Martinez",EMEA,High
+V00007,Blake and Sons,AMER,Low
+V01347,Keith-Williams,EMEA,Medium
+V03698,Wheeler-Jones,LATAM,Low
+V01472,Davidson LLC,EMEA,High
+V04310,Wood-Thomas,APAC,Low
+V03549,Rivas-Johnson,EMEA,High
+V00608,"Hill, Martinez and Rhodes",AMER,High
+V04298,"Hammond, Bates and Gordon",LATAM,Low
+V03846,"Scott, Delgado and Andrade",EMEA,Medium
+V04501,"Johnson, Perez and Henry",LATAM,High
+V04569,"Weiss, Robinson and Bell",APAC,Medium
+V02978,Smith-Gonzalez,LATAM,High
+V03046,Ochoa-Parker,AMER,Low
+V04266,Stafford Ltd,APAC,High
+V04725,Young and Sons,APAC,Low
+V00271,"Thomas, Lee and Greene",LATAM,Low
+V04775,Foster-Williams,APAC,Low
+V00040,"Romero, Gonzalez and Brooks",EMEA,Medium
+V03505,Brown PLC,APAC,High
+V02927,"Jennings, Rhodes and Patel",EMEA,Low
+V04606,"Whitehead, Barton and Williams",APAC,Medium
+V00768,"Davis, George and Nguyen",EMEA,Low
+V01769,Edwards-Roth,APAC,High
+V04822,Brown PLC,APAC,Low
+V01305,Wells PLC,AMER,Low
+V01681,"Payne, Long and Morris",AMER,Medium
+V02162,Murray Group,LATAM,Medium
+V04294,Perez Group,AMER,Low
+V02352,Freeman Group,APAC,Medium
+V04135,"Owens, Richards and Walter",AMER,Medium
+V00481,Brown-Copeland,APAC,High
+V04144,Marquez Group,LATAM,Low
+V02066,George LLC,LATAM,Low
+V00161,Brown-Wall,LATAM,Medium
+V03894,Arnold-Boyer,EMEA,Medium
+V03869,"Bell, Reynolds and Forbes",APAC,Low
+V01840,Washington-Martinez,EMEA,Medium
+V01108,Byrd LLC,APAC,High
+V01791,Parker Group,LATAM,Medium
+V04437,Perez-Tucker,AMER,Medium
+V04526,"Carroll, Moore and Brown",AMER,High
+V02214,Stewart Group,LATAM,Medium
+V01142,Thomas-Huffman,EMEA,Medium
+V00944,Murphy-Tran,EMEA,Medium
+V04013,Decker Inc,APAC,Low
+V01336,Vance PLC,AMER,Medium
+V03218,Gordon Ltd,APAC,High
+V00809,Mueller-Boyd,EMEA,High
+V03415,Li-Hernandez,LATAM,Low
+V00524,"Griffin, Davies and Mitchell",LATAM,Low
+V04783,"Snyder, Miller and Stevens",EMEA,Low
+V02992,"Maxwell, Rice and Watson",LATAM,High
+V03941,Larsen PLC,LATAM,Low
+V02491,"Bernard, Flores and Fleming",APAC,Low
+V01610,Cohen-Johnston,LATAM,High
+V00826,Bruce-Williamson,AMER,Medium
+V03992,Gates-Rodriguez,AMER,High
+V03861,Cooper LLC,LATAM,High
+V03661,Hoffman-Webb,AMER,Medium
+V03148,"Cole, Rich and Esparza",LATAM,Low
+V03375,Orozco LLC,LATAM,Low
+V03823,   munoz group  ,APAC,High
+V02168,"Morgan, Mendez and Cox",LATAM,High
+V03130,West-Anderson,EMEA,Medium
+V02975,"White, Riddle and Garza",AMER,Low
+V03019,Smith LLC,AMER,High
+V04123,"Barnes, Vargas and Wright",LATAM,Low
+V01654,"Peck, Shannon and Mahoney",AMER,Low
+V00207,"Alvarez, Joseph and West",LATAM,High
+V00179,"Williams, Johnson and Wright",APAC,High
+V01232,"Taylor, Porter and Moreno",LATAM,Low
+V03582,Watkins LLC,EMEA,Low
+V00703,Burgess Group,EMEA,High
+V01071,Harris-Carson,AMER,High
+V02389,Soto-Sanchez,LATAM,Low
+V04020,"Santos, Lee and Jones",APAC,High
+V00267,Valentine-Holland,APAC,Low
+V00898,Goodwin PLC,LATAM,Low
+V00726,Williamson Ltd,EMEA,
+V04908,"Meyer, Miranda and Watkins",APAC,High
+V01891,Waters-Smith,APAC,Low
+V00194,Reid-Poole,EMEA,Medium
+V02121,Lutz Group,APAC,High
+V03738,Miller Inc,APAC,High
+V02556,"Cooper, Wood and Smith",LATAM,Low
+V04760,"Arnold, Williams and Jarvis",LATAM,Low
+V04098,"Baker, Casey and Simmons",AMER,
+V00080,"Hensley, Powell and David",EMEA,Medium
+V00482,Carlson-Smith,APAC,High
+V03108,Martin-Pratt,EMEA,Medium
+V03798,"Peters, Rowe and Smith",EMEA,Low
+V04269,Williams Group,AMER,Low
+V01040,Barron and Sons,LATAM,Medium
+V04726,"Marquez, Jones and Garcia",EMEA,High
+V03506,Simpson-Roy,APAC,High
+V03924,Bradley LLC,AMER,Low
+V02092,Watts LLC,AMER,
+V03389,"Rich, Brown and Bruce",AMER,Low
+V02340,Horton and Sons,APAC,Low
+V03315,"Wong, Thomas and Walter",APAC,High
+V03522,"Hill, Adams and King",APAC,Low
+V04623,Francis Group,AMER,Low
+V00745,Lam-Elliott,EMEA,Medium
+V02619,"Smith, Valdez and Hays",EMEA,Medium
+V00905,Adkins LLC,AMER,Medium
+V00871,Adams-Clayton,EMEA,Low
+V00867,"Smith, Schroeder and Oconnor",AMER,Low
+V01077,"Matthews, Harrington and Rodriguez",AMER,High
+V00304,Jones LLC,APAC,High
+V03132,Williams-Marquez,EMEA,High
+V00918,Herrera Group,LATAM,Low
+V02874,Martinez-Anderson,LATAM,
+V02942,"Robertson, Barry and Walls",EMEA,High
+V04925,"Dunn, Ray and Vaughn",APAC,Low
+V02215,Vega-Richmond,EMEA,High
+V04311,Sutton Inc,AMER,Low
+V00198,"Adams, Christian and Rivas",APAC,Medium
+V02459,"Wallace, Roman and Lawson",APAC,Low
+V04583,Harvey-Gillespie,EMEA,Medium
+V04493,"Grant, Williams and Cameron",EMEA,Medium
+V03351,"Mcknight, Howard and Johnson",LATAM,Medium
+V03853,Jacobs and Sons,APAC,Low
+V01070,Henderson Ltd,EMEA,Low
+V01841,York LLC,AMER,
+V00774,Fisher-Washington,APAC,
+V02588,"Lopez, Nichols and Clarke",LATAM,High
+V02893,Klein PLC,LATAM,High
+V03447,"Moyer, Davis and Johnson",AMER,Medium
+V01497,Diaz-Green,EMEA,Medium
+V01706,Martin LLC,APAC,Medium
+V04712,Perez-Richardson,LATAM,Medium
+V03079,"Robinson, Miller and Ward",APAC,Medium
+V01477,Nelson-Wallace,APAC,Medium
+V04716,Hodges Inc,AMER,Medium
+V03655,"Greer, Jacobs and Hernandez",APAC,Medium
+V04359,Kennedy-Woods,LATAM,Medium
+V02225,Evans and Sons,AMER,Low
+V00140,Chambers and Sons,EMEA,High
+V01163,Brooks Ltd,LATAM,Medium
+V00675,Hill Ltd,APAC,High
+V02211,Booker Group,EMEA,High
+V01759,Lambert-Nelson,LATAM,Medium
+V01484,"Brown, Wise and Warren",LATAM,Low
+V02805,Friedman-Olson,LATAM,High
+V04274,Moore PLC,AMER,Low
+V00127,"Mcdaniel, Bentley and Mclaughlin",LATAM,Medium
+V03255,Hamilton-Griffin,LATAM,Medium
+V00761,Moore-Dawson,LATAM,Medium
+V04290,Juarez Group,EMEA,High
+V02954,Martin-Gomez,APAC,Medium
+V01505,"Price, Gray and Baker",AMER,Medium
+V01080,"Chan, Floyd and Dillon",EMEA,High
+V02402,"Bishop, Thomas and Powell",AMER,Medium
+V02471,Williams and Sons,LATAM,Medium
+V01848,Cooper Inc,APAC,High
+V01186,Smith and Sons,LATAM,Medium
+V00441,"Marks, Cook and Aguilar",AMER,Low
+V03335,Cook Group,LATAM,Low
+V02007,Mullen-Jones,APAC,Medium
+V02510,Smith Ltd,EMEA,Medium
+V02104,"Allen, Hudson and Garcia",AMER,Medium
+V03726,"Cowan, Gonzalez and Ward",EMEA,High
+V00052,Walker LLC,AMER,Low
+V03883,Bradshaw and Sons,APAC,High
+V00561,"Rodriguez, Allen and Martinez",EMEA,High
+V01370,Jackson-Jennings,APAC,Medium
+V00909,Peck-Anderson,AMER,Low
+V04276,Becker-Mckinney,AMER,Medium
+V04377,Hopkins-Cook,LATAM,Low
+V03339,Wheeler Group,AMER,
+V02289,Fox PLC,LATAM,High
+V02591,"Blackwell, Clark and Miller",AMER,Medium
+V02080,Watson-Washington,LATAM,Medium
+V00205,Miller Ltd,LATAM,Low
+V00983,Williams Group,LATAM,High
+V01521,Brown Group,LATAM,High
+V01168,Wells-Hernandez,AMER,Medium
+V04061,"Sanford, Harmon and Patrick",APAC,High
+V04284,Walsh Inc,EMEA,Low
+V00620,Russell Group,EMEA,Medium
+V03872,"Anderson, Lawson and Atkinson",APAC,High
+V04173,Smith-Lopez,EMEA,High
+V04949,"King, Anderson and Lopez",LATAM,Low
+V03119,Walton-Swanson,EMEA,High
+V00007,Blake and Sons,AMER,Low
+V00895,Bell-Lewis,AMER,Medium
+V00767,Johnson LLC,EMEA,Low
+V01313,"Thomas, White and Jensen",APAC,Low
+V01407,"Mitchell, Johnson and Greene",LATAM,Medium
+V03699,"   hansen, perez and fuller  ",EMEA,Low
+V00284,"Sanford, Rivera and Garcia",APAC,Low
+V01553,Warren Group,AMER,High
+V04548,"Williams, Cox and George",LATAM,Low
+V03781,Gonzales PLC,LATAM,Medium
+V01772,"Mcdonald, Bryant and Cohen",LATAM,
+V03780,Martin-Payne,AMER,High
+V00213,Stewart Ltd,APAC,High
+V00101,Figueroa PLC,APAC,Low
+V02733,Wagner-Moss,APAC,Medium
+V04661,"Tran, Harris and Ford",EMEA,High
+V04522,"   mathews, wright and jensen  ",LATAM,High
+V04055,Taylor and Sons,LATAM,
+V00785,Diaz-Frederick,LATAM,Medium
+V00491,"Fuller, Ingram and Moss",APAC,Low
+V00246,Navarro-Munoz,APAC,
+V04547,"Crane, Freeman and Hall",LATAM,High
+V03898,Kline and Sons,AMER,High
+V03809,"Morrow, Bishop and Walton",LATAM,Low
+V02777,Brown-Johnson,APAC,
+V04981,"Weeks, Burton and Madden",AMER,Medium
+V04892,"Smith, Sloan and Brock",AMER,Low
+V03353,"Davis, Knapp and Gray",LATAM,Medium
+V04368,Dawson-Rush,LATAM,Low
+V02953,"Cain, Rodriguez and Gonzales",AMER,Medium
+V00575,"   lee, tran and jones  ",EMEA,Low
+V01111,"Owen, Walker and Franklin",EMEA,High
+V03393,   gallegos-santos  ,AMER,Medium
+V03203,"James, Gonzalez and Harrison",EMEA,Medium
+V01937,Bishop Inc,LATAM,Low
+V02747,Cruz PLC,EMEA,Medium
+V00261,Wolf-Harris,EMEA,Medium
+V04650,"Lawrence, Castro and Fleming",APAC,
+V01241,"Tanner, Hunt and Cameron",LATAM,High
+V00460,"Valentine, Joyce and Murray",LATAM,
+V01392,"Olson, Wood and Peters",LATAM,High
+V04774,Davis Group,AMER,High
+V03272,Li-Gonzalez,LATAM,Medium
+V04933,Weaver-Baker,APAC,Medium
+V00099,Williams-Cook,APAC,Medium
+V04342,Sanchez-Rodgers,LATAM,Low
+V00412,Graham Group,LATAM,Low
+V04301,Peterson LLC,EMEA,Medium
+V04674,Edwards-Taylor,EMEA,Low
+V00813,"Marsh, Spears and Yang",AMER,Medium
+V03536,Fernandez-Williams,AMER,Low
+V03135,"Gamble, Davis and Smith",LATAM,High
+V02503,"Terrell, Martinez and Wood",APAC,Low
+V01577,Kirk-Gutierrez,AMER,Medium
+V00291,Brennan-Johnson,APAC,Medium
+V00423,"Downs, Morris and Maddox",APAC,High
+V00884,Rios-Padilla,EMEA,
+V04302,Bell and Sons,APAC,High
+V03435,"Flynn, Garcia and Gilmore",APAC,Medium
+V01413,Dunn Ltd,LATAM,Medium
+V01753,Collins Inc,AMER,Medium
+V02172,Davies-Morales,EMEA,Low
+V04340,"Becker, Hammond and Davidson",APAC,Medium
+V02373,"Perez, Hoffman and Tucker",APAC,High
+V01520,Miller-Christensen,EMEA,High
+V01181,"Jones, Cummings and Conway",EMEA,Medium
+V02446,"Murray, Cole and Cole",APAC,Medium
+V04064,Powell-Brooks,AMER,Medium
+V00641,Young-Molina,APAC,Low
+V03058,Jones-Cook,LATAM,Medium
+V01454,Olsen Ltd,EMEA,Medium
+V01502,Harper-Robles,EMEA,
+V01677,Murray-Henderson,APAC,High
+V03334,"Allen, Edwards and Jones",APAC,Low
+V02096,Williams-Rodriguez,LATAM,Low
+V04631,"Weaver, Lara and Thomas",AMER,Low
+V01238,"Moon, Farmer and Hill",EMEA,High
+V03889,Greene Ltd,EMEA,Low
+V04450,"Hall, Wiggins and Edwards",LATAM,Medium
+V03815,Green Group,APAC,Medium
+V02270,Gordon LLC,APAC,High
+V01182,"Hall, Hinton and Phillips",LATAM,Medium
+V01184,Phelps LLC,APAC,Low
+V00810,Alvarez-Kim,EMEA,Medium
+V02536,Miller Inc,AMER,Low
+V03955,Flores Ltd,EMEA,Medium
+V00488,Williams-Hughes,EMEA,
+V02214,Stewart Group,LATAM,Medium
+V01968,Miller PLC,EMEA,Low
+V03042,Thomas-Burton,APAC,Medium
+V04800,Howe-Brown,LATAM,High
+V01308,"Wong, Bernard and Smith",APAC,Low
+V01763,Andrews-Jackson,APAC,Low
+V00817,Foster-Mclaughlin,EMEA,Low
+V02230,Holloway Ltd,LATAM,Low
+V04803,Wilson-Young,EMEA,High
+V00464,Spencer-Garcia,APAC,High
+V00162,Stein-Silva,APAC,Medium
+V00544,Donovan-Perez,AMER,Low
+V02290,Butler Inc,EMEA,Medium
+V02200,Edwards LLC,LATAM,High
+V00060,Gomez-Jenkins,LATAM,Medium
+V04457,Dixon-Davis,LATAM,Low
+V04430,Kramer Group,EMEA,High
+V03689,Lang Ltd,APAC,Low
+V02918,Cisneros-Meyer,APAC,High
+V00286,Bowen Group,AMER,Medium
+V04639,Goodman and Sons,EMEA,Medium
+V04337,Keller PLC,EMEA,
+V04786,"Kelley, Valenzuela and Harmon",LATAM,Low
+V00556,Moore Group,EMEA,Low
+V04657,Lee-Rogers,AMER,High
+V00324,"Ramsey, Whitney and Coffey",AMER,Low
+V01367,"Haney, Dillon and Jackson",APAC,Medium
+V02167,"Leonard, Rogers and Shaw",APAC,Low
+V04491,Wilson LLC,EMEA,Low
+V01092,"Davis, Alexander and Mcintyre",LATAM,Medium
+V03244,Lee Inc,APAC,Low
+V04811,Michael Ltd,LATAM,Low
+V01527,Boyd and Sons,LATAM,Low
+V00190,"Burke, Martinez and Riggs",AMER,Low
+V03434,   morris-hall  ,LATAM,Medium
+V04200,"Perez, Bailey and Park",AMER,Low
+V01582,Larson-Holmes,LATAM,Medium
+V02860,Wilson Inc,LATAM,Medium
+V00924,"Yang, Wilson and Zimmerman",APAC,High
+V00103,"Mckee, Gardner and Davenport",AMER,High
+V00070,Hancock Inc,APAC,Low
+V01906,"Barker, Tucker and Mcclure",LATAM,Low
+V00773,Thomas-Jackson,LATAM,Low
+V02057,Perry-Peters,AMER,Medium
+V00115,Torres-Pope,LATAM,High
+V03683,Jackson-Pratt,APAC,Medium
+V03891,Jackson Ltd,EMEA,Low
+V02327,Hartman Group,AMER,Medium
+V03316,"Rodriguez, Smith and Murray",AMER,High
+V01757,Flores and Sons,APAC,Low
+V01918,Haynes and Sons,LATAM,High
+V01823,House-Johnston,EMEA,
+V04195,Rubio and Sons,AMER,High
+V02943,"Charles, Brown and Smith",EMEA,Low
+V03631,"Ingram, Green and Stewart",LATAM,Low
+V03850,Berry-Lewis,APAC,Low
+V01684,Holt-Meadows,APAC,High
+V04043,"Ramsey, Martinez and Sherman",EMEA,Medium
+V04524,Vincent LLC,AMER,Medium
+V00533,Johnson-Spencer,LATAM,Medium
+V04283,Alvarado and Sons,APAC,Low
+V04128,Smith-Wilson,AMER,Medium
+V01707,"Guerrero, Graves and Armstrong",LATAM,Medium
+V04946,Jensen Inc,LATAM,Low
+V01664,   schaefer group  ,LATAM,High
+V00288,Morgan-Schwartz,LATAM,High
+V02220,King Group,AMER,High
+V03144,Williams-Trevino,EMEA,High
+V00866,Gibson-Freeman,LATAM,High
+V00982,Davis LLC,AMER,Medium
+V04744,Ballard and Sons,APAC,High
+V00175,Ramirez-Bean,EMEA,Low
+V01611,Powers Group,AMER,Low
+V04590,James Group,EMEA,Medium
+V03716,Mccarthy-Kelly,LATAM,Low
+V01010,Weaver-Thompson,AMER,Low
+V04022,"Hernandez, Rivera and White",EMEA,Medium
+V01113,Coleman-Bennett,APAC,Medium
+V03717,"Stewart, Miller and Jacobs",EMEA,Low
+V04592,Miller Ltd,AMER,High
+V01943,Brown-Rodriguez,EMEA,Medium
+V00917,Miller-Mccall,AMER,Low
+V02873,Smith Group,APAC,Low
+V02621,Cummings and Sons,EMEA,Medium
+V02209,Shaffer-Manning,LATAM,Low
+V03722,"Bailey, Johnson and Diaz",AMER,Low
+V04405,Ramos PLC,LATAM,Medium
+V02280,White Group,APAC,High
+V04143,"Huff, Bird and Miller",LATAM,High
+V01419,"Frye, Walter and Li",AMER,
+V01423,Olson LLC,EMEA,Medium
+V00030,"Snyder, Campos and Callahan",AMER,High
+V02131,Archer-Dixon,EMEA,High
+V03295,Nelson-Jackson,EMEA,Medium
+V04058,Carlson and Sons,AMER,High
+V03428,"White, Erickson and Hunter",APAC,Low
+V00368,Gutierrez Group,LATAM,Low
+V03374,Henderson-Rasmussen,EMEA,Low
+V00178,Walker-Jones,EMEA,
+V01732,Moore-Murray,EMEA,Low
+V02597,"Morse, Silva and Johnson",AMER,Low
+V01884,Sosa-Baker,EMEA,High
+V04603,Simmons-Mcdaniel,EMEA,High
+V00951,"Franco, Wiley and Tapia",LATAM,Medium
+V03714,Ortega-Murphy,LATAM,Medium
+V04962,Kim-King,LATAM,Medium
+V02124,Neal-Madden,AMER,Medium
+V02157,Jenkins-Brown,LATAM,High
+V00840,Miller Inc,AMER,High
+V01471,Welch-Thomas,EMEA,
+V01101,"Sanders, Leblanc and Maldonado",EMEA,High
+V03459,Jones-Johnston,EMEA,High
+V01709,Davis LLC,APAC,Low
+V03439,Alexander LLC,EMEA,Low
+V03987,Cardenas and Sons,EMEA,High
+V01695,Dean LLC,APAC,
+V02164,Chapman-Odom,EMEA,Medium
+V00068,Novak and Sons,EMEA,High
+V01754,"Charles, Wiggins and Cook",AMER,Low
+V04018,Schmidt PLC,EMEA,
+V01109,"   ortiz, smith and deleon  ",EMEA,High
+V00011,Blair PLC,LATAM,Low
+V01548,"Martin, Schmidt and Cole",EMEA,Medium
+V04718,Wright PLC,APAC,Medium
+V01020,"Stewart, Mann and Hoffman",EMEA,Low
+V03059,Mclean-Gillespie,LATAM,Low
+V00352,Guerrero Inc,LATAM,Medium
+V02176,Simmons-Reed,LATAM,High
+V04637,Norman-Johnson,AMER,Low
+V02455,"Todd, Bernard and Boyd",LATAM,Low
+V04387,"Miller, Wade and Flores",LATAM,Low
+V02743,"Brooks, Sullivan and Perry",APAC,High
+V01678,"Ellison, Vaughn and Mckee",LATAM,Medium
+V02649,Moore-Andrews,EMEA,Low
+V03784,Burke-Olson,LATAM,Medium
+V04582,Hughes-Clark,AMER,High
+V04893,Gay and Sons,APAC,Low
+V00628,Mcdowell-Smith,LATAM,Medium
+V03377,Brock-Taylor,APAC,High
+V04724,"Thompson, Kelley and Mcmahon",EMEA,Medium
+V02101,Johnson-Thomas,APAC,Low
+V04532,Martinez Ltd,APAC,Medium
+V03095,"Taylor, Rose and Rush",LATAM,Medium
+V00674,"Gray, Hall and Murray",EMEA,Low
+V04721,Ortiz and Sons,EMEA,High
+V01451,Haynes-Watson,EMEA,High
+V02417,"Wade, Richard and Hall",EMEA,Medium
+V02043,Rhodes-Rosario,LATAM,Medium
+V02811,"Martinez, Taylor and Nichols",AMER,Low
+V00039,Harrell LLC,EMEA,Low
+V03358,Parker-Williams,APAC,High
+V03099,   sanders group  ,EMEA,Medium
+V03456,"Fernandez, Johnson and Nicholson",AMER,High
+V01298,Hamilton-Smith,EMEA,Medium
+V00231,"Branch, Torres and Oliver",APAC,Low
+V03744,"Bowen, Diaz and Smith",EMEA,Medium
+V01489,Johnson Ltd,LATAM,Low
+V03983,Elliott-Farmer,APAC,Low
+V03863,"Porter, Patel and Jackson",LATAM,Medium
+V01966,Clarke Ltd,APAC,High
+V04163,Hansen PLC,EMEA,High
+V01098,Wright Group,EMEA,Medium
+V00349,Schroeder-Kramer,APAC,High
+V03219,"Mueller, Cameron and Burton",APAC,Low
+V02017,Villanueva LLC,AMER,
+V02378,Villegas PLC,EMEA,Low
+V03112,"Rodriguez, Lewis and Smith",EMEA,High
+V00830,Brooks and Sons,AMER,Medium
+V04780,Martin Inc,AMER,
+V02841,"Acosta, Campbell and Leblanc",LATAM,Low
+V02926,"Romero, Cross and Castillo",APAC,High
+V01524,Clayton-Martinez,APAC,High
+V03993,Martin Ltd,APAC,High
+V01962,Harris-Martinez,LATAM,High
+V03077,"Underwood, Cruz and Carpenter",APAC,High
+V03161,"Moore, Harrison and Bowman",EMEA,Low
+V02739,Hart-Castillo,EMEA,Medium
+V00705,Sanders and Sons,EMEA,High
+V02018,Mccormick and Sons,AMER,Low
+V03690,Stone-King,LATAM,
+V02392,"Norton, Cox and Johnson",APAC,Low
+V03005,"Hill, Ponce and Roberts",EMEA,Medium
+V00741,"Mueller, Knight and Hodge",EMEA,High
+V03525,Ford-Gonzales,AMER,Medium
+V02636,Brown-Hughes,APAC,Medium
+V04461,Joseph-Cox,AMER,
+V02736,Blake LLC,AMER,Low
+V00059,   lee-davis  ,LATAM,Low
+V00495,Brown Group,EMEA,Low
+V01983,"Silva, Bray and Ford",AMER,High
+V02894,"Holland, Dixon and Martin",EMEA,Medium
+V01713,Neal LLC,LATAM,Medium
+V02010,"Crane, Johnson and Butler",EMEA,Low
+V03285,"Riggs, Snyder and Davidson",AMER,High
+V04176,"Dominguez, Gonzalez and Davis",AMER,High
+V02857,"Esparza, Lambert and Davis",APAC,Medium
+V01778,Rodriguez-Mendoza,APAC,Medium
+V00647,Richardson-Walker,LATAM,
+V03604,Lara-Garner,EMEA,
+V01146,Johnston and Sons,APAC,Medium
+V03294,Murphy-Salazar,APAC,High
+V03106,"Skinner, Velasquez and Mcdonald",AMER,Medium
+V01685,Higgins Inc,LATAM,High
+V04065,Howell-Johnson,EMEA,High
+V04350,Hanson-Stewart,AMER,Low
+V02812,"Vasquez, Pope and Cook",LATAM,Medium
+V00571,"Khan, Pena and Ruiz",LATAM,Medium
+V03281,Gallegos Group,EMEA,Low
+V01693,"Mack, Griffin and Sims",EMEA,Low
+V03777,Booth-Smith,AMER,High
+V01739,"Ferguson, Martin and Obrien",AMER,High
+V02453,Schneider Inc,APAC,Medium
+V01112,Marquez-Fletcher,EMEA,
+V00500,Kelly-Norman,AMER,Low
+V04778,Simmons PLC,EMEA,High
+V02322,Palmer PLC,LATAM,High
+V00350,"Smith, Garrison and Thomas",AMER,Low
+V01008,"Johnson, Haynes and Meza",APAC,Low
+V04115,Price-Boyd,LATAM,Medium
+V00828,Powers LLC,APAC,High
+V04714,"Newman, George and Patrick",AMER,Medium
+V02688,Fisher Inc,AMER,Low
+V04351,Alvarez-Padilla,LATAM,Low
+V00484,Mendez and Sons,APAC,Medium
+V00347,Jones PLC,EMEA,Medium
+V03495,"Sanchez, Orozco and Flores",LATAM,Medium
+V01994,Wong Ltd,AMER,High
+V00994,"Wright, Mcknight and Stephens",EMEA,High
+V02864,"White, Washington and Newman",APAC,High
+V02582,"Jackson, Rose and Lloyd",AMER,Low
+V01102,Watson PLC,EMEA,Low
+V02519,"Hahn, Williams and Mcmillan",EMEA,High
+V03886,"Solomon, Reyes and Delgado",EMEA,Low
+V01030,"Santiago, Daniel and Rogers",EMEA,Low
+V04364,Jones-Taylor,EMEA,Low
+V02037,Mccullough-Taylor,AMER,Low
+V00086,Smith PLC,LATAM,
+V04566,Singh Ltd,EMEA,Low
+V01976,Schmidt-Mendoza,APAC,High
+V00999,"Robinson, Huang and Osborne",AMER,
+V00996,Castillo-Harrington,APAC,High
+V00164,Smith-Bell,LATAM,High
+V03233,Kline-Davis,EMEA,Medium
+V01037,"Perez, Hayes and Lloyd",APAC,Low
+V01599,Williams Ltd,AMER,Medium
+V02609,"Hunt, Schneider and Hartman",AMER,
+V00098,Davis Group,EMEA,
+V03807,"Johnson, Blackwell and Thompson",LATAM,Low
+V00170,Hooper PLC,LATAM,Low
+V04412,Simmons LLC,EMEA,Medium
+V04134,Massey-Scott,LATAM,Medium
+V02565,Robinson-Smith,EMEA,High
+V00733,Adams-Sanders,LATAM,High
+V03062,"Coleman, Barry and Mcdaniel",LATAM,High
+V01811,"Cruz, Middleton and Larsen",LATAM,Medium
+V01702,Brown LLC,LATAM,Low
+V03465,Taylor PLC,AMER,Low
+V03484,Allen Inc,LATAM,Medium
+V01211,"Gray, Montoya and Miller",AMER,Low
+V02586,"Brooks, Greene and Rowland",LATAM,Medium
+V03035,Roth Ltd,LATAM,Low
+V00385,"Farmer, Dorsey and Bell",LATAM,Low
+V03834,Kelly-Smith,LATAM,
+V03648,Moore LLC,EMEA,Medium
+V00864,Schultz Inc,AMER,
+V01368,Burke-Norton,AMER,High
+V00186,Johnston-Odonnell,LATAM,High
+V00094,Newton and Sons,LATAM,High
+V02758,"Dawson, Cruz and Mccarthy",AMER,Medium
+V02254,"Lewis, Holloway and Acosta",LATAM,Medium
+V00654,"Leach, Harris and Herrera",AMER,High
+V04607,Walker Ltd,APAC,High
+V04028,"Craig, Nguyen and Ellis",EMEA,Low
+V02014,"Newman, Jenkins and Cooper",LATAM,Low
+V04599,"White, Hill and Cunningham",EMEA,Medium
+V00935,Williams LLC,EMEA,Medium
+V04394,Aguilar Group,AMER,Medium
+V03559,"Rosario, Ortiz and Miller",APAC,Medium
+V02800,Navarro LLC,EMEA,High
+V04119,"Barnett, Clark and Quinn",AMER,High
+V04327,Murray-Chavez,APAC,Medium
+V04663,"Wright, George and Schultz",LATAM,Medium
+V00244,Lyons-Bender,LATAM,High
+V01783,Allen-Sanchez,APAC,High
+V04720,Ramirez-Moon,LATAM,Medium
+V00680,"Powers, Brennan and Sanchez",EMEA,High
+V00859,Sellers-Riddle,AMER,Low
+V04288,"Espinoza, Neal and Mitchell",EMEA,Low
+V03205,Odonnell-Newman,APAC,Low
+V04286,White LLC,EMEA,High
+V01310,Medina-Arroyo,APAC,High
+V04067,   moss and sons  ,EMEA,Medium
+V04856,"Chaney, Salazar and Salazar",APAC,High
+V01689,Tate LLC,APAC,Medium
+V02179,Perry LLC,LATAM,Medium
+V00811,"Chavez, Jones and Williams",APAC,Low
+V02693,"Sims, Weber and Villa",APAC,Low
+V02152,Jensen-Gomez,AMER,Medium
+V04604,Gonzalez Group,EMEA,Medium
+V04769,Gallagher-Johnson,EMEA,High
+V02689,Hoover-Frazier,APAC,Medium
+V00118,Rasmussen LLC,AMER,Low
+V03245,"Johnson, Hunt and Hernandez",APAC,Low
+V00672,Avila LLC,AMER,Low
+V03702,Hoffman-May,AMER,Medium
+V01537,Wright Group,AMER,Medium
+V04428,Hernandez-Rojas,LATAM,High
+V04751,"Taylor, Leon and Sanders",EMEA,Medium
+V02452,"Hogan, Zimmerman and Hoffman",EMEA,High
+V01128,Knox-Powers,APAC,Medium
+V00607,Stewart-Bailey,LATAM,
+V04414,"King, Webster and Brown",EMEA,Medium
+V03791,Alvarado Inc,AMER,Low
+V03614,Gross LLC,AMER,High
+V00586,Richardson Ltd,LATAM,Low
+V01176,Warner-Phillips,EMEA,High
+V04963,Ford-Brown,EMEA,Low
+V00421,Marshall-Elliott,LATAM,Low
+V00911,Best-Townsend,APAC,Medium
+V04247,Cochran-Browning,LATAM,Medium
+V01036,Kramer-Lane,EMEA,Low
+V04260,Rasmussen Group,EMEA,Low
+V02856,Delgado Group,LATAM,Low
+V02692,Ochoa LLC,EMEA,High
+V04017,"Jones, Davis and Grant",APAC,Medium
+V03039,"Christensen, Smith and Garcia",APAC,Low
+V04597,Sutton PLC,EMEA,Low
+V04831,Brown Inc,EMEA,Medium
+V03589,Williams Ltd,LATAM,Medium
+V03037,Stout-Waller,EMEA,Medium
+V03751,"Bell, Peterson and Carroll",LATAM,High
+V04753,King-Ross,AMER,
+V04233,Wiggins and Sons,LATAM,Low
+V04216,"Gutierrez, Martin and Lee",APAC,High
+V02269,Carpenter LLC,APAC,High
+V03194,Tran and Sons,EMEA,High
+V04847,Tucker LLC,APAC,
+V01395,Adkins Group,EMEA,High
+V02356,"Brown, Orozco and Butler",EMEA,High
+V02380,Romero and Sons,EMEA,Medium
+V04277,"Collins, Bentley and Valdez",LATAM,High
+V03356,"Thompson, Lozano and Bailey",EMEA,High
+V04427,Ford-Nolan,AMER,Low
+V00697,Boone-Davis,AMER,Low
+V00780,"Mccann, Taylor and Flores",LATAM,Low
+V01342,"Brennan, Thomas and Dennis",AMER,Low
+V02789,Hardy-Barron,AMER,Low
+V01917,"Smith, Meadows and Montgomery",EMEA,Low
+V04353,Lester and Sons,LATAM,High
+V00139,"Harvey, Davis and Crane",LATAM,High
+V01867,"Kaiser, Edwards and Smith",AMER,Low
+V03930,"Smith, Diaz and Romero",LATAM,Medium
+V02788,Smith Ltd,EMEA,Medium
+V04792,Crane LLC,LATAM,Low
+V04361,Richards-White,LATAM,High
+V00396,Reed Inc,EMEA,Low
+V04749,Graham Ltd,APAC,High
+V00303,Santana-Byrd,APAC,Low
+V00238,"Hall, Baker and Moody",APAC,Low
+V00432,"Lopez, Jacobs and Mason",EMEA,High
+V02798,Patterson-Huynh,LATAM,Medium
+V02147,Jordan-Edwards,APAC,Medium
+V03523,"Patrick, Franklin and Martinez",AMER,Medium
+V03081,Grant-Rosario,LATAM,Medium
+V02105,"Hines, Rice and Baldwin",AMER,Low
+V03339,Wheeler Group,AMER,
+V03245,"Johnson, Hunt and Hernandez",APAC,Low
+V01720,"Daniel, Jimenez and Morton",AMER,Low
+V01839,Lamb-Weber,LATAM,Low
+V02543,"   hanson, chavez and marshall  ",LATAM,High
+V00535,Salazar Inc,LATAM,High
+V03257,"Reyes, Gonzalez and Gomez",APAC,Medium
+V00859,Sellers-Riddle,AMER,Low
+V03104,"Lewis, Montgomery and Robinson",EMEA,High
+V03627,"Wilson, Terry and Bush",LATAM,Medium
+V03926,Manning Ltd,EMEA,High
+V00718,Jackson-Cortez,APAC,
+V04068,Williams-Bennett,LATAM,Low
+V03126,Mcclure Inc,LATAM,Medium
+V02288,"Macdonald, Willis and Silva",APAC,Medium
+V02397,Orr Inc,AMER,Medium
+V01541,"Kramer, Sherman and Trujillo",APAC,Low
+V03919,Phillips-Wallace,LATAM,Low
+V03481,Miles-Dunn,APAC,High
+V02919,"Keith, Cervantes and Torres",LATAM,Low
+V00880,Pena LLC,APAC,High
+V04625,Rodriguez Ltd,EMEA,Medium
+V04686,Harris-Jensen,APAC,Low
+V00832,Lopez-Reid,AMER,High
+V00410,Collier-Gillespie,AMER,Low
+V04194,Flores LLC,APAC,Low
+V03954,"Woods, Garcia and Keith",LATAM,Low
+V01855,Turner-Reese,LATAM,Low
+V02683,"Cain, Davidson and Moran",AMER,High
+V01743,Hayes-Sampson,APAC,Medium
+V01758,Hill-Flores,APAC,Low
+V03348,"Cook, Holmes and Beck",AMER,High
+V02505,"Smith, Campbell and Morse",LATAM,High
+V03647,Mason Group,AMER,Medium
+V01002,Garcia Ltd,AMER,Low
+V01488,Sims-Anderson,AMER,High
+V02568,Aguirre-Bennett,AMER,Medium
+V00513,"Sullivan, Palmer and Brady",AMER,High
+V04987,"Ballard, Willis and Fuller",LATAM,High
+V01507,"Aguirre, Cohen and Mitchell",AMER,Medium
+V03562,Frost and Sons,EMEA,Medium
+V04546,Russo Group,AMER,Medium
+V02337,"Li, Jensen and Vazquez",AMER,Medium
+V00079,Jones Inc,AMER,Low
+V01609,Adams Group,LATAM,Medium
+V04110,Ryan-Steele,AMER,High
+V04451,Buchanan-Peters,EMEA,High
+V03932,Schneider-Matthews,APAC,Low
+V01427,Wright-Davis,EMEA,
+V02889,Miller-King,EMEA,Low
+V00560,Anderson-Wood,AMER,High
+V04562,Rowland and Sons,APAC,High
+V01435,"Kelly, Maxwell and Wilson",AMER,Low
+V04383,"Nash, Mueller and Russell",APAC,Medium
+V04146,"Hamilton, Baker and Osborn",APAC,
+V03887,Jenkins-Fields,AMER,Low
+V04203,Garza-Brown,AMER,Medium
+V00307,Castaneda-Rodriguez,EMEA,High
+V03499,Torres PLC,EMEA,Medium
+V01493,"Ryan, Garza and Bryant",EMEA,Low
+V04270,Mccullough Inc,LATAM,High
+V01964,Ellis-Jackson,AMER,Low
+V01647,"Mcbride, Huffman and Parker",AMER,Medium
+V00563,Dougherty-Lin,LATAM,High
+V00682,"Robinson, Shields and Brown",AMER,Medium
+V03452,"Carey, Mason and Kelly",LATAM,Medium
+V01784,Dickson Group,APAC,High
+V04341,"Casey, Gonzalez and Jenkins",EMEA,Low
+V01023,"Phillips, Thompson and Smith",LATAM,Medium
+V01600,Maddox-Mullins,APAC,Low
+V01821,Lane Ltd,APAC,Medium
+V00249,Johnston-Hines,APAC,Medium
+V04828,Roman-Young,EMEA,Low
+V04183,Sanchez and Sons,APAC,Medium
+V04001,Sawyer PLC,EMEA,Low
+V01896,Graham-Anthony,EMEA,Medium
+V02731,Tapia LLC,LATAM,High
+V00301,"Thomas, Murray and King",EMEA,High
+V01665,Newton and Sons,LATAM,High
+V02371,Rhodes-Thompson,AMER,High
+V02130,Kelly-Estrada,LATAM,High
+V01634,"House, Smith and Wright",LATAM,Medium
+V03764,Wolfe-Baker,LATAM,
+V04679,"Henderson, Williams and Keller",APAC,High
+V02460,Chapman-Henry,APAC,Low
+V02920,Meza Group,EMEA,Low
+V00976,Martinez Inc,EMEA,Medium
+V03779,Lopez LLC,EMEA,Low
+V00919,"Walters, Davenport and Becker",EMEA,Low
+V02424,Lewis-Miller,AMER,Low
+V04333,Brooks-Parker,APAC,Low
+V03592,Hill-Gonzales,APAC,Medium
+V02438,Bowers Group,APAC,High
+V01157,"Morgan, Barron and Cowan",EMEA,Medium
+V02922,Blair Inc,AMER,Low
+V01760,Hill Inc,EMEA,Low
+V03000,Anderson Group,LATAM,Low
+V01887,"Vasquez, Thomas and Mack",APAC,Medium
+V03864,   scott-johnson  ,AMER,Low
+V02206,"Herring, Huynh and King",EMEA,High
+V04842,"Levy, Bowers and Huffman",LATAM,Medium
+V03721,Grant Group,APAC,Low
+V00610,Blevins-Ballard,AMER,High
+V02117,"Fitzgerald, Mcdaniel and Randall",AMER,High
+V00760,Marquez Inc,EMEA,High
+V02528,Murphy Inc,AMER,High
+V02976,"Hernandez, Martinez and Morales",AMER,Low
+V00387,"Morales, Thomas and Schultz",EMEA,Medium
+V04335,"Chavez, Conway and Sosa",APAC,Medium
+V00428,Jones-Lin,EMEA,High
+V02753,Dorsey LLC,LATAM,Low
+V00449,Lee-Cooke,LATAM,Low
+V00546,"Huber, Hill and Weber",APAC,Low
+V03676,Fischer Group,EMEA,Low
+V00689,David-Powers,AMER,Low
+V03017,Nelson Inc,AMER,Medium
+V04008,Mcdonald-Murray,EMEA,Low
+V02685,Williams-Smith,EMEA,Medium
+V04116,English-Mcdonald,EMEA,Low
+V00948,Oconnor PLC,AMER,Medium
+V03327,Patel LLC,APAC,Low
+V00831,"Price, Carlson and Andrews",LATAM,Medium
+V02562,"Schwartz, Christian and Knight",APAC,
+V01147,Glover-Chan,EMEA,High
+V02837,Evans-Briggs,AMER,High
+V01396,"Avery, Garcia and Romero",AMER,Medium
+V02501,"Martinez, Stanton and Bennett",APAC,Medium
+V04788,"Lawrence, Fleming and Drake",EMEA,Low
+V01483,Brown Group,AMER,Low
+V04979,Pacheco-Todd,LATAM,Medium
+V02661,Hale-Williams,APAC,Low
+V04540,Gutierrez-Dudley,APAC,High
+V02632,Nguyen-Johnson,EMEA,Medium
+V02630,Morgan-Barnes,LATAM,Low
+V04553,Lucero-Saunders,AMER,High
+V02839,Rogers-Gregory,APAC,Low
+V02019,Watson-Roberts,APAC,Low
+V04470,"Cardenas, Smith and Green",APAC,Low
+V04392,Sharp Ltd,APAC,Low
+V02218,"Johnson, Stevenson and Lindsey",EMEA,Medium
+V03487,"Wright, Brown and Brown",LATAM,Medium
+V01287,Flores Inc,LATAM,Low
+V04053,"Schneider, Price and Ruiz",AMER,Medium
+V03796,Young and Sons,APAC,Medium
+V01173,Campbell Inc,EMEA,
+V01941,Montgomery PLC,EMEA,Low
+V03870,Potter LLC,APAC,Low
+V00557,Marshall-Peterson,AMER,Low
+V00749,Hickman-Evans,AMER,
+V01515,Martinez-Gonzales,LATAM,
+V01047,"Fernandez, Guerrero and Evans",APAC,Medium
+V03231,"Camacho, Rodriguez and Ho",AMER,High
+V02041,"Fox, Harrington and Wang",APAC,Medium
+V00028,"Hoffman, Baker and Richards",AMER,Medium
+V00462,Burch-Montoya,LATAM,High
+V01362,"Vargas, Taylor and Hunt",AMER,Medium
+V00833,"Ellison, Arias and Thompson",LATAM,Medium
+V01788,"Caldwell, Stevenson and Joseph",EMEA,Low
+V02849,Clements-Simmons,LATAM,High
+V02729,Ray-Faulkner,EMEA,High
+V02355,Henderson LLC,EMEA,
+V01124,"Johnson, Jimenez and Phillips",EMEA,High
+V00671,"Long, Anderson and Irwin",APAC,Medium
+V04007,Burgess-Lewis,EMEA,High
+V00051,"Brooks, Lam and Hayes",LATAM,Medium
+V02561,Neal-Holden,AMER,Low
+V01846,Green Ltd,LATAM,Medium
+V04378,Anderson PLC,APAC,High
+V01899,Martinez-Nichols,APAC,Medium
+V00790,Fuentes Group,AMER,Low
+V01399,Brock and Sons,APAC,Medium
+V02673,Jones-Kelley,LATAM,Medium
+V03581,"Hendricks, Zuniga and Miller",APAC,Low
+V01826,Nixon-Miller,EMEA,Low
+V04888,"Marshall, Martinez and Contreras",LATAM,Low
+V02668,Jones Ltd,LATAM,Low
+V02364,"Delgado, Ward and Kennedy",APAC,Low
+V04434,Hernandez-Rogers,AMER,Low
+V02487,"Pittman, Campbell and Martin",EMEA,High
+V03186,Horton-Schroeder,EMEA,High
+V03936,Barnett Inc,EMEA,Low
+V02518,Smith-Simmons,APAC,Low
+V04088,Petty Inc,EMEA,Medium
+V02119,Lopez-Jones,LATAM,High
+V00241,Jones and Sons,APAC,Low
+V03602,Baker-Lin,LATAM,Low
+V02416,"Zhang, Cunningham and Kline",EMEA,Low
+V01766,"Williams, Reyes and Miller",EMEA,Low
+V01933,Mann PLC,APAC,Low
+V02718,"Hess, Christensen and Perez",APAC,Medium
+V00065,Baxter Inc,EMEA,Low
+V01024,"Fry, Myers and Gamble",APAC,Low
+V01482,Jackson Inc,AMER,Medium
+V01510,Walsh PLC,EMEA,Medium
+V01461,Ross Ltd,APAC,Low
+V03486,"Bradley, Ritter and Smith",APAC,Medium
+V02584,Andrade and Sons,AMER,
+V01122,Trujillo PLC,APAC,Medium
+V03914,Douglas-Thomas,EMEA,Medium
+V03574,Terry-Allen,EMEA,Medium
+V02820,"Richardson, Castaneda and Finley",EMEA,
+V02651,"Stevens, Harris and Ritter",APAC,Medium
+V00958,"Miller, Davis and Anderson",AMER,High
+V01033,Williams Group,AMER,
+V01162,"Wagner, Martinez and Dawson",APAC,Medium
+V03096,Jenkins-Rogers,APAC,High
+V00317,"Diaz, Anderson and Browning",EMEA,Low
+V02465,White Inc,APAC,High
+V01351,"Valdez, Houston and Black",APAC,Medium
+V03066,Strickland and Sons,LATAM,High
+V03284,Salazar-Long,EMEA,Medium
+V04577,Johnson Inc,APAC,Low
+V03457,Nielsen-King,AMER,Low
+V02810,Wade-Lynn,APAC,High
+V02247,Burke-Hernandez,EMEA,Medium
+V03965,"Wright, Hill and Hoffman",AMER,Low
+V03223,   johnson ltd  ,EMEA,Low
+V00355,"Fisher, Wilson and Brown",EMEA,Medium
+V04625,Rodriguez Ltd,EMEA,Medium
+V01078,Hernandez PLC,AMER,Low
+V02065,"Sanchez, Wilson and Ramirez",LATAM,Medium
+V02483,"Hayes, Smith and Marshall",LATAM,Medium
+V02422,Poole-Miller,AMER,Medium
+V02224,Turner-Mayer,EMEA,High
+V01892,Hernandez-Bowman,LATAM,High
+V00390,Moore-Collins,AMER,Medium
+V01007,Drake-Wolfe,EMEA,Low
+V03051,Smith and Sons,EMEA,Medium
+V03504,Ramirez-Cruz,AMER,Medium
+V01672,Bryant-Rich,LATAM,Medium
+V00926,"Logan, Le and Jackson",EMEA,High
+V00256,"Johnson, Miller and King",EMEA,High
+V00287,"Booker, Jones and Harrington",APAC,Low
+V03396,"Richards, Dixon and Love",AMER,High
+V01328,Thompson PLC,EMEA,Medium
+V03868,"Mcdonald, Moore and Richards",AMER,High
+V04349,Parker Inc,EMEA,Low
+V00970,"Terry, Williams and Huff",LATAM,Medium
+V00160,Russell-Daniels,APAC,High
+V03931,"Sullivan, Montgomery and Jackson",EMEA,High
+V04118,   jones ltd  ,EMEA,High
+V00425,Welch-Hogan,EMEA,Medium
+V04666,"Nelson, Carroll and Medina",EMEA,Medium
+V03677,"Porter, Chung and Young",EMEA,Low
+V03539,Hudson-Calderon,AMER,Medium
+V02411,"Henderson, Wagner and Dennis",EMEA,Medium
+V04435,Crawford and Sons,EMEA,Low
+V03591,"Edwards, Reed and Martin",LATAM,Low
+V01570,Hudson and Sons,AMER,Medium
+V04632,Hodge and Sons,AMER,Low
+V02139,Wolf Ltd,LATAM,Low
+V04571,Bowman Group,LATAM,Low
+V00796,"Woodard, Herrera and Little",AMER,Low
+V02399,Barnes-Blackwell,AMER,High
+V03174,Sheppard Group,EMEA,Medium
+V02929,Bartlett Ltd,APAC,High
+V00142,Riggs PLC,LATAM,Low
+V01666,Jones Group,AMER,Low
+V02916,"Franklin, Mann and White",APAC,Low
+V04887,Morgan-Mason,LATAM,Low
+V04852,Dawson-Mcbride,EMEA,Medium
+V00835,Edwards Group,AMER,Low
+V03304,"Holland, Foley and Neal",APAC,Medium
+V03198,Banks PLC,LATAM,Low
+V02826,Stewart-Cabrera,EMEA,High
+V00377,Schmitt PLC,LATAM,Low
+V01744,Warren and Sons,EMEA,Medium
+V00006,"Gardner, Robinson and Lawrence",EMEA,Medium
+V00388,Davis PLC,EMEA,High
+V00105,Nolan-Flynn,LATAM,High
+V03036,"Lopez, Thomas and Simmons",LATAM,
+V03663,Luna-Bean,AMER,Medium
+V01224,"Brandt, Carter and Boyd",LATAM,Low
+V00120,"Rivera, Johnson and Wiley",EMEA,High
+V01938,"White, Porter and Clements",EMEA,Medium
+V03408,"Williamson, Reynolds and Fields",LATAM,Medium
+V02848,"Garcia, Floyd and Garrison",APAC,Low
+V00512,"Whitney, Gould and Jones",AMER,Medium
+V00869,Flynn Group,EMEA,Medium
+V02146,"Dalton, Turner and Mccarthy",EMEA,Medium
+V03881,Perez-Powell,APAC,Medium
+V04875,"Tran, Chan and Wyatt",APAC,Low
+V01942,"Robinson, Townsend and Hopkins",AMER,Low
+V04515,"Hall, Zamora and Bridges",LATAM,Low
+V04431,"Hernandez, Diaz and Hamilton",LATAM,Medium
+V02500,"Johnson, Collier and Powers",LATAM,High
+V03953,Perez PLC,EMEA,Low
+V02703,"Nguyen, Mccoy and Price",EMEA,High
+V00338,Bass PLC,AMER,Low
+V01557,Russo and Sons,LATAM,Medium
+V04552,Thompson-Morales,EMEA,
+V04696,Hernandez-Beasley,AMER,
+V04421,Acosta-Flores,LATAM,Medium
+V04558,Preston LLC,EMEA,Medium
+V00005,"Guzman, Hoffman and Baldwin",EMEA,High
+V01815,Proctor-Taylor,EMEA,Medium
+V00856,Werner-Carter,APAC,Medium
+V04261,Bell PLC,APAC,High
+V02938,Decker Inc,APAC,High
+V02070,"Brown, Flores and Johns",LATAM,Medium
+V04380,James-Conway,APAC,High
+V02217,Underwood-Smith,APAC,Low
+V01468,"Ryan, Krause and Mitchell",EMEA,Medium
+V04460,"Adams, Cole and Waters",LATAM,Medium
+V00149,Bryant Group,AMER,High
+V00502,Paul-Kline,APAC,
+V04931,Rodriguez Group,LATAM,High
+V04530,   turner llc  ,EMEA,High
+V02375,"Adams, Hernandez and Vaughn",LATAM,Low
+V03279,Johnson-Ferguson,EMEA,Medium
+V03250,"Phillips, Mcgee and Simpson",AMER,Low
+V00321,Coffey-Phillips,LATAM,High
+V03758,Hood-May,LATAM,Medium
+V01144,Welch-Thompson,LATAM,High
+V03265,Flores Inc,APAC,
+V01344,Brown LLC,APAC,Low
+V00258,"Bryan, Smith and Booth",APAC,High
+V00969,Aguirre LLC,AMER,High
+V01401,Baker LLC,LATAM,Low
+V02677,"Garcia, Phillips and Nichols",EMEA,High
+V00082,Sandoval-Cunningham,LATAM,Medium
+V03232,Rodriguez LLC,LATAM,Low
+V04217,"Ayala, Mayo and Houston",LATAM,Medium
+V01366,"Nicholson, Valentine and Robinson",LATAM,Low
+V04956,Thomas Ltd,APAC,Low
+V00081,"Sanchez, Wheeler and Harvey",APAC,Low
+V02589,Wright-Soto,EMEA,High
+V02376,"Munoz, Garcia and Williams",LATAM,Medium
+V02173,Weber Inc,AMER,Medium
+V00230,Kerr-Evans,EMEA,Medium
+V04373,"Strong, Johnson and Flores",AMER,High
+V04787,"Ortega, Rose and Contreras",APAC,High
+V02400,"Spencer, Torres and Newton",APAC,High
+V03120,Park Inc,LATAM,Low
+V00876,Alexander Inc,LATAM,Medium
+V03327,Patel LLC,APAC,Low
+V04395,"Marks, Hartman and Rodriguez",EMEA,Medium
+V04764,"Nelson, Johnson and Robinson",LATAM,Low
+V03266,"Murphy, Marshall and Pope",LATAM,Low
+V01690,"Savage, Huffman and Martin",EMEA,Medium
+V02813,Huynh PLC,LATAM,Medium
+V04252,Carter Ltd,AMER,Medium
+V03755,Wang Inc,EMEA,High
+V02368,Leon Group,EMEA,Medium
+V01987,Cruz Ltd,APAC,Medium
+V03786,Hines PLC,EMEA,Medium
+V03367,Torres-Jordan,EMEA,High
+V00922,Wilson-Salazar,AMER,High
+V02477,"Garcia, Hines and Pearson",EMEA,Medium
+V04130,"Ruiz, Guerrero and Evans",LATAM,Medium
+V04983,Mack-Carrillo,EMEA,High
+V01586,"Howe, Moore and Johnson",EMEA,High
+V04171,Bell-Shaffer,LATAM,Low
+V00617,"Perez, Hall and Garcia",LATAM,Medium
+V02260,Mccann-Sanders,LATAM,High
+V03323,Wheeler PLC,EMEA,Low
+V02329,Edwards-Ramsey,APAC,High
+V04678,Bowers Ltd,APAC,Medium
+V02884,Thomas and Sons,EMEA,Medium
+V04581,Wolfe LLC,AMER,High
+V02089,Preston-Harper,LATAM,Medium
+V04080,"Davis, Powell and Eaton",EMEA,Low
+V02515,"Foley, Ibarra and Daniel",LATAM,High
+V03747,Daniel Inc,APAC,Medium
+V04877,"Douglas, Smith and Jordan",EMEA,Low
+V04533,"Farley, Mcguire and Beard",LATAM,Low
+V00032,Carlson-Cruz,AMER,High
+V04608,"Bruce, Perez and Wallace",APAC,Medium
+V00177,Curry Inc,APAC,Low
+V03969,Chambers-Davis,EMEA,Low
+V03247,Taylor-Miller,LATAM,Low
+V04703,"Vega, Jackson and Powell",AMER,Medium
+V03588,Flores-White,APAC,Medium
+V00516,Osborne LLC,APAC,Medium
+V02495,Smith-Holt,AMER,Low
+V04836,"Barnett, Powers and Daniel",LATAM,Low
+V03466,"Rivera, Todd and Gaines",EMEA,Low
+V03376,"Collins, Elliott and Shelton",APAC,High
+V01170,Bates LLC,APAC,High
+V03893,Paul Ltd,APAC,High
+V02197,Clarke-Ramirez,EMEA,High
+V03646,Fischer PLC,AMER,Low
+V00185,Rodriguez-Johnson,APAC,Low
+V04980,"Velazquez, Foley and Andrews",AMER,High
+V04746,Wilson-Strong,LATAM,Low
+V01119,Rogers LLC,AMER,High
+V02441,Smith-Kelley,EMEA,High
+V03641,"Brown, Williams and Clark",EMEA,High
+V00074,"Stanley, Tucker and Lee",AMER,Low
+V03565,Ortiz PLC,EMEA,Low
+V02236,"Miller, Moore and Black",EMEA,Low
+V04935,Jackson-Wong,EMEA,Medium
+V01832,"Osborne, Harrison and Hunt",LATAM,Medium
+V02672,Santiago-Marshall,AMER,Low
+V02814,Schneider Group,EMEA,High
+V01332,Hess PLC,LATAM,High
+V04633,   woods inc  ,EMEA,Medium
+V04860,Mitchell Inc,LATAM,
+V04156,Caldwell-Johnson,AMER,High
+V01451,Haynes-Watson,EMEA,High
+V02524,Stewart-Myers,LATAM,High
+V01673,Stone Group,LATAM,Low
+V03672,Brown Group,LATAM,Medium
+V02652,Brown-Ross,LATAM,High
+V01134,Fisher-Eaton,AMER,High
+V00772,"James, Taylor and Turner",AMER,Low
+V04709,Marquez-Johnson,AMER,Low
+V02900,Blankenship-Strickland,LATAM,Low
+V00381,"Richardson, Farmer and Andrews",EMEA,High
+V01400,Frost-Graham,APAC,Medium
+V03150,Figueroa and Sons,APAC,High
+V04374,Williams and Sons,AMER,High
+V03271,"Stafford, Fisher and Avila",EMEA,Medium
+V03020,"Jacobs, Wood and Miller",LATAM,Low
+V03088,Bennett Inc,AMER,Low
+V03202,Walker Group,APAC,Low
+V01235,Holt and Sons,AMER,High
+V00137,"Lewis, Kennedy and Santana",EMEA,Medium
+V01460,King-Garrison,EMEA,Medium
+V04076,Krueger-Barnett,LATAM,High
+V02867,"Lopez, Hess and Smith",APAC,Medium
+V02449,Weaver-Rubio,LATAM,Medium
+V04433,Davis Group,APAC,High
+V02024,"Conway, Bauer and Martin",AMER,Medium
+V04369,Gomez Group,APAC,Low
+V04748,   freeman-christensen  ,AMER,High
+V03433,Porter Ltd,AMER,Low
+V04862,Wells Group,EMEA,Medium
+V02887,Pierce LLC,LATAM,High
+V00907,Cruz-Allen,EMEA,High
+V04122,Myers and Sons,APAC,Low
+V03774,"Welch, Alvarez and Mcdonald",APAC,High
+V00957,Haynes-Watson,LATAM,
+V03357,Myers-Butler,AMER,Low
+V03643,"Perez, Solis and Lozano",EMEA,High
+V04971,Martin-Walker,AMER,High
+V03827,"Miller, Smith and Vaughan",AMER,Medium
+V01044,"Martin, Preston and Moore",APAC,Medium
+V00779,Alexander-Jordan,EMEA,High
+V00615,Gilbert PLC,EMEA,High

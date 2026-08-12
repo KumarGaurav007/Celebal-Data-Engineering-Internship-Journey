@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/Azure-Data%20Factory-0078D4?logo=microsoftazure&logoColor=white" alt="Azure">
-    <img src="https://img.shields.io/badge/Spark-3.x-E25A1C?logo=apachespark&logoColor=white" alt="Spark">
+    <img src="https://img.shields.io/badge/Spark-4.x-E25A1C?logo=apachespark&logoColor=white" alt="Spark">
     <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
     <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
   </p>
@@ -35,9 +35,9 @@
 
 This repository documents my **complete internship journey** — a progressive curriculum covering the entire data engineering stack:
 
-> **Python & Pandas** → **SQL Fundamentals** → **Advanced SQL** → **Azure Cloud** → **Apache Spark** → **Databricks** → **Final Project**
+> **Python & Pandas** → **SQL Fundamentals** → **Advanced SQL** → **Azure Cloud** → **Apache Spark** → **Databricks** → **Final Project – Procurement Analytics**
 
-Each week builds on the previous, starting from foundational data manipulation and moving into cloud infrastructure, big data processing, and finally a capstone project.
+Each week builds on the previous, starting from foundational data manipulation and moving into cloud infrastructure, big data processing, and finally a capstone project that ties everything together.
 
 ---
 
@@ -277,6 +277,34 @@ CSV File → Blob Storage → Linked Service → Source Dataset
 
 </details>
 
+<details open>
+<summary><strong>🏆 Final Project — Procurement Analytics</strong> <code>Medallion Architecture with PySpark</code></summary>
+<br>
+
+| Aspect | Details |
+|--------|---------|
+| **Topic** | End-to-end Medallion Architecture pipeline (Bronze → Silver → Gold) |
+| **Compute** | Apache Spark (PySpark) 4.2.0 · Pandas · Jupyter |
+| **Datasets** | 4 procurement tables — vendors, orders, invoices, contracts (5,000–5,100 rows each) |
+| **Notebooks** | [`00-Project-Setup`](Final-Project-Procurement-Analytics/00-Project-Setup.ipynb) → [`05-PowerBI-Export`](Final-Project-Procurement-Analytics/05-PowerBI-Export.ipynb) |
+| **README** | [`Final Project README`](Final-Project-Procurement-Analytics/README.md) |
+
+**Pipeline Stages:**
+
+| Stage | What It Does |
+|-------|--------------|
+| 🥉 Bronze | Raw ingestion + `ingestion_timestamp`, full traceability |
+| 🥈 Silver | Cleaning, deduplication & timestamp standardization |
+| 🕘 SCD Type 2 | Contract history tracking (4,897 active · 103 historical versions) |
+| 🥇 Gold | 5 business datasets — vendor spend, price variance, vendor risk, region & monthly spend |
+| 📊 Export | Power BI-ready CSV validation & dashboard recommendations |
+
+**Key Insights:** Top vendor spend = *Price-Dominguez ($25.6M)* · AMER region leads at *$1.62B* · peak monthly spend ≈ *$302.8M* (Jul 2025).
+
+🛠️ **Tech:** PySpark · Pandas · SCD Type 2 · Medallion Architecture · Power BI
+
+</details>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -284,9 +312,10 @@ CSV File → Blob Storage → Linked Service → Source Dataset
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Standard-4479A1?logo=mysql&logoColor=white) |
-| **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?logo=numpy&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-3.x-E25A1C?logo=apachespark&logoColor=white) |
+| **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?logo=numpy&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-4.2-E25A1C?logo=apachespark&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white) |
 | **Cloud** | ![Azure](https://img.shields.io/badge/Azure-Data%20Factory%20%7C%20Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white) |
+| **BI / Reporting** | ![Power BI](https://img.shields.io/badge/Power%20BI-Ready-F2C811?logo=powerbi&logoColor=black) |
 | **Tools & Notebooks** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) |
 | **Libraries** | SQLAlchemy · PyMySQL · ipython-sql · JupySQL · findspark |
 
@@ -338,10 +367,15 @@ CSV File → Blob Storage → Linked Service → Source Dataset
 │   ├── superstore_cleaned.csv
 │   └── README.md
 │
-└── 📁 Week-08-ECommerce-Analytics/     # Final project — order analytics pipeline
-    ├── DB-Setup.ipynb
-    ├── Section-A to Section-F notebooks
-    ├── data/ · reports/ · ecommerce.db
+├── 📁 Week-08-ECommerce-Analytics/     # Order analytics pipeline
+│   ├── DB-Setup.ipynb
+│   ├── Section-A to Section-F notebooks
+│   ├── data/ · reports/ · ecommerce.db
+│   └── README.md
+│
+└── 📁 Final-Project-Procurement-Analytics/   # 🏆 Capstone — Medallion Architecture
+    ├── 00-Project-Setup.ipynb → 05-PowerBI-Export.ipynb
+    ├── data/ · output/{bronze,silver,gold}/
     └── README.md
 ```
 
@@ -378,6 +412,7 @@ Week 5 ████████████████████████ 
 Week 6 ████████████████████████ 100%  ✅ PySpark Architecture & Components
 Week 7 ████████████████████████ 100%  ✅ Python & Pandas Data Cleaning
 Week 8 ████████████████████████ 100%  ✅ E-Commerce Order Analytics
+Final   ████████████████████████ 100%  ✅ Procurement Analytics (Medallion)
 ```
 
 ---
